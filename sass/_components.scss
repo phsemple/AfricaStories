@@ -1,0 +1,140 @@
+@use "variables" as var;
+
+#title {
+    font-size: 3rem;
+}
+
+#level {
+    font-size: 1.75rem;
+}
+
+/* **************
+   MENU START   */
+.menu {
+
+    border-top: 2px solid var.$color-story-text;
+    border-bottom: 2px solid var.$color-story-text;
+
+    &-label {
+        font-size: 2rem;
+        margin-right: 1rem;
+    }
+
+    &-field {
+        height: 3rem; /* Sets the height */
+        font-size: 1.6rem; /* Sets the font size */
+        color: #333; /* Sets the text color */
+        background-color: #f0f0f0; /* Sets the background color */
+        border: 1px solid #ccc; /* Sets the border */
+        border-radius: 0.5rem; /* Optional: Adds rounded corners */
+        padding: 5px; /* Adds inner spacing */
+    }
+
+}
+
+
+#autoplay {
+    vertical-align: middle; /* Aligns the text to the checkbox */
+    width: 1.75rem;
+    margin-bottom: 1rem;  // now we nudge the checkbox into position.
+    margin-left: -1rem;
+    margin-top: .5rem;
+}
+
+/* Style options */
+option {
+    font-size: 1.6rem; /* Font size for options */
+    color: #333; /* Text color for options */
+    background-color: #ffffff; /* Background color for options */
+
+}
+/*
+    MENU END     
+**************/
+
+
+/* **************
+   STORY START  */
+
+.story-wrapper {
+    border-left: 1px solid var.$color-story-text;
+    border-right: 1px solid var.$color-story-text;
+    border-bottom: 1px solid var.$color-story-text;
+    
+}
+
+#picture {
+    border-right: 1px solid var.$color-story-text;
+    width: 52.95rem;   // 5 * 10.667rem
+    height: 47.25rem;  // 7 * 6.75rem
+}
+
+#storytext
+{
+    font-size: 2.5rem;
+    padding: 0 2rem;
+}
+
+/*
+   STORY END     
+**************/
+
+/* *****************
+   CONTROLS START  */
+
+#play {
+    display: block; /* Show the play button initially */
+}
+
+#pause {
+    display:none; /* hide the pause button */
+}
+
+/*
+   CONTROLS END     
+*******************/
+
+/* *****************
+   PAGING START  */
+
+#previous,
+#next {
+    width: 3rem;
+    height: 3rem;
+    margin-top: 1.75rem;
+    margin-bottom: 1rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+
+}
+
+.paging-num,.paging-ellipse  {
+    font-size: 2rem;
+    padding-top: 2rem;
+}
+/*
+   PAGING END     
+*******************/
+
+/******************
+  FOOTER START
+*/
+
+
+
+.footer__credits--label {
+    font-size: 1.75rem;
+    font-weight: bold;
+    justify-self: end;
+}
+
+.footer__credits--field {
+    font-size: 1.75rem;
+    font-weight: 500;
+    margin-left: 1.75rem;
+    justify-self: start;
+}
+
+/*
+    FOOTER END
+*******************/
