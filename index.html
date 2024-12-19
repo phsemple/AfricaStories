@@ -19,40 +19,41 @@
 
         <form action="#" class="menu">
 
-        <div class="item-wrapper">
-            <label for="language" class="language-label menu-label">Language:</label>
-            <select name="lanuage" id="language" class="menu-field">
-                <option value="Swahili" selected>Swahili</option>
-                <option value="English">English</option>
-            </select>
-        </div>
-        
-        <div class="item-wrapper">
-            <label for="autoplay" class="autoplay-label menu-label">Autoplay</label>
-            <input type="checkbox" id="autoplay" class="menu-field" checked>
-        </div>
-        
-        <div class="item-wrapper">
-            <label for="rate" class="rate-label menu-label">Playback Rate:</label>
-            <select name="rate" id="rate" class="menu-field">
-                <option value="1.25">1.25</option>
-                <option value="1.20">1.20</option>
-                <option value="1.15" selected>1.15</option>
-                <option value="1.10">1.10</option>
-                <option value="1.05">1.05</option>
-                <option value="1.00" selected>Normal 1.00</option>
-                <option value="0.95">0.95</option>
-                <option value="0.90">0.90</option>
-                <option value="0.85">0.85</option>
-                <option value="0.80">0.80</option>
-                <option value="0.75">0.75</option>
-            </select>
-        </div>
+            <div class="item-wrapper">
+                <label for="language" class="language-label menu-label">Language:</label>
+                <select name="lanuage" id="language" class="menu-field">
+                    <option value="Swahili" selected>Swahili</option>
+                    <option value="English">English</option>
+                </select>
+            </div>
+
+            <div class="item-wrapper">
+                <label for="autoplay" class="autoplay-label menu-label">Autoplay</label>
+                <input type="checkbox" id="autoplay" class="menu-field" checked>
+            </div>
+
+            <div class="item-wrapper">
+                <label for="rate" class="rate-label menu-label">Playback Rate:</label>
+                <select name="rate" id="rate" class="menu-field">
+                    <option value="1.25">1.25</option>
+                    <option value="1.20">1.20</option>
+                    <option value="1.15" selected>1.15</option>
+                    <option value="1.10">1.10</option>
+                    <option value="1.05">1.05</option>
+                    <option value="1.00" selected>Normal 1.00</option>
+                    <option value="0.95">0.95</option>
+                    <option value="0.90">0.90</option>
+                    <option value="0.85">0.85</option>
+                    <option value="0.80">0.80</option>
+                    <option value="0.75">0.75</option>
+                </select>
+            </div>
         </form>
 
         <div class="story-wrapper">
             <img src="/public/images/0262/0262_00.jpg" alt="" id="picture">
-            <div id="storytext">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi illum reprehenderit aspernatur repellendus?
+            <div id="storytext">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi illum reprehenderit
+                aspernatur repellendus?
             </div>
         </div>
 
@@ -63,19 +64,19 @@
                     <img src="/public/images/panel//Play.png" id="play" class="control-play"></img>
                     <img src="/public/images/panel//Pause.png" id="pause" class="control-pause]"></img>
                 </div>
-                <img src="/public/images/panel/Forward2.png" id="forward" class="control-forward"></img> 
+                <img src="/public/images/panel/Forward2.png" id="forward" class="control-forward"></img>
             </div>
 
             <div class="paging">
-                <img src="/public/images/paging/previous.png" alt="Previous page" id="previous" class="paging-previous">
-                <div class="paging--1 paging-num" active>1</div>
-                <div class="paging--2 paging-num">2</div>
-                <div class="paging--3 paging-num">3</div>
+                <button disabled class="paging-button" id="previous">&lt;&lt;</button>
+                <div class="paging--1 paging-num" active>4</div>
+                <div class="paging--2 paging-num selected">6</div>
+                <div class="paging--3 paging-num">5</div>
                 <div class="paging--4 paging-num">4</div>
                 <div class="paging--5 paging-num">5</div>
                 <div class="paging-ellipse">. . .</div>
                 <div class="paging--count paging-num">12</div>
-                <img src="/public/images/paging/next.png" alt="Next page" id="next" class="paging-next">
+                <button class="paging-button" id="next">&gt;&gt;</button>
             </div>
         </div>
 
@@ -88,25 +89,28 @@
                 <div class="footer__credits--label">Writer:</div>
                 <div id="writer" class="footer__credits--writtenby footer__credits--field">Fred Smith, Carl Jung</div>
             </div>
-            
+
             <div class="credits-wrapper">
                 <div class="footer__credits--label">Reader:</div>
                 <div id="reader" class="footer__credits--readby footer__credits--field">Alice B Toklas</div>
             </div>
-            
+
             <div class="credits-wrapper">
                 <div class="footer__credits--label">Translator:</div>
                 <div id="translator" class="footer__credits--translatedby footer__credits--field">Barney the Owl</div>
             </div>
-            
+
             <div class="credits-wrapper">
                 <div class="footer__credits--label">Illustrator:</div>
-                <div id="illustrator" class="footer__credits--illustratedby footer__credits--field">Carlos Castaneda</div>
+                <div id="illustrator" class="footer__credits--illustratedby footer__credits--field">Carlos Castaneda
+                </div>
             </div>
 
         </div>
-        
+
     </footer>
+
+    <script type="module" src="public/scripts/storyPage.js"></script>
 
 </body>
 

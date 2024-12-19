@@ -222,19 +222,35 @@ option {
 *******************/
 /* *****************
    PAGING START  */
+.paging-num.selected {
+  transform: scale(1.25);
+  color: black;
+}
+
 #previous,
 #next {
-  width: 3rem;
-  height: 3rem;
-  margin-top: 1.75rem;
-  margin-bottom: 1rem;
-  margin-left: 3rem;
-  margin-right: 3rem;
+  background-color: transparent;
+  border: none;
+  font-size: 2rem;
+  color: rdgb(3, 3, 3);
+  height: 6.75rem;
+  padding: 0 2rem;
+}
+
+#previous:hover,
+#next:hover {
+  transform: scale(1.25);
+}
+
+#previous[disabled],
+#next[disabled] {
+  transform: scale(1);
 }
 
 .paging-num, .paging-ellipse {
   font-size: 2rem;
   padding-top: 2rem;
+  color: grey;
 }
 
 /*

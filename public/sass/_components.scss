@@ -97,21 +97,38 @@ option {
 /* *****************
    PAGING START  */
 
-#previous,
-#next {
-    width: 3rem;
-    height: 3rem;
-    margin-top: 1.75rem;
-    margin-bottom: 1rem;
-    margin-left: 3rem;
-    margin-right: 3rem;
-
+.paging-num.selected {
+    transform: scale(1.25);
+    color: black;
 }
 
+#previous,
+#next {
+    background-color: transparent;
+    border:none;
+    font-size: 2rem;
+    color: rdgb(3,3,3);
+    height: var.$cell-height;
+    padding: 0 2rem;
+}
+
+// wink if hovered
+#previous:hover,
+#next:hover {
+    transform: scale(1.25);
+}
+
+// don't transform if disabled.
+#previous[disabled],
+#next[disabled] {
+    transform: scale(1);
+}
 .paging-num,.paging-ellipse  {
     font-size: 2rem;
     padding-top: 2rem;
+    color: grey;
 }
+
 /*
    PAGING END     
 *******************/

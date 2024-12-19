@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "devserver": "live-server",
-    "watch:sass": "sass --watch sass/main.scss:public/styles/style.css",
+    "watch:sass": "sass --watch ./public/sass/main.scss:public/styles/style.css",
     "start": "npm-run-all --parallel watch:sass devserver "
   },
   "author": "Patrick Harley Semple",

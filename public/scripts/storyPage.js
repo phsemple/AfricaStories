@@ -1,3 +1,4 @@
+import PagingHandler from './pagingHandler.js';
 
 /* 
     This will be run by the load of the page. We will need to create a
@@ -7,65 +8,28 @@
     See the fetchTest and mainFetch.js for ideas.
 */
 
-let storyData = null;  // the json data
-let storyInstance = null; // the Story class instance
-
- document.addEventListener("DOMContentLoaded", async () => {
-    const storyID = document.querySelector('#storyid').innerText;
-    await fetchStory(storyID); // fetch the story data from server
-
-   });
-    
-async function fetchStory(storyId) {
-    // Construct the URL with the story ID as a parameter
-    //const url = `/fetch-story/${storyId}`;// Using a URL path parameter
-
-    const url = `/public/script/${storyId}.json`;
-    
-
-    // Perform the fetch request
-    fetch(url)
-      .then(response => {
-        if (!response.ok) {
-          throw new Error('Network response was not ok ' + response.statusText);
-        }
-        return response.json();
-      })
-      .then(data => {
-          storyData = data; // storyData is module variable
-          console.log('Story Data: ', storyData);
-          getStoryInstance(); // use storyData to create the Story instance
-        // You can also update the UI with the fetched data here
-      })
-      .catch(error => {
-        console.error('There has been a problem with your fetch operation:', error);
-    });
-}
-
-// The story instance isn't available until we can build the
-// Story class instance. If it isn't build yet, we will build it.
-// This is used by the HTML events to get the storyInstance.
-function getStoryInstance(){
-    if (storyInstance === null){
-        storyInstance = new Story(storyData);
-    }
-    return storyInstance;
-}
 
 
-class Story {
+
+export default class Story {
+
+    static PagingHandler = null; // class instance
+
     constructor(storyData) {
-        this.storyID = document.querySelector('#storyid').innerText;
+    
         this.storyArray = storyData; // this is our story with the array of pages.
         
+        const story = storyData.stories[0];
+        this.storyID = story.id; /* TODO: We got to here tonight */
         this.languageIndex = 0; // 0 for primary language, 1 for secondary language
         this.currentLanguage = this.storyArray.stories[this.languageIndex].languagename;
         this.primaryLanguage = this.storyArray.stories[0].languagename;
         this.secondaryLanguage = this.storyArray.stories[1].languagename;
         
-        this.currentPage = 1;  // we skip the title page and go to the first page
-        this.pages = this.storyArray.stories[this.languageIndex].pages;  // points to the active lang pages.
-        this.togglePrevNextButtons(); // disable the previous button at first page
+        if (!Story.PagingHandler) {
+            // initialize the pagehandling with the page array length.
+            Story.PagingHandler = new PagingHandler(story.pages.length - 1);
+        }
 
         this.playing = false;  // track if the text is playing.
         
@@ -101,28 +65,14 @@ class Story {
         }
     }
 
-    // disable the next or previous buttons if we are at the first or last page
-    togglePrevNextButtons() {
-        const nextButton = document.querySelector('#next');
-        const prevButton = document.querySelector('#previous');
-        this.isFirstPage() ? prevButton.disabled = true : prevButton.disabled = false;
-        this.isLastPage() ? nextButton.disabled = true : nextButton.disabled = false;
-    }
-
-    isLastPage(){
-        return this.currentPage === this.pages.length - 1;
-        }
-    
-    isFirstPage(){
-        return this.currentPage === 1;
-    }
+ 
     
     switchLanguage() {
         
         this.stopPlaying();
         
         // Get the dropdown element
-        const dropdown = document.getElementById('language-dropdown');
+        const dropdown = document.getElementById('language');
         const selectedText = dropdown.options[dropdown.selectedIndex].text;
         const selectedValue = dropdown.value;
 
@@ -141,101 +91,117 @@ class Story {
 
     }
 
-        // Initial fields that don't change when the page changes, then draw the rest of the page.
-        drawInitialPage() {
+    // Initial fields that don't change when the page changes, then draw the rest of the page.
+    drawInitialPage() {
 
-            const level = document.querySelector('#level');
-            const illustrator = document.querySelector('#illustratedBy');
-            const author = document.querySelector('#writtenBy');
-            const translator = document.querySelector('#translatedBy');
-            const reader = document.querySelector('#readBy');
-            
-            level.innerText = "Level " + this.storyArray.stories[this.languageIndex].level;
-            illustrator.innerText =  this.storyArray.stories[this.languageIndex].illustrator;
-            author.innerText =   this.storyArray.stories[this.languageIndex].writtenby;
-            translator.innerText =  this.storyArray.stories[this.languageIndex].translator;
-            reader.innerText =  this.storyArray.stories[this.languageIndex].readby;
-
-            // Mark the selection in the dropdown and display the selected value in the paragraph
-            const langCode = this.storyArray.stories[this.languageIndex].language;
-            document.getElementById('language-dropdown').value = langCode;
-            // document.getElementById('selectedLanguage').textContent = `Selected Language: ${this.currentLanguage} (${langCode})`;
-
-            this.drawLangPage();
-            this.drawPage();
-        }
+        const level = document.querySelector('#level');
+        const illustrator = document.querySelector('#illustrator');
+        const author = document.querySelector('#writer');
+        const translator = document.querySelector('#translator');
+        const reader = document.querySelector('#reader');
         
-        // fields oustide of the page that change when the language changes
-        drawLangPage() {
-            const title = document.querySelector('#title');
-            title.innerText = this.storyArray.stories[this.languageIndex].title;
-        }
-        
-        
-            // We set the new page values into the DOM when the page or the language changes
-        drawPage() {
-            const image = document.querySelector('#image');
-            const storytext = document.querySelector('#storytext');
-            const audio = document.querySelector('#audio');
-            const pagenum = document.querySelector('#pagenum');
-                
-            const page = this.pages[this.currentPage];
-            pagenum.innerText = "Page " + page.pagenum + " of " + (this.pages.length - 1); // we don't count the title page
-            image.src = page.image;
-            audio.src = page.audio;
-            storytext.innerText = page.text;
-        }
-        
-        /* we toggle visibility on both the button and the image. We decide based on 
-           the this.playing boolean, since toggling on hidden/visible causes problems
-           if button is pushed at the wrong time. */
-        togglePlayPause() {
-            const playbutton = document.getElementById('playbutton');
-            const playImg = playbutton.querySelector('img')
-            const pausebutton = document.getElementById('pausebutton');
-            const pauseImg = pausebutton.querySelector('img')
-            
-            if (this.playing) {
-                playbutton.classList.remove('visible');
-                playbutton.classList.add('hidden');
-                pausebutton.classList.remove('hidden');
-                pausebutton.classList.add('visible');
+        level.innerText = "Level " + this.storyArray.stories[this.languageIndex].level;
+        illustrator.innerText =  this.storyArray.stories[this.languageIndex].illustrator;
+        author.innerText =   this.storyArray.stories[this.languageIndex].writtenby;
+        translator.innerText =  this.storyArray.stories[this.languageIndex].translator;
+        reader.innerText =  this.storyArray.stories[this.languageIndex].readby;
 
-                playImg.classList.remove('visible');
-                playImg.classList.add('hidden');
-                pauseImg.classList.remove('hidden');
-                pauseImg.classList.add('visible');
-            } else {
-                playbutton.classList.remove('hidden');
-                playbutton.classList.add('visible');
-                pausebutton.classList.remove('visible');
-                pausebutton.classList.add('hidden');
+        // Mark the selection in the dropdown and display the selected value in the paragraph
+        const langCode = this.storyArray.stories[this.languageIndex].language;
+        document.getElementById('language').value = langCode;
+        // document.getElementById('selectedLanguage').textContent = `Selected Language: ${this.currentLanguage} (${langCode})`;
 
-                playImg.classList.remove('hidden');
-                playImg.classList.add('visible');
-                pauseImg.classList.remove('visible');
-                pauseImg.classList.add('hidden');
-            }
-        }
-
-        playpause() {
-            const p = document.getElementById('audio');
-            if (p.paused) {
-                p.play();
-                this.playing = true;
-            } else {
-                p.pause();
-                this.playing = false;
-            }
-            this.togglePlayPause();
-        }
+        this.drawLangPage();
+        this.drawPage();
+    }
     
-        /* toggle the playpause when onended is triggered */
-        pageEnded()
-        {   
-            this.playing = false;
-            this.togglePlayPause();
+    // fields oustide of the page that change when the language changes
+    drawLangPage() {
+        const title = document.querySelector('#title');
+        title.innerText = this.storyArray.stories[this.languageIndex].title;
+    }
+    
+    
+        // We set the new page values into the DOM when the page or the language changes
+    drawPage() {
+        const image = document.querySelector('#picture');
+        const storytext = document.querySelector('#storytext');
+        const audio = document.querySelector('#audio');
+        const pagenum = document.querySelector('#pagenum');
+            
+        const page = this.pages[this.currentPage];
+        pagenum.innerText = "Page " + page.pagenum + " of " + (this.pages.length - 1); // we don't count the title page
+        image.src = page.image;
+        audio.src = page.audio;
+        storytext.innerText = page.text;
+    }
+    
+    /* we toggle visibility on both the button and the image. We decide based on 
+        the this.playing boolean, since toggling on hidden/visible causes problems
+        if button is pushed at the wrong time. */
+    togglePlayPause() {
+        const playbutton = document.getElementById('play');
+        const playImg = playbutton.querySelector('img')
+        const pausebutton = document.getElementById('pause');
+        const pauseImg = pausebutton.querySelector('img')
+        
+        if (this.playing) {
+            playbutton.classList.remove('visible');
+            playbutton.classList.add('hidden');
+            pausebutton.classList.remove('hidden');
+            pausebutton.classList.add('visible');
+
+            playImg.classList.remove('visible');
+            playImg.classList.add('hidden');
+            pauseImg.classList.remove('hidden');
+            pauseImg.classList.add('visible');
+        } else {
+            playbutton.classList.remove('hidden');
+            playbutton.classList.add('visible');
+            pausebutton.classList.remove('visible');
+            pausebutton.classList.add('hidden');
+
+            playImg.classList.remove('hidden');
+            playImg.classList.add('visible');
+            pauseImg.classList.remove('visible');
+            pauseImg.classList.add('hidden');
         }
+    }
+
+    playpause() {
+        const p = document.getElementById('audio');
+        if (p.paused) {
+            p.play();
+            this.playing = true;
+        } else {
+            p.pause();
+            this.playing = false;
+        }
+        this.togglePlayPause();
+    }
+
+    /* toggle the playpause when onended is triggered */
+    pageEnded()
+    {   
+        this.playing = false;
+        this.togglePlayPause();
+    }
+
+    autoPlay() {
+        const autoplay = document.getElementById('autoplay');
+    }
+
+    forward()
+    {
+        const forwardbutton = document.getElementById('forward');
+        const forwardImg = forwardbutton.querySelector('img')
+    }
+
+    back()
+    {
+        const backbutton = document.getElementById('back');
+        const backImg = backbutton.querySelector('img')
+    }
 
 } /* END Story Class */
 
