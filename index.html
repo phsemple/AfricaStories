@@ -21,15 +21,15 @@
 
             <div class="item-wrapper">
                 <label for="language" class="language-label menu-label">Language:</label>
-                <select name="lanuage" id="language" class="menu-field">
-                    <option value="Swahili" selected>Swahili</option>
-                    <option value="English">English</option>
+                <select name="language" id="language" class="menu-field">
+                    <option value="SW" selected>Swahili</option>
+                    <option value="EN">English</option>
                 </select>
             </div>
 
             <div class="item-wrapper">
                 <label for="autoplay" class="autoplay-label menu-label">Autoplay</label>
-                <input type="checkbox" id="autoplay" class="menu-field" checked>
+                <input type="checkbox" id="autoplay" class="menu-field" >
             </div>
 
             <div class="item-wrapper">
@@ -37,7 +37,7 @@
                 <select name="rate" id="rate" class="menu-field">
                     <option value="1.25">1.25</option>
                     <option value="1.20">1.20</option>
-                    <option value="1.15" selected>1.15</option>
+                    <option value="1.15">1.15</option>
                     <option value="1.10">1.10</option>
                     <option value="1.05">1.05</option>
                     <option value="1.00" selected>Normal 1.00</option>
@@ -59,23 +59,24 @@
 
         <div class="wrapper-controls-paging">
             <div class="controls">
+                <audio id="audio" type="audio/mp3" src="/public/audio/sw/0001/0001_sw_01.mp3">
+                    Your browser does not support the audio element.
+                </audio>
                 <img src="/public/images/panel/Back2.png" id="back" class="control-back"></img>
                 <div class="wrapper-playpause">
-                    <img src="/public/images/panel//Play.png" id="play" class="control-play"></img>
-                    <img src="/public/images/panel//Pause.png" id="pause" class="control-pause]"></img>
+                    <button id="playbutton" class='visible'>
+                        <img src="/public/images/panel//Play.png" id="play" class="control-play visible"></img>
+                    </button>
+                    <button id="pausebutton" class='hidden'>
+                        <img src="/public/images/panel//Pause.png" id="pause" class="control-pause hidden"></img>
+                    </button>
                 </div>
                 <img src="/public/images/panel/Forward2.png" id="forward" class="control-forward"></img>
             </div>
 
             <div class="paging">
-                <button disabled class="paging-button" id="previous">&lt;&lt;</button>
-                <div class="paging--1 paging-num" active>4</div>
-                <div class="paging--2 paging-num selected">6</div>
-                <div class="paging--3 paging-num">5</div>
-                <div class="paging--4 paging-num">4</div>
-                <div class="paging--5 paging-num">5</div>
-                <div class="paging-ellipse">. . .</div>
-                <div class="paging--count paging-num">12</div>
+                <button class="paging-button" id="previous">&lt;&lt;</button>
+                <div id="page-text">Page <span id="page-num">4</span> of <span id="page-count">12</span></div>
                 <button class="paging-button" id="next">&gt;&gt;</button>
             </div>
         </div>
@@ -110,7 +111,7 @@
 
     </footer>
 
-    <script type="module" src="public/scripts/storyPage.js"></script>
+    <script type="module" src="public/scripts/main.js"></script>
 
 </body>
 

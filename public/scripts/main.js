@@ -1,44 +1,50 @@
 
-import Story from './storyPage.js';
+// import Story from './storyPage.js';
+import DataHandler from "./dataHandler.js";
+import PageHandler from "./pageHandler.js";
+import AudioHandler from "./audioHandler.js";
+import Controls from "./controls.js"; // controls for language, autoplay and playbackrate.
 
-let storyData = null;  // the json data
-let storyInstance = null; // the Story class instance
+let story = null;
 
+// Run the initializations after loaded.
 document.addEventListener("DOMContentLoaded", async () => {
 
     // Get the full URL
     const urlParams = new URLSearchParams(window.location.search);
     const storyId = urlParams.get('storyId');
-
-    try {
-        await fetchStory(storyId); // fetch the story data from server
-        storyInstance = new Story(storyData); // storyInstance is const at top of file.
-    }
-    catch (error) {
-        console.error('failed to initialize story', error);
-    }
+    const language = urlParams.get('language');
+    
+    story = new Story(storyId, language);  // start at page 1
+    await story.initialize();  // this will fetch data, so we wait.
 
 });
 
-   
-async function fetchStory(storyId) {
-    //const url = `/fetch-story/${storyId}`;// Using a URL path parameter
-    const url = `/public/data/${storyId}.json`;
 
-    try {
-        const response = await fetch(url);
-        if (!response.ok) {
-            throw new Error("Network Response NOT OK" + response.statusText);
-        }
+export default class Story {
 
-        const data = await response.json();
-        storyData = data;
-        console.log('Story Data: ', storyData);
-        return storyData;
+    constructor(storyId, langCode) { 
 
-    } catch (error) {
-        console.error('There has been a problem with your fetch operation:', error);
-        throw error; // Re-throw error for the caller to handle
+        this.storyId = storyId;
+
+        // We create the DataHandler shell, but we must us async to load data. 
+        // That will be done when we initialize.
+        this.dataHandler = new DataHandler(this.storyId, langCode);
+        this.pageHandler = null; // handling page drawing and paging.
+        this.audioHandler = null; // sound and such.
+        this.controls = null; // handles language, rate and autoplay requests
     }
-   
+
+    // Asynchronous initialization. 
+    async initialize() {
+        await this.dataHandler.initialize(); // Wait for data to be fetched
+        this.audioHandler = new AudioHandler();
+        this.pageHandler = new PageHandler(this.dataHandler, this.audioHandler);
+        this.controls = new Controls(this.dataHandler,this.audioHandler, this.pageHandler)
+    }
+    
 }
+
+
+
+

@@ -1,4 +1,7 @@
-import PagingHandler from './pagingHandler.js';
+import PageHandler from './pageHandler.js';
+import AudioHandler from './audioHandler.js';
+import DataHandler from './dataHandler.js';
+
 
 /* 
     This will be run by the load of the page. We will need to create a
@@ -9,27 +12,17 @@ import PagingHandler from './pagingHandler.js';
 */
 
 
-
-
 export default class Story {
 
-    static PagingHandler = null; // class instance
+    static PageHandler = null; // class instance
 
     constructor(storyData) {
-    
-        this.storyArray = storyData; // this is our story with the array of pages.
         
-        const story = storyData.stories[0];
-        this.storyID = story.id; /* TODO: We got to here tonight */
-        this.languageIndex = 0; // 0 for primary language, 1 for secondary language
-        this.currentLanguage = this.storyArray.stories[this.languageIndex].languagename;
-        this.primaryLanguage = this.storyArray.stories[0].languagename;
-        this.secondaryLanguage = this.storyArray.stories[1].languagename;
+        this.storyID = storyData.id; 
+        this.language = storyData.languagename;
+        this.currentPage = 1; // we skip the title page at 0.
+        Story.PageHandler = new PageHandler(storyData.pages);
         
-        if (!Story.PagingHandler) {
-            // initialize the pagehandling with the page array length.
-            Story.PagingHandler = new PagingHandler(story.pages.length - 1);
-        }
 
         this.playing = false;  // track if the text is playing.
         
@@ -39,7 +32,7 @@ export default class Story {
         this.drawPage();
     }
     
-    next() {  
+    next() {  // goto next page
 
         this.stopPlaying();
         
@@ -48,25 +41,15 @@ export default class Story {
         this.drawPage();
     }
     
-    previous() {
+    previous() { // gotto previous page
         this.stopPlaying();
         this.currentPage--;
         this.togglePrevNextButtons();
         this.drawPage();
     }
   
-    stopPlaying() /* if the text is playing, stop it and reset */
-    {
-        if (this.playing) {
-            const audio = document.querySelector('#audio');
-            this.playing = false;
-            audio.currentTime = 0; // Set the audio back to the start
-            this.playpause();
-        }
-    }
 
- 
-    
+
     switchLanguage() {
         
         this.stopPlaying();
@@ -127,13 +110,22 @@ export default class Story {
         const image = document.querySelector('#picture');
         const storytext = document.querySelector('#storytext');
         const audio = document.querySelector('#audio');
-        const pagenum = document.querySelector('#pagenum');
+        const pagenum = document.querySelector('#page-num');
             
-        const page = this.pages[this.currentPage];
-        pagenum.innerText = "Page " + page.pagenum + " of " + (this.pages.length - 1); // we don't count the title page
-        image.src = page.image;
-        audio.src = page.audio;
-        storytext.innerText = page.text;
+        try {
+            const currentPage = Story.PagingHandler.currentPage;
+            const page =this.story.pages[currentPage];
+            pagenum.innerText = String(page.pagenum); 
+            Story.PagingHandler.togglePrevNextButtons(); // enable/disable if for first/last page.
+
+            image.src =  page.image;
+            // audio.src = page.audio;
+            storytext.innerText = page.text;
+        }
+        catch (error)
+        {
+            console.log('DrawPage', error);
+        }
     }
     
     /* we toggle visibility on both the button and the image. We decide based on 

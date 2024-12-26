@@ -51,6 +51,8 @@ body {
 /* ***************************
    COMBINED CONTROLS/PAGING
    */
+
+
    .wrapper-controls-paging{
        display:grid;
        column-gap: 1px;
@@ -64,20 +66,14 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    // background-color: whitesmoke;
     }
     
-    .paging {
-        display:flex;
-        justify-content: space-between;
-        // background-color: whitesmoke;
-        
-        }
-
+    //  **** PLAY/PAUSE CONTROLS ****
     [class^="control-"] {
-    width: 3rem;
-    height: 3rem;
-    filter: brightness(1.5);
+    width: 1.75rem;
+    height: 1.75rem;
+    fill: black;
+    filter: brightness(0.5);
     }
 
     #forward { // jump forward 2 seconds
@@ -88,7 +84,26 @@ body {
         margin-left: 1rem;
     }
 
+    // **** PAGING CONTROL ****
+    .paging {
+        display:grid;
+        grid-template-columns: repeat(3, 1fr);
+        align-items: center;
+        justify-content: space-between;
+        height: var.$cell-height;
+    }
 
+    #previous {
+        justify-self: end;
+    }
+
+    #next {
+        justify-self: start;
+    }
+
+    #page-text {
+        justify-self: center;
+    }
             
 /* *****************************
     END COMBINED CONTROLS/PAGING

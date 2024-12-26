@@ -72,15 +72,11 @@ body {
   align-items: center;
 }
 
-.paging {
-  display: flex;
-  justify-content: space-between;
-}
-
 [class^=control-] {
-  width: 3rem;
-  height: 3rem;
-  filter: brightness(1.5);
+  width: 1.75rem;
+  height: 1.75rem;
+  fill: black;
+  filter: brightness(0.5);
 }
 
 #forward {
@@ -89,6 +85,26 @@ body {
 
 #back {
   margin-left: 1rem;
+}
+
+.paging {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  justify-content: space-between;
+  height: 6.75rem;
+}
+
+#previous {
+  justify-self: end;
+}
+
+#next {
+  justify-self: start;
+}
+
+#page-text {
+  justify-self: center;
 }
 
 /* *****************************
@@ -209,12 +225,12 @@ option {
 **************/
 /* *****************
    CONTROLS START  */
-#play {
-  display: block; /* Show the play button initially */
+#play.hidden, #pause.hidden {
+  display: none;
 }
 
-#pause {
-  display: none; /* hide the pause button */
+#play.visible, #pause.visible {
+  display: block; /* Show the play button initially */
 }
 
 /*
@@ -222,9 +238,9 @@ option {
 *******************/
 /* *****************
    PAGING START  */
-.paging-num.selected {
-  transform: scale(1.25);
-  color: black;
+#page-text {
+  font-size: 2rem;
+  color: rgb(3, 3, 3);
 }
 
 #previous,
@@ -232,11 +248,8 @@ option {
   background-color: transparent;
   border: none;
   font-size: 2rem;
-  color: rdgb(3, 3, 3);
-  height: 6.75rem;
-  padding: 0 2rem;
+  color: rgb(3, 3, 3);
 }
-
 #previous:hover,
 #next:hover {
   transform: scale(1.25);
@@ -244,13 +257,8 @@ option {
 
 #previous[disabled],
 #next[disabled] {
-  transform: scale(1);
-}
-
-.paging-num, .paging-ellipse {
-  font-size: 2rem;
-  padding-top: 2rem;
   color: grey;
+  transform: scale(1);
 }
 
 /*

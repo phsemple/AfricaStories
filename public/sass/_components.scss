@@ -82,13 +82,14 @@ option {
 /* *****************
    CONTROLS START  */
 
-#play {
+#play.hidden, #pause.hidden {
+    display:none;
+}
+
+#play.visible, #pause.visible {
     display: block; /* Show the play button initially */
 }
 
-#pause {
-    display:none; /* hide the pause button */
-}
 
 /*
    CONTROLS END     
@@ -97,9 +98,11 @@ option {
 /* *****************
    PAGING START  */
 
-.paging-num.selected {
-    transform: scale(1.25);
-    color: black;
+
+
+#page-text {
+    font-size: 2rem;
+    color: rgb(3,3,3);
 }
 
 #previous,
@@ -107,27 +110,21 @@ option {
     background-color: transparent;
     border:none;
     font-size: 2rem;
-    color: rdgb(3,3,3);
-    height: var.$cell-height;
-    padding: 0 2rem;
-}
+    color: rgb(3,3,3);
 
-// wink if hovered
-#previous:hover,
-#next:hover {
-    transform: scale(1.25);
+    &:hover
+    {
+        transform:scale(1.25); 
+    }
 }
 
 // don't transform if disabled.
 #previous[disabled],
 #next[disabled] {
-    transform: scale(1);
-}
-.paging-num,.paging-ellipse  {
-    font-size: 2rem;
-    padding-top: 2rem;
     color: grey;
+    transform:scale(1.00);
 }
+
 
 /*
    PAGING END     
