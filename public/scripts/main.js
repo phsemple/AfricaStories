@@ -12,8 +12,15 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     // Get the full URL
     const urlParams = new URLSearchParams(window.location.search);
-    const storyId = urlParams.get('storyId');
-    const language = urlParams.get('language');
+    
+    // Normalize the parameters to allow case-insensitivity
+    const params = {};
+    urlParams.forEach((value, key) => {
+        params[key.toLowerCase()] = value;
+    });
+
+    const storyId = params['storyid']; // This will work regardless of case
+    const language = params['language']; // Example for another parameter
     
     story = new Story(storyId, language.toLowerCase());  // start at page 1
     await story.initialize();  // this will fetch data, so we wait.
