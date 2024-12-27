@@ -68,7 +68,7 @@ export default class Controls {
         
         // Get the dropdown value
         const dropdown = document.getElementById('language');
-        const toLanguage = dropdown.options[dropdown.selectedIndex].value
+        const toLanguage = dropdown.options[dropdown.selectedIndex].value.toLowerCase();
     
         this.audioHandler.stopPlaying(); // shut down if playing
           
