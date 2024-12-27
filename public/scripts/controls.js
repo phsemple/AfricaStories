@@ -4,9 +4,9 @@ import AudioHandler from "./audioHandler.js";
 import PageHandler from "./pageHandler.js";
 
 const languages = [
-    { code: 'SW', language: 'Swahili' },
-    { code: 'EN', language: 'English' },
-    { code: 'FR', language: 'French' },
+    { code: 'sw', language: 'Swahili' },
+    { code: 'en', language: 'English' },
+    { code: 'fr', language: 'French' },
 ];
 
 export default class Controls {
@@ -19,7 +19,7 @@ export default class Controls {
 
         // get/set the drop down for language
         this.dropdownLanguage = document.getElementById('language')
-        this.langCode = this.dropdownLanguage.value.toUpperCase();  // two character code
+        this.langCode = this.dropdownLanguage.value.toLowerCase();  // two character code
         this.language = languages.find(lang => lang.code === this.langCode).language;
         this.dropdownLanguage.text = this.language;   // set the dropdown menu
 

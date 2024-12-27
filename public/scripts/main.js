@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const storyId = urlParams.get('storyId');
     const language = urlParams.get('language');
     
-    story = new Story(storyId, language);  // start at page 1
+    story = new Story(storyId, language.toLowerCase());  // start at page 1
     await story.initialize();  // this will fetch data, so we wait.
 
 });
