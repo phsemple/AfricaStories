@@ -83,8 +83,17 @@ option {
    CONTROLS START  */
 
 #play.hidden, #pause.hidden {
+
     display:none;
 }
+
+ .playbutton.hidden , .pausebutton.hidden {
+    display:none;
+ }
+ 
+ .playbutton.visible , .pausebutton.visible {
+    display:block;
+ }
 
 #play.visible, #pause.visible {
     display: block; /* Show the play button initially */
