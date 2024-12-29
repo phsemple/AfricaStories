@@ -3,12 +3,12 @@
 body {
   display: grid;
   // create a 12x12 grid
-  grid-template-columns: [start-body-left] 10.66rem [end-bod-left start-container] repeat(10, 10.66rem) [end-container start-body-left] 10.66rem [end-body-right] ;
-  grid-template-rows: repeat(12,6.75rem );
+  grid-template-columns: [start-body-left] 8.8rem [end-bod-left start-container] repeat(10, 8.8rem) [end-container start-body-left] 8.8rem [end-body-right] ;
+  grid-template-rows: repeat(12,6.18rem );
 
   min-height: 100vh;
-  width: 108rem;
-  height: 81rem;
+  width: 106rem;
+  height: 74rem;
   background-color: var.$color-body;
 }
 
