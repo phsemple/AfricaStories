@@ -1,0 +1,322 @@
+[
+    {
+        "title": "Ninapenda kusoma!",
+        "level": 1,
+        "storyPath": "public/images/0087/0087_00.jpg",
+        "id": "0087",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Kuhesabu wanyama",
+        "level": 1,
+        "storyPath": "public/images/0327/0327_00.jpg",
+        "id": "0327",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Hisia",
+        "level": 1,
+        "storyPath": "public/images/0030/0030_00.jpg",
+        "id": "0030",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Moto",
+        "level": 1,
+        "storyPath": "public/images/0302/0302_00.jpg",
+        "id": "0302",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Mamba mwenye njaa",
+        "level": 1,
+        "storyPath": "public/images/0156/0156_00.jpg",
+        "id": "0156",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Tazama wanyama",
+        "level": 1,
+        "storyPath": "public/images/0002/0002_00.jpg",
+        "id": "0002",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Sare za shule",
+        "level": 1,
+        "storyPath": "public/images/0003/0003_00.jpg",
+        "id": "0003",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Nywele",
+        "level": 1,
+        "storyPath": "public/images/0120/0120_00.jpg",
+        "id": "0120",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Mbili",
+        "level": 1,
+        "storyPath": "public/images/0271/0271_00.jpg",
+        "id": "0271",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Kitabu cha hali ya hewa",
+        "level": 1,
+        "storyPath": "public/images/0231/0231_00.jpg",
+        "id": "0231",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Mdogo wangu mvivu",
+        "level": 1,
+        "storyPath": "public/images/0129/0129_00.jpg",
+        "id": "0129",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Kupika",
+        "level": 1,
+        "storyPath": "public/images/0067/0067_00.jpg",
+        "id": "0067",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Unafanya nini?",
+        "level": 1,
+        "storyPath": "public/images/0008/0008_00.jpg",
+        "id": "0008",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Wapi paka wangu?",
+        "level": 1,
+        "storyPath": "public/images/0009/0009_00.jpg",
+        "id": "0009",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Mwili wangu",
+        "level": 1,
+        "storyPath": "public/images/0112/0112_00.jpg",
+        "id": "0112",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Kwa nini Viboko Hawana Nywele",
+        "level": 2,
+        "storyPath": "public/images/0111/0111_00.jpg",
+        "id": "0111",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Watoto wa nta",
+        "level": 2,
+        "storyPath": "public/images/0337/0337_00.jpg",
+        "id": "0337",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Tingi na ng’ombe",
+        "level": 2,
+        "storyPath": "public/images/0210/0210_00.jpg",
+        "id": "0210",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Tom muuza ndizi",
+        "level": 2,
+        "storyPath": "public/images/0296/0296_00.jpg",
+        "id": "0296",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Uamuzi",
+        "level": 2,
+        "storyPath": "public/images/0027/0027_00.jpg",
+        "id": "0027",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Adhabu",
+        "level": 2,
+        "storyPath": "public/images/0342/0342_00.jpg",
+        "id": "0342",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Khalai azungumza na mimea",
+        "level": 2,
+        "storyPath": "public/images/0089/0089_00.jpg",
+        "id": "0089",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Andiswa Nyota wa Mpira wa Miguu",
+        "level": 2,
+        "storyPath": "public/images/0234/0234_00.jpg",
+        "id": "0234",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Mwanamume mrefu",
+        "level": 2,
+        "storyPath": "public/images/0001/0001_00.jpg",
+        "id": "0001",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Zama ni mkubwa!",
+        "level": 2,
+        "storyPath": "public/images/0095/0095_00.jpg",
+        "id": "0095",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Mbuzi, Mbwa na Ng’ombe",
+        "level": 2,
+        "storyPath": "public/images/0004/0004_00.jpg",
+        "id": "0004",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Mtoto Punda",
+        "level": 3,
+        "storyPath": "public/images/0201/0201_00.jpg",
+        "id": "0201",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Anansi na hekima",
+        "level": 3,
+        "storyPath": "public/images/0006/0006_00.jpg",
+        "id": "0006",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Mbegu Ndogo: Hadithi ya Wangari Maathai",
+        "level": 3,
+        "storyPath": "public/images/0110/0110_00.jpg",
+        "id": "0110",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Kuku na Tai",
+        "level": 3,
+        "storyPath": "public/images/0158/0158_00.jpg",
+        "id": "0158",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Siku niliyoondoka nyumbani kuelekea mjini",
+        "level": 3,
+        "storyPath": "public/images/0324/0324_00.jpg",
+        "id": "0324",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Kuku na Jongoo",
+        "level": 3,
+        "storyPath": "public/images/0141/0141_00.jpg",
+        "id": "0141",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Nozibele na nywele tatu",
+        "level": 3,
+        "storyPath": "public/images/0066/0066_00.jpg",
+        "id": "0066",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Wimbo wa Sakima",
+        "level": 3,
+        "storyPath": "public/images/0315/0315_00.jpg",
+        "id": "0315",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Alichokisema dada yake Vusi",
+        "level": 4,
+        "storyPath": "public/images/0291/0291_00.jpg",
+        "id": "0291",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Kisasi cha Kiongozi",
+        "level": 4,
+        "storyPath": "public/images/0072/0072_00.jpg",
+        "id": "0072",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Ndizi za bibi",
+        "level": 4,
+        "storyPath": "public/images/0294/0294_00.jpg",
+        "id": "0294",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Likizo kwa bibi",
+        "level": 4,
+        "storyPath": "public/images/0243/0243_00.jpg",
+        "id": "0243",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Simbegwire",
+        "level": 5,
+        "storyPath": "public/images/0052/0052_00.jpg",
+        "id": "0052",
+        "pagenum": 0,
+        "language": "sw"
+    },
+    {
+        "title": "Magozwe",
+        "level": 5,
+        "storyPath": "public/images/0262/0262_00.jpg",
+        "id": "0262",
+        "pagenum": 0,
+        "language": "sw"
+    }
+]

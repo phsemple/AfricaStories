@@ -1,0 +1,67 @@
+{
+    "id": "0002",
+    "language": "sw",
+    "storyPath": "./public/data/sw/0002.json",
+    "title": "Tazama wanyama",
+    "illustrator": " Sandy Campbell",
+    "writtenby": " Jenny Katz",
+    "readby": " Lauwo George",
+    "translator": " Caren Echesa",
+    "level": 1,
+    "pages": [
+        {
+            "text": "Tazama wanyama",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0002/0002_00.jpg",
+            "audioSrc": "./public/audio/sw/0002/0002_sw_00.mp3"
+        },
+        {
+            "text": "Tazama wanyama.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0002/0002_01.jpg",
+            "audioSrc": "./public/audio/sw/0002/0002_sw_01.mp3"
+        },
+        {
+            "text": "Ng’ombe anasema, “Moo.”",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0002/0002_02.jpg",
+            "audioSrc": "./public/audio/sw/0002/0002_sw_02.mp3"
+        },
+        {
+            "text": "Mbuzi anasema, “Mee, mee.”",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0002/0002_03.jpg",
+            "audioSrc": "./public/audio/sw/0002/0002_sw_03.mp3"
+        },
+        {
+            "text": "Farasi anasema, “Nei.”",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0002/0002_04.jpg",
+            "audioSrc": "./public/audio/sw/0002/0002_sw_04.mp3"
+        },
+        {
+            "text": "Nguruwe anasema, “Ngruu.”",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0002/0002_05.jpg",
+            "audioSrc": "./public/audio/sw/0002/0002_sw_05.mp3"
+        },
+        {
+            "text": "Kuku anasema, “Ko, ko, ko.”",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0002/0002_06.jpg",
+            "audioSrc": "./public/audio/sw/0002/0002_sw_06.mp3"
+        },
+        {
+            "text": "Mbwa anasema, “Wouh, wouh.”",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0002/0002_07.jpg",
+            "audioSrc": "./public/audio/sw/0002/0002_sw_07.mp3"
+        },
+        {
+            "text": "Mkulima anasema, “Nyamaza!”",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0002/0002_08.jpg",
+            "audioSrc": "./public/audio/sw/0002/0002_sw_08.mp3"
+        }
+    ]
+}

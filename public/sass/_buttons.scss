@@ -1,0 +1,28 @@
+@use "variables" as var;
+
+#home {
+    font-size: 1.5rem;
+    padding: .5rem;
+    border-radius: 15%;
+}
+
+// buttons for play/pause panel
+.btn-control {
+    width: var.$size-control-button;
+    filter: brightness(40%); // darken the grey buttons
+}
+
+// we will toggle show/hide on the buttons, so we place in same position.
+.btn-play,
+.btn-pause {
+    position: absolute; /* Ensure both buttons overlap */
+    top: 0;
+    left: 0;
+    width: 100%; /* Ensure the buttons fit the container */
+    height: 100%; /* Ensure the buttons fit the container */
+    object-fit: contain; /* Adjust how the image scales if needed */
+}
+
+.btn-pause {
+    display: none; /* Initially hide the pause button */
+}

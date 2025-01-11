@@ -1,0 +1,67 @@
+{
+    "id": "0004",
+    "language": "en",
+    "storyPath": "./public/data/en/0004.json",
+    "title": "Goat, Dog, and Cow",
+    "illustrator": " Marleen Visser, Ingrid Schechter",
+    "writtenby": " Fabian Wakholi",
+    "readby": " Darshan Soni",
+    "translator": null,
+    "level": 2,
+    "pages": [
+        {
+            "text": "Goat, Dog, and Cow",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0004/0004_00.jpg",
+            "audioSrc": "./public/audio/en/0004/0004_en_00.mp3"
+        },
+        {
+            "text": "Goat, Dog, and Cow were great friends. One day they went on a journey in a taxi.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0004/0004_01.jpg",
+            "audioSrc": "./public/audio/en/0004/0004_en_01.mp3"
+        },
+        {
+            "text": "When they reached the end of their journey, the driver asked them to pay their fares. Cow paid her fare.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0004/0004_02.jpg",
+            "audioSrc": "./public/audio/en/0004/0004_en_02.mp3"
+        },
+        {
+            "text": "Dog paid a bit extra, because he did not have the correct money.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0004/0004_03.jpg",
+            "audioSrc": "./public/audio/en/0004/0004_en_03.mp3"
+        },
+        {
+            "text": "The driver was about to give Dog his change when Goat ran away without paying anything.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0004/0004_04.jpg",
+            "audioSrc": "./public/audio/en/0004/0004_en_04.mp3"
+        },
+        {
+            "text": "The driver was very annoyed. He drove away without giving Dog his change.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0004/0004_05.jpg",
+            "audioSrc": "./public/audio/en/0004/0004_en_05.mp3"
+        },
+        {
+            "text": "That is why, even today, Dog runs towards a car to peep inside and find the driver who owes him his change.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0004/0004_06.jpg",
+            "audioSrc": "./public/audio/en/0004/0004_en_06.mp3"
+        },
+        {
+            "text": "Goat runs away from the sound of a car. She is afraid she will be arrested for not paying her fare.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0004/0004_07.jpg",
+            "audioSrc": "./public/audio/en/0004/0004_en_07.mp3"
+        },
+        {
+            "text": "And Cow is not bothered when a car is coming. Cow takes her time crossing the road because she knows she paid her fare in full.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0004/0004_08.jpg",
+            "audioSrc": "./public/audio/en/0004/0004_en_08.mp3"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "0003",
+    "language": "en",
+    "storyPath": "./public/data/en/0003.json",
+    "title": "School clothes",
+    "illustrator": " Mlungisi Dlamini, Ingrid Schechter",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "readby": " Darshan Soni",
+    "translator": null,
+    "level": 1,
+    "pages": [
+        {
+            "text": "School clothes",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0003/0003_00.jpg",
+            "audioSrc": "./public/audio/en/0003/0003_en_00.mp3"
+        },
+        {
+            "text": "This dress is long.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0003/0003_01.jpg",
+            "audioSrc": "./public/audio/en/0003/0003_en_01.mp3"
+        },
+        {
+            "text": "This jersey is big.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0003/0003_02.jpg",
+            "audioSrc": "./public/audio/en/0003/0003_en_02.mp3"
+        },
+        {
+            "text": "This bag is big.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0003/0003_03.jpg",
+            "audioSrc": "./public/audio/en/0003/0003_en_03.mp3"
+        },
+        {
+            "text": "This belt is…",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0003/0003_04.jpg",
+            "audioSrc": "./public/audio/en/0003/0003_en_04.mp3"
+        },
+        {
+            "text": "This hat is small.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0003/0003_05.jpg",
+            "audioSrc": "./public/audio/en/0003/0003_en_05.mp3"
+        },
+        {
+            "text": "The socks are short.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0003/0003_06.jpg",
+            "audioSrc": "./public/audio/en/0003/0003_en_06.mp3"
+        },
+        {
+            "text": "But these shoes are new.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0003/0003_07.jpg",
+            "audioSrc": "./public/audio/en/0003/0003_en_07.mp3"
+        },
+        {
+            "text": "… they fit well.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0003/0003_08.jpg",
+            "audioSrc": "./public/audio/en/0003/0003_en_08.mp3"
+        }
+    ]
+}

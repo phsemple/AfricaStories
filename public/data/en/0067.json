@@ -1,0 +1,67 @@
+{
+    "id": "0067",
+    "language": "en",
+    "storyPath": "./public/data/en/0067.json",
+    "title": "Cooking",
+    "illustrator": " Kathy Arbuckle, Ingrid Schechter",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "readby": " Darshan Soni",
+    "translator": null,
+    "level": 1,
+    "pages": [
+        {
+            "text": "Cooking",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0067/0067_00.jpg",
+            "audioSrc": "./public/audio/en/0067/0067_en_00.mp3"
+        },
+        {
+            "text": "I peel the potatoes.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0067/0067_01.jpg",
+            "audioSrc": "./public/audio/en/0067/0067_en_01.mp3"
+        },
+        {
+            "text": "I chop a cabbage.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0067/0067_02.jpg",
+            "audioSrc": "./public/audio/en/0067/0067_en_02.mp3"
+        },
+        {
+            "text": "I grate the carrots.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0067/0067_03.jpg",
+            "audioSrc": "./public/audio/en/0067/0067_en_03.mp3"
+        },
+        {
+            "text": "I wash the beans.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0067/0067_04.jpg",
+            "audioSrc": "./public/audio/en/0067/0067_en_04.mp3"
+        },
+        {
+            "text": "I cut the butternut.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0067/0067_05.jpg",
+            "audioSrc": "./public/audio/en/0067/0067_en_05.mp3"
+        },
+        {
+            "text": "I chop the spinach.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0067/0067_06.jpg",
+            "audioSrc": "./public/audio/en/0067/0067_en_06.mp3"
+        },
+        {
+            "text": "My mom chops the onions.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0067/0067_07.jpg",
+            "audioSrc": "./public/audio/en/0067/0067_en_07.mp3"
+        },
+        {
+            "text": "Onions make me cry when they are chopped.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0067/0067_08.jpg",
+            "audioSrc": "./public/audio/en/0067/0067_en_08.mp3"
+        }
+    ]
+}

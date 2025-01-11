@@ -1,0 +1,67 @@
+{
+    "id": "0004",
+    "language": "sw",
+    "storyPath": "./public/data/sw/0004.json",
+    "title": "Mbuzi, Mbwa na Ng’ombe",
+    "illustrator": " Marleen Visser, Ingrid Schechter",
+    "writtenby": " Fabian Wakholi",
+    "readby": " Lauwo George",
+    "translator": " Brigid Simiyu",
+    "level": 2,
+    "pages": [
+        {
+            "text": "Mbuzi, Mbwa na Ng’ombe",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0004/0004_00.jpg",
+            "audioSrc": "./public/audio/sw/0004/0004_sw_00.mp3"
+        },
+        {
+            "text": "Mbuzi, Mbwa na Ng’ombe walikuwa marafiki wa karibu sana. Siku moja walisafiri kwa teksi.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0004/0004_01.jpg",
+            "audioSrc": "./public/audio/sw/0004/0004_sw_01.mp3"
+        },
+        {
+            "text": "Walipofika mwisho wa safari yao, dereva aliwaomba walipe nauli zao. Ng’ombe alilipa nauli yake.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0004/0004_02.jpg",
+            "audioSrc": "./public/audio/sw/0004/0004_sw_02.mp3"
+        },
+        {
+            "text": "Mbwa alilipa zaidi kidogo kwa sababu hakuwa na pesa taslimu.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0004/0004_03.jpg",
+            "audioSrc": "./public/audio/sw/0004/0004_sw_03.mp3"
+        },
+        {
+            "text": "Dereva alipokaribia kumpa Mbwa chenji yake, Mbuzi alitoroka bila kulipa chochote.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0004/0004_04.jpg",
+            "audioSrc": "./public/audio/sw/0004/0004_sw_04.mp3"
+        },
+        {
+            "text": "Dereva alikasirika sana. Aliondoka bila kumrudishia Mbwa chenji yake.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0004/0004_05.jpg",
+            "audioSrc": "./public/audio/sw/0004/0004_sw_05.mp3"
+        },
+        {
+            "text": "Hiyo ndiyo sababu hadi leo Mbwa hukimbiza magari ili achungulie ndani kuona kama atampata dereva mwenye chenji yake.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0004/0004_06.jpg",
+            "audioSrc": "./public/audio/sw/0004/0004_sw_06.mp3"
+        },
+        {
+            "text": "Mbuzi hukimbia anaposikia mlio wa gari. Anaogopa atakamatwa kwa kutolipa nauli.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0004/0004_07.jpg",
+            "audioSrc": "./public/audio/sw/0004/0004_sw_07.mp3"
+        },
+        {
+            "text": "Na Ng’ombe hababaiki gari likiwa linakuja. Ng’ombe huvuka barabara bila wasiwasi kwa sababu anajua alilipa nauli yake yote.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0004/0004_08.jpg",
+            "audioSrc": "./public/audio/sw/0004/0004_sw_08.mp3"
+        }
+    ]
+}

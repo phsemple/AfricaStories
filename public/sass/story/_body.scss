@@ -1,0 +1,8 @@
+body {
+  display: grid;
+  // create a 12x12 grid
+  grid-template-columns: [start-body-left] 8.8rem [end-bod-left start-container] repeat(10, 8.8rem) [end-container start-body-left] 8.8rem [end-body-right] ;
+  grid-template-rows: repeat(12,6.18rem );
+
+
+}

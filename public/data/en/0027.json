@@ -1,0 +1,115 @@
+{
+    "id": "0027",
+    "language": "en",
+    "storyPath": "./public/data/en/0027.json",
+    "title": "Decision",
+    "illustrator": " Vusi Malindi",
+    "writtenby": " Ursula Nafula",
+    "readby": " Darshan Soni",
+    "translator": null,
+    "level": 2,
+    "pages": [
+        {
+            "text": "Decision",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0027/0027_00.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_00.mp3"
+        },
+        {
+            "text": "My village had many problems. We made a long line to fetch water from one tap.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0027/0027_01.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_01.mp3"
+        },
+        {
+            "text": "We waited for food donated by others.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0027/0027_02.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_02.mp3"
+        },
+        {
+            "text": "We locked our houses early because of thieves.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0027/0027_03.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_03.mp3"
+        },
+        {
+            "text": "Many children dropped out of school.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0027/0027_04.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_04.mp3"
+        },
+        {
+            "text": "Young girls worked as maids in other villages.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0027/0027_05.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_05.mp3"
+        },
+        {
+            "text": "Young boys roamed around the village while others worked on people’s farms.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0027/0027_06.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_06.mp3"
+        },
+        {
+            "text": "When the wind blew, waste paper hung on trees and fences.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0027/0027_07.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_07.mp3"
+        },
+        {
+            "text": "People were cut by broken glass that was thrown carelessly.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0027/0027_08.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_08.mp3"
+        },
+        {
+            "text": "Then one day, the tap dried up and our containers were empty.",
+            "pagenum": 9,
+            "imageSrc": "./public/images/0027/0027_09.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_09.mp3"
+        },
+        {
+            "text": "My father walked from house to house asking people to attend a village meeting.",
+            "pagenum": 10,
+            "imageSrc": "./public/images/0027/0027_10.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_10.mp3"
+        },
+        {
+            "text": "People gathered under a big tree and listened.",
+            "pagenum": 11,
+            "imageSrc": "./public/images/0027/0027_11.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_11.mp3"
+        },
+        {
+            "text": "My father stood up and said, “We need to work together to solve our problems.”",
+            "pagenum": 12,
+            "imageSrc": "./public/images/0027/0027_12.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_12.mp3"
+        },
+        {
+            "text": "Eight-year-old Juma, sitting on a tree trunk shouted, “I can help with cleaning up.”",
+            "pagenum": 13,
+            "imageSrc": "./public/images/0027/0027_13.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_13.mp3"
+        },
+        {
+            "text": "One woman said, “The women can join me to grow food.”",
+            "pagenum": 14,
+            "imageSrc": "./public/images/0027/0027_14.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_14.mp3"
+        },
+        {
+            "text": "Another man stood up and said, “The men will dig a well.”",
+            "pagenum": 15,
+            "imageSrc": "./public/images/0027/0027_15.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_15.mp3"
+        },
+        {
+            "text": "We all shouted with one voice, “We must change our lives.” From that day we worked together to solve our problems.",
+            "pagenum": 16,
+            "imageSrc": "./public/images/0027/0027_16.jpg",
+            "audioSrc": "./public/audio/en/0027/0027_en_16.mp3"
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+@use "variables" as var;
+
+#title {
+    font-size: 3rem;
+}
+
+#level {
+    font-size: 1.75rem;
+}
+
+/* **************
+   MENU START   */
+.menu {
+
+    border-top: 2px solid var.$color-story-text;
+    border-bottom: 2px solid var.$color-story-text;
+
+    &-label {
+        font-size: 2rem;
+        margin-right: 1rem;
+    }
+
+    &-field {
+        height: 3rem; /* Sets the height */
+        font-size: 1.6rem; /* Sets the font size */
+        color: #333; /* Sets the text color */
+        background-color: #f0f0f0; /* Sets the background color */
+        border: 1px solid #ccc; /* Sets the border */
+        border-radius: 0.5rem; /* Optional: Adds rounded corners */
+        padding: 5px; /* Adds inner spacing */
+    }
+
+}
+
+
+#autoplay {
+    vertical-align: middle; /* Aligns the text to the checkbox */
+    width: 1.75rem;
+    margin-bottom: 1rem;  // now we nudge the checkbox into position.
+    margin-left: -1rem;
+    margin-top: .5rem;
+}
+
+/* Style options */
+option {
+    font-size: 1.6rem; /* Font size for options */
+    color: #333; /* Text color for options */
+    background-color: #ffffff; /* Background color for options */
+
+}
+/*
+    MENU END     
+**************/
+/* *********************
+    HOME PAGE START   */
+
+// Title Card
+#title-cards {
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap:wrap;
+    gap:2rem;
+ 
+    margin: 1.5rem;
+    // margin-left: 1.5rem;
+    // margin-right: 1.5rem;
+    // margin-bottom: 1.5rem;
+}
+
+.title-card {
+    display:flex;
+    flex-direction: column; 
+    align-items:center;
+    max-width:23%;
+    border: 1px solid gray;
+    cursor:pointer;
+
+    &-picture {
+        width:100%;
+        height:auto;
+        // cursor:pointer;
+    }
+
+    &-title {
+        font-size: 1.5rem;
+        height: 4rem;
+        margin-top: .5rem;
+        padding: 0 .5rem;
+    }
+
+    &-level {
+        font-size: 1rem;
+    }
+
+}
+
+/* **************
+   STORY START  */
+
+.story-wrapper {
+    border-left: 1px solid var.$color-story-text;
+    border-right: 1px solid var.$color-story-text;
+    border-bottom: 1px solid var.$color-story-text;
+    
+}
+
+#picture {
+    border-right: 1px solid var.$color-story-text;
+    width: 44.15rem;   // 5 * 10.667rem
+    height: 43.25rem;  // 7 * 6.75rem
+}
+
+#storytext
+{
+    font-size: 2.5rem;
+    padding: 0 2rem;
+}
+
+/*
+   STORY END     
+**************/
+
+/* *****************
+   CONTROLS START  */
+
+
+#play.hidden, #pause.hidden {
+
+    display:none;
+}
+
+#playbutton.hidden , #pausebutton.hidden {
+    display:none;
+
+ }
+
+ #playbutton.visible , #pausebutton.visible {
+    display:block;
+ }
+
+#play.visible, #pause.visible {
+
+    display: block; /* Show the play button initially */
+}
+
+
+/*
+   CONTROLS END     
+*******************/
+
+/* *****************
+   PAGING START  */
+
+
+
+#page-text {
+    font-size: 2rem;
+    color: rgb(3,3,3);
+}
+
+#previous,
+#next {
+    background-color: transparent;
+    border:none;
+    font-size: 2rem;
+    color: rgb(3,3,3);
+
+    &:hover
+    {
+        transform:scale(1.25); 
+    }
+}
+
+// don't transform if disabled.
+#previous[disabled],
+#next[disabled] {
+    color: grey;
+    transform:scale(1.00);
+}
+
+
+/*
+   PAGING END     
+*******************/
+
+/******************
+  FOOTER START
+*/
+
+
+
+.footer__credits--label {
+    font-size: 1.75rem;
+    font-weight: bold;
+    justify-self: end;
+}
+
+.footer__credits--field {
+    font-size: 1.75rem;
+    font-weight: 500;
+    margin-left: 1.75rem;
+    justify-self: start;
+}
+
+/*
+    FOOTER END
+*******************/

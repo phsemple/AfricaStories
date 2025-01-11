@@ -1,0 +1,39 @@
+<!-- To be included in both homepage and story.html -->
+<div class="menu">
+    
+    <!--  we set the type, otherwise it acts as a submit and redirects with
+          form args back to the storypage. -->
+    <div class="item-wrapper">
+        <button type="button" id="home">Home</button>
+    </div>
+
+    <div class="item-wrapper">
+        <label for="language" class="language-label menu-label">Language:</label>
+        <select name="language" id="language" class="menu-field">
+            <option value="sw" selected>Swahili</option>
+            <option value="en">English</option>
+        </select>
+    </div>
+
+    <div class="item-wrapper">
+        <label for="autoplay" class="autoplay-label menu-label">Autoplay</label>
+        <input type="checkbox" id="autoplay" class="menu-field">
+    </div>
+
+    <div class="item-wrapper">
+        <label for="rate" class="rate-label menu-label">Playback Rate:</label>
+        <select name="rate" id="rate" class="menu-field">
+            <option value="1.25">1.25</option>
+            <option value="1.20">1.20</option>
+            <option value="1.15">1.15</option>
+            <option value="1.10">1.10</option>
+            <option value="1.05">1.05</option>
+            <option value="1.00" selected>Normal 1.00</option>
+            <option value="0.95">0.95</option>
+            <option value="0.90">0.90</option>
+            <option value="0.85">0.85</option>
+            <option value="0.80">0.80</option>
+            <option value="0.75">0.75</option>
+        </select>
+    </div>
+</div>

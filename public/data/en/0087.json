@@ -1,0 +1,67 @@
+{
+    "id": "0087",
+    "language": "en",
+    "storyPath": "./public/data/en/0087.json",
+    "title": "I like to read!",
+    "illustrator": " Wiehan de Jager",
+    "writtenby": " Letta Machoga",
+    "readby": " Darshan Soni",
+    "translator": null,
+    "level": 1,
+    "pages": [
+        {
+            "text": "I like to read!",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0087/0087_00.jpg",
+            "audioSrc": "./public/audio/en/0087/0087_en_00.mp3"
+        },
+        {
+            "text": "I like to read.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0087/0087_01.jpg",
+            "audioSrc": "./public/audio/en/0087/0087_en_01.mp3"
+        },
+        {
+            "text": "Who can I read to?",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0087/0087_02.jpg",
+            "audioSrc": "./public/audio/en/0087/0087_en_02.mp3"
+        },
+        {
+            "text": "My sister is asleep.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0087/0087_03.jpg",
+            "audioSrc": "./public/audio/en/0087/0087_en_03.mp3"
+        },
+        {
+            "text": "Who can I read to?",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0087/0087_04.jpg",
+            "audioSrc": "./public/audio/en/0087/0087_en_04.mp3"
+        },
+        {
+            "text": "My mother and grandmother are busy.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0087/0087_05.jpg",
+            "audioSrc": "./public/audio/en/0087/0087_en_05.mp3"
+        },
+        {
+            "text": "Who can I read to?",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0087/0087_06.jpg",
+            "audioSrc": "./public/audio/en/0087/0087_en_06.mp3"
+        },
+        {
+            "text": "My father and grandfather are busy.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0087/0087_07.jpg",
+            "audioSrc": "./public/audio/en/0087/0087_en_07.mp3"
+        },
+        {
+            "text": "Who can I read to? I can read to myself!",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0087/0087_08.jpg",
+            "audioSrc": "./public/audio/en/0087/0087_en_08.mp3"
+        }
+    ]
+}

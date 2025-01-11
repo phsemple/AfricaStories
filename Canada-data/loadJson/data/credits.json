@@ -1,0 +1,962 @@
+[
+  {
+    "id": "0001",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Cornelius Gulere",
+    "translator": null,
+    "illustrator": " Catherine Groenewald"
+  },
+  {
+    "id": "0001",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Cornelius Gulere",
+    "translator": " Ursula Nafula",
+    "illustrator": " Catherine Groenewald"
+  },
+  {
+    "id": "0001",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Cornelius Gulere",
+    "translator": " Isabelle Duston, Véronique Biddau",
+    "illustrator": " Catherine Groenewald"
+  },
+  {
+    "id": "0002",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Jenny Katz",
+    "translator": null,
+    "illustrator": " Sandy Campbell"
+  },
+  {
+    "id": "0002",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Jenny Katz",
+    "translator": " Caren Echesa",
+    "illustrator": " Sandy Campbell"
+  },
+  {
+    "id": "0002",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Jenny Katz",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Sandy Campbell"
+  },
+  {
+    "id": "0003",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": null,
+    "illustrator": " Mlungisi Dlamini, Ingrid Schechter"
+  },
+  {
+    "id": "0003",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Gladys Njoki, Racheal Njoki",
+    "illustrator": " Mlungisi Dlamini, Ingrid Schechter"
+  },
+  {
+    "id": "0003",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Mlungisi Dlamini, Ingrid Schechter"
+  },
+  {
+    "id": "0004",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Fabian Wakholi",
+    "translator": null,
+    "illustrator": " Marleen Visser, Ingrid Schechter"
+  },
+  {
+    "id": "0004",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Fabian Wakholi",
+    "translator": " Brigid Simiyu",
+    "illustrator": " Marleen Visser, Ingrid Schechter"
+  },
+  {
+    "id": "0004",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Fabian Wakholi",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Marleen Visser, Ingrid Schechter"
+  },
+  {
+    "id": "0006",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Ghanaian folktale",
+    "translator": null,
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0006",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Ghanaian folktale",
+    "translator": " Mutugi Kamundi",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0006",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Ghanaian folktale",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0008",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Nina Orange",
+    "translator": null,
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0008",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Nina Orange",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0008",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Nina Orange",
+    "translator": " Hélène",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0009",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": null,
+    "illustrator": " Bronwen Heath, Ingrid Schechter"
+  },
+  {
+    "id": "0009",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Ursula Nafula",
+    "illustrator": " Bronwen Heath, Ingrid Schechter"
+  },
+  {
+    "id": "0009",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Bronwen Heath, Ingrid Schechter"
+  },
+  {
+    "id": "0027",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Ursula Nafula",
+    "translator": null,
+    "illustrator": " Vusi Malindi"
+  },
+  {
+    "id": "0027",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Ursula Nafula",
+    "translator": " Ursula Nafula",
+    "illustrator": " Vusi Malindi"
+  },
+  {
+    "id": "0027",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Ursula Nafula",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Vusi Malindi"
+  },
+  {
+    "id": "0030",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": null,
+    "illustrator": " Kathy Arbuckle, Ingrid Schechter"
+  },
+  {
+    "id": "0030",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Kathy Arbuckle, Ingrid Schechter"
+  },
+  {
+    "id": "0030",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Kathy Arbuckle, Ingrid Schechter"
+  },
+  {
+    "id": "0052",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Rukia Nantale",
+    "translator": null,
+    "illustrator": " Benjamin Mitchley"
+  },
+  {
+    "id": "0052",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Rukia Nantale",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Benjamin Mitchley"
+  },
+  {
+    "id": "0052",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Rukia Nantale",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Benjamin Mitchley"
+  },
+  {
+    "id": "0066",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Tessa Welch",
+    "translator": null,
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0066",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Tessa Welch",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0066",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Tessa Welch",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0067",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": null,
+    "illustrator": " Kathy Arbuckle, Ingrid Schechter"
+  },
+  {
+    "id": "0067",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Kathy Arbuckle, Ingrid Schechter"
+  },
+  {
+    "id": "0067",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Kathy Arbuckle, Ingrid Schechter"
+  },
+  {
+    "id": "0072",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Zulu folktale",
+    "translator": null,
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0072",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Zulu folktale",
+    "translator": " Brigid Simiyu",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0072",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Zulu folktale",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0087",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Letta Machoga",
+    "translator": null,
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0087",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Letta Machoga",
+    "translator": " Monica Shank Lauwo, Lauwo George",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0087",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Letta Machoga",
+    "translator": " Lina Scarpellini, Translators without Borders",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0089",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Ursula Nafula",
+    "translator": null,
+    "illustrator": " Jesse Pietersen"
+  },
+  {
+    "id": "0089",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Ursula Nafula",
+    "translator": " Ursula Nafula",
+    "illustrator": " Jesse Pietersen"
+  },
+  {
+    "id": "0089",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Ursula Nafula",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Jesse Pietersen"
+  },
+  {
+    "id": "0095",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Michael Oguttu",
+    "translator": null,
+    "illustrator": " Vusi Malindi"
+  },
+  {
+    "id": "0095",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Michael Oguttu",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Vusi Malindi"
+  },
+  {
+    "id": "0095",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Michael Oguttu",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Vusi Malindi"
+  },
+  {
+    "id": "0110",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Nicola Rijsdijk",
+    "translator": null,
+    "illustrator": " Maya Marshak"
+  },
+  {
+    "id": "0110",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Nicola Rijsdijk",
+    "translator": " Ursula Nafula",
+    "illustrator": " Maya Marshak"
+  },
+  {
+    "id": "0110",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Nicola Rijsdijk",
+    "translator": " Boulanger Mirei, Translators without Borders",
+    "illustrator": " Maya Marshak"
+  },
+  {
+    "id": "0111",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Basilio Gimo, David Ker",
+    "translator": null,
+    "illustrator": " Carol Liddiment"
+  },
+  {
+    "id": "0111",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Basilio Gimo, David Ker",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Carol Liddiment"
+  },
+  {
+    "id": "0111",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Basilio Gimo, David Ker",
+    "translator": " Benjamin Chau",
+    "illustrator": " Carol Liddiment"
+  },
+  {
+    "id": "0112",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": null,
+    "illustrator": " Mlungisi Dlamini, Ingrid Schechter"
+  },
+  {
+    "id": "0112",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Peterson Kibuuri, Stevenson Mutisya",
+    "illustrator": " Mlungisi Dlamini, Ingrid Schechter"
+  },
+  {
+    "id": "0112",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Mlungisi Dlamini, Ingrid Schechter"
+  },
+  {
+    "id": "0120",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": null,
+    "illustrator": " Bronwen Heath, Ingrid Schechter"
+  },
+  {
+    "id": "0120",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Bronwen Heath, Ingrid Schechter"
+  },
+  {
+    "id": "0120",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Bronwen Heath, Ingrid Schechter"
+  },
+  {
+    "id": "0129",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": null,
+    "illustrator": " Mlungisi Dlamini, Ingrid Schechter"
+  },
+  {
+    "id": "0129",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Mlungisi Dlamini, Ingrid Schechter"
+  },
+  {
+    "id": "0129",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Mlungisi Dlamini, Ingrid Schechter"
+  },
+  {
+    "id": "0141",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Winny Asara",
+    "translator": null,
+    "illustrator": " Magriet Brink"
+  },
+  {
+    "id": "0141",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Winny Asara",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Magriet Brink"
+  },
+  {
+    "id": "0141",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Winny Asara",
+    "translator": " Isabelle Duston, Véronique Biddau",
+    "illustrator": " Magriet Brink"
+  },
+  {
+    "id": "0156",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Christian G.",
+    "translator": null,
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0156",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Christian G.",
+    "translator": " Brigid Simiyu",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0156",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Christian G.",
+    "translator": " Marianne Pasty-Abdul Wahid, Translators without Borders",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0158",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Ann Nduku",
+    "translator": null,
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0158",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Ann Nduku",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0158",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Ann Nduku",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0201",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Lindiwe Matshikiza",
+    "translator": null,
+    "illustrator": " Meghan Judge"
+  },
+  {
+    "id": "0201",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Lindiwe Matshikiza",
+    "translator": " Monica Shank Lauwo, Lauwo George",
+    "illustrator": " Meghan Judge"
+  },
+  {
+    "id": "0201",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Lindiwe Matshikiza",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Meghan Judge"
+  },
+  {
+    "id": "0210",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Ingrid Schechter",
+    "translator": null,
+    "illustrator": " Ingrid Schechter"
+  },
+  {
+    "id": "0210",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Ingrid Schechter",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Ingrid Schechter"
+  },
+  {
+    "id": "0210",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Ingrid Schechter",
+    "translator": " Olivia Mahe, Translators without Borders",
+    "illustrator": " Ingrid Schechter"
+  },
+  {
+    "id": "0231",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": null,
+    "illustrator": " Sandra McDougall, Ingrid Schechter"
+  },
+  {
+    "id": "0231",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Mutugi Kamundi",
+    "illustrator": " Sandra McDougall, Ingrid Schechter"
+  },
+  {
+    "id": "0231",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "translator": " Hélène",
+    "illustrator": " Sandra McDougall, Ingrid Schechter"
+  },
+  {
+    "id": "0234",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Eden Daniels",
+    "translator": null,
+    "illustrator": " Eden Daniels"
+  },
+  {
+    "id": "0234",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Eden Daniels",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Eden Daniels"
+  },
+  {
+    "id": "0234",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Eden Daniels",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Eden Daniels, Lisa Treffry-Goatley (ed.)"
+  },
+  {
+    "id": "0243",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Violet Otieno",
+    "translator": null,
+    "illustrator": " Catherine Groenewald"
+  },
+  {
+    "id": "0243",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Violet Otieno",
+    "translator": " Brigid Simiyu",
+    "illustrator": " Catherine Groenewald"
+  },
+  {
+    "id": "0243",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Violet Otieno",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Catherine Groenewald"
+  },
+  {
+    "id": "0262",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Lesley Koyi",
+    "translator": null,
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0262",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Lesley Koyi",
+    "translator": " Lauwo George, Monica Shank Lauwo",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0262",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Lesley Koyi",
+    "translator": " Patricia Roth, Translators without Borders",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0271",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Carole Bloch",
+    "translator": null,
+    "illustrator": " Richard MacIntosh"
+  },
+  {
+    "id": "0271",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Carole Bloch",
+    "translator": " Ursula Nafula",
+    "illustrator": " Richard MacIntosh"
+  },
+  {
+    "id": "0271",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Carole Bloch",
+    "translator": " Hélène",
+    "illustrator": " Richard MacIntosh"
+  },
+  {
+    "id": "0291",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Nina Orange",
+    "translator": null,
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0291",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Nina Orange",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0291",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Nina Orange",
+    "translator": " Isabelle Duston, Véronique Biddau",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0294",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Ursula Nafula",
+    "translator": null,
+    "illustrator": " Catherine Groenewald"
+  },
+  {
+    "id": "0294",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Ursula Nafula",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Catherine Groenewald"
+  },
+  {
+    "id": "0294",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Ursula Nafula",
+    "translator": " Isabelle Duston, Véronique Biddau",
+    "illustrator": " Catherine Groenewald"
+  },
+  {
+    "id": "0296",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Humphreys Odunga",
+    "translator": null,
+    "illustrator": " Zablon Alex Nguku"
+  },
+  {
+    "id": "0296",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Humphreys Odunga",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Zablon Alex Nguku"
+  },
+  {
+    "id": "0296",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Humphreys Odunga",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Zablon Alex Nguku"
+  },
+  {
+    "id": "0302",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Deborah Namugosa, Beatrice Nabune, Alison Tukei, Rose Sabano",
+    "translator": null,
+    "illustrator": " Rob Owen"
+  },
+  {
+    "id": "0302",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Deborah Namugosa, Beatrice Nabune, Alison Tukei, Rose Sabano",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Rob Owen"
+  },
+  {
+    "id": "0302",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Deborah Namugosa, Beatrice Nabune, Alison Tukei, Rose Sabano",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Rob Owen"
+  },
+  {
+    "id": "0315",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Ursula Nafula",
+    "translator": null,
+    "illustrator": " Peris Wachuka"
+  },
+  {
+    "id": "0315",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Ursula Nafula",
+    "translator": " Ursula Nafula",
+    "illustrator": " Peris Wachuka"
+  },
+  {
+    "id": "0315",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Ursula Nafula",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Peris Wachuka"
+  },
+  {
+    "id": "0324",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Lesley Koyi, Ursula Nafula",
+    "translator": null,
+    "illustrator": " Brian Wambi"
+  },
+  {
+    "id": "0324",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Lesley Koyi, Ursula Nafula",
+    "translator": " Ursula Nafula",
+    "illustrator": " Brian Wambi"
+  },
+  {
+    "id": "0324",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Lesley Koyi, Ursula Nafula",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Brian Wambi"
+  },
+  {
+    "id": "0327",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Zanele Buthelezi, Thembani Dladla, Clare Verbeek",
+    "translator": null,
+    "illustrator": " Rob Owen"
+  },
+  {
+    "id": "0327",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Zanele Buthelezi, Thembani Dladla, Clare Verbeek",
+    "translator": " Matteo E. Mwita",
+    "illustrator": " Rob Owen"
+  },
+  {
+    "id": "0327",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Zanele Buthelezi, Thembani Dladla, Clare Verbeek",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Rob Owen"
+  },
+  {
+    "id": "0337",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Southern African Folktale",
+    "translator": null,
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0337",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Southern African Folktale",
+    "translator": " Mutugi Kamundi",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0337",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Southern African Folktale",
+    "translator": " Alexandra Danahy",
+    "illustrator": " Wiehan de Jager"
+  },
+  {
+    "id": "0342",
+    "lang": "en",
+    "readby": " Darshan Soni",
+    "writtenby": " Adelheid Marie Bwire",
+    "translator": null,
+    "illustrator": " Melany Pietersen"
+  },
+  {
+    "id": "0342",
+    "lang": "sw",
+    "readby": " Lauwo George",
+    "writtenby": " Adelheid Marie Bwire",
+    "translator": " Monica Shank Lauwo, Lauwo George",
+    "illustrator": " Melany Pietersen"
+  },
+  {
+    "id": "0342",
+    "lang": "fr",
+    "readby": " Monique Bournot-Trites",
+    "writtenby": " Adelheid Marie Bwire",
+    "translator": " Suzanne Alban, Translators without Borders",
+    "illustrator": " Melany Pietersen"
+  }
+]

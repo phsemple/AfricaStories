@@ -1,0 +1,67 @@
+{
+    "id": "0302",
+    "language": "sw",
+    "storyPath": "./public/data/sw/0302.json",
+    "title": "Moto",
+    "illustrator": " Rob Owen",
+    "writtenby": " Deborah Namugosa, Beatrice Nabune, Alison Tukei, Rose Sabano",
+    "readby": " Lauwo George",
+    "translator": " Matteo E. Mwita",
+    "level": 1,
+    "pages": [
+        {
+            "text": "Moto",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0302/0302_00.jpg",
+            "audioSrc": "./public/audio/sw/0302/0302_sw_00.mp3"
+        },
+        {
+            "text": "Angalia, moto!",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0302/0302_01.jpg",
+            "audioSrc": "./public/audio/sw/0302/0302_sw_01.mp3"
+        },
+        {
+            "text": "Moto unachoma.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0302/0302_02.jpg",
+            "audioSrc": "./public/audio/sw/0302/0302_sw_02.mp3"
+        },
+        {
+            "text": "Moto unatumika kupika.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0302/0302_03.jpg",
+            "audioSrc": "./public/audio/sw/0302/0302_sw_03.mp3"
+        },
+        {
+            "text": "Moto unaleta joto.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0302/0302_04.jpg",
+            "audioSrc": "./public/audio/sw/0302/0302_sw_04.mp3"
+        },
+        {
+            "text": "Moto unaleta mwanga.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0302/0302_05.jpg",
+            "audioSrc": "./public/audio/sw/0302/0302_sw_05.mp3"
+        },
+        {
+            "text": "Angalia, moto!",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0302/0302_06.jpg",
+            "audioSrc": "./public/audio/sw/0302/0302_sw_06.mp3"
+        },
+        {
+            "text": "Moto ni wa ajabu.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0302/0302_07.jpg",
+            "audioSrc": "./public/audio/sw/0302/0302_sw_07.mp3"
+        },
+        {
+            "text": "Na una nguvu sana.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0302/0302_08.jpg",
+            "audioSrc": "./public/audio/sw/0302/0302_sw_08.mp3"
+        }
+    ]
+}

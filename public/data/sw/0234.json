@@ -1,0 +1,67 @@
+{
+    "id": "0234",
+    "language": "sw",
+    "storyPath": "./public/data/sw/0234.json",
+    "title": "Andiswa Nyota wa Mpira wa Miguu",
+    "illustrator": " Eden Daniels",
+    "writtenby": " Eden Daniels",
+    "readby": " Lauwo George",
+    "translator": " Matteo E. Mwita",
+    "level": 2,
+    "pages": [
+        {
+            "text": "Andiswa Nyota wa Mpira wa Miguu",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0234/0234_00.jpg",
+            "audioSrc": "./public/audio/sw/0234/0234_sw_00.mp3"
+        },
+        {
+            "text": "Andiswa alikuwa anawaangalia wavulana wakicheza mpira wa miguu. Alitamani kujiunga nao. Akamwomba kocha kufanya nao mazoezi.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0234/0234_01.jpg",
+            "audioSrc": "./public/audio/sw/0234/0234_sw_01.mp3"
+        },
+        {
+            "text": "Kocha akaweka mikono kiunoni. “Kwenye shule hii, ni wavulana pekee wanaoruhusiwa kucheza mpira wa miguu,” alisema.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0234/0234_02.jpg",
+            "audioSrc": "./public/audio/sw/0234/0234_sw_02.mp3"
+        },
+        {
+            "text": "Wavulana walimwambia aende kucheza mpira wa wavu. Walisema mpira wa wavu ni kwa ajili ya wasichana na mpira wa miguu ni kwa wavulana. Andiswa alijisikia vibaya.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0234/0234_03.jpg",
+            "audioSrc": "./public/audio/sw/0234/0234_sw_03.mp3"
+        },
+        {
+            "text": "Siku iliyofuata, shule yao ilikuwa na mashindano makubwa ya mpira wa miguu. Kocha alikuwa na wasiwasi kwa kuwa mchezaji wake wa kutegemewa alikuwa mgonjwa na asingecheza.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0234/0234_04.jpg",
+            "audioSrc": "./public/audio/sw/0234/0234_sw_04.mp3"
+        },
+        {
+            "text": "Andiswa alimwendea kocha na kumuomba kumruhusu acheze. Kocha hakujua afanye nini. Akaamua kumruhusu Andiswe ajiunge na timu.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0234/0234_05.jpg",
+            "audioSrc": "./public/audio/sw/0234/0234_sw_05.mp3"
+        },
+        {
+            "text": "Mchezo ulikuwa mgumu. Hakuna timu yoyote iliyokuwa imefunga goli hadi muda wa mapumziko.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0234/0234_06.jpg",
+            "audioSrc": "./public/audio/sw/0234/0234_sw_06.mp3"
+        },
+        {
+            "text": "Wakati wa kipindi cha pili kijana mmoja alimpatia Andiswa mpira. Akakimbia kwa kasi sana kuelekea golini. Akaupiga mpira kwa nguvu na akafunga goli.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0234/0234_07.jpg",
+            "audioSrc": "./public/audio/sw/0234/0234_sw_07.mp3"
+        },
+        {
+            "text": "Umati ukashangilia kwa vifijo na furaha. Kuanzia siku hiyo, wasichana waliruhusiwa kucheza mpira wa miguu kwenye timu ya shule.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0234/0234_08.jpg",
+            "audioSrc": "./public/audio/sw/0234/0234_sw_08.mp3"
+        }
+    ]
+}

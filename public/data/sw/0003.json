@@ -1,0 +1,67 @@
+{
+    "id": "0003",
+    "language": "sw",
+    "storyPath": "./public/data/sw/0003.json",
+    "title": "Sare za shule",
+    "illustrator": " Mlungisi Dlamini, Ingrid Schechter",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "readby": " Lauwo George",
+    "translator": " Gladys Njoki, Racheal Njoki",
+    "level": 1,
+    "pages": [
+        {
+            "text": "Sare za shule",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0003/0003_00.jpg",
+            "audioSrc": "./public/audio/sw/0003/0003_sw_00.mp3"
+        },
+        {
+            "text": "Gauni hili ni refu.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0003/0003_01.jpg",
+            "audioSrc": "./public/audio/sw/0003/0003_sw_01.mp3"
+        },
+        {
+            "text": "Sweta hii ni kubwa.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0003/0003_02.jpg",
+            "audioSrc": "./public/audio/sw/0003/0003_sw_02.mp3"
+        },
+        {
+            "text": "Mkoba huu ni mkubwa.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0003/0003_03.jpg",
+            "audioSrc": "./public/audio/sw/0003/0003_sw_03.mp3"
+        },
+        {
+            "text": "Mkanda huu ni…",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0003/0003_04.jpg",
+            "audioSrc": "./public/audio/sw/0003/0003_sw_04.mp3"
+        },
+        {
+            "text": "Kofia hii ni ndogo.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0003/0003_05.jpg",
+            "audioSrc": "./public/audio/sw/0003/0003_sw_05.mp3"
+        },
+        {
+            "text": "Soksi hizi ni fupi.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0003/0003_06.jpg",
+            "audioSrc": "./public/audio/sw/0003/0003_sw_06.mp3"
+        },
+        {
+            "text": "Lakini viatu hivi ni vipya.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0003/0003_07.jpg",
+            "audioSrc": "./public/audio/sw/0003/0003_sw_07.mp3"
+        },
+        {
+            "text": "…vinanitosha vizuri.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0003/0003_08.jpg",
+            "audioSrc": "./public/audio/sw/0003/0003_sw_08.mp3"
+        }
+    ]
+}

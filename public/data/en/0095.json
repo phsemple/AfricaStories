@@ -1,0 +1,91 @@
+{
+    "id": "0095",
+    "language": "en",
+    "storyPath": "./public/data/en/0095.json",
+    "title": "Zama is great!",
+    "illustrator": " Vusi Malindi",
+    "writtenby": " Michael Oguttu",
+    "readby": " Darshan Soni",
+    "translator": null,
+    "level": 2,
+    "pages": [
+        {
+            "text": "Zama is great!",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0095/0095_00.jpg",
+            "audioSrc": "./public/audio/en/0095/0095_en_00.mp3"
+        },
+        {
+            "text": "My little brother sleeps very late. I wake early, because I am great!",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0095/0095_01.jpg",
+            "audioSrc": "./public/audio/en/0095/0095_en_01.mp3"
+        },
+        {
+            "text": "I am the one who lets in the sun.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0095/0095_02.jpg",
+            "audioSrc": "./public/audio/en/0095/0095_en_02.mp3"
+        },
+        {
+            "text": "“You’re my morning star,” says Ma.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0095/0095_03.jpg",
+            "audioSrc": "./public/audio/en/0095/0095_en_03.mp3"
+        },
+        {
+            "text": "I wash myself, I don’t need any help.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0095/0095_04.jpg",
+            "audioSrc": "./public/audio/en/0095/0095_en_04.mp3"
+        },
+        {
+            "text": "I can cope with cold water and blue smelly soap.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0095/0095_05.jpg",
+            "audioSrc": "./public/audio/en/0095/0095_en_05.mp3"
+        },
+        {
+            "text": "Ma reminds, “Don’t forget teeth.” I reply, “Never, not me!”",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0095/0095_06.jpg",
+            "audioSrc": "./public/audio/en/0095/0095_en_06.mp3"
+        },
+        {
+            "text": "After washing, I greet Grandpa and Auntie, and wish them a good day.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0095/0095_07.jpg",
+            "audioSrc": "./public/audio/en/0095/0095_en_07.mp3"
+        },
+        {
+            "text": "Then I dress myself, “I’m big now Ma,” I say.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0095/0095_08.jpg",
+            "audioSrc": "./public/audio/en/0095/0095_en_08.mp3"
+        },
+        {
+            "text": "I can close my buttons and buckle my shoes.",
+            "pagenum": 9,
+            "imageSrc": "./public/images/0095/0095_09.jpg",
+            "audioSrc": "./public/audio/en/0095/0095_en_09.mp3"
+        },
+        {
+            "text": "And I make sure little brother knows all the school news.",
+            "pagenum": 10,
+            "imageSrc": "./public/images/0095/0095_10.jpg",
+            "audioSrc": "./public/audio/en/0095/0095_en_10.mp3"
+        },
+        {
+            "text": "In class I do my best in every way.",
+            "pagenum": 11,
+            "imageSrc": "./public/images/0095/0095_11.jpg",
+            "audioSrc": "./public/audio/en/0095/0095_en_11.mp3"
+        },
+        {
+            "text": "I do all these good things every day. But the thing I like most, is to play and play!",
+            "pagenum": 12,
+            "imageSrc": "./public/images/0095/0095_12.jpg",
+            "audioSrc": "./public/audio/en/0095/0095_en_12.mp3"
+        }
+    ]
+}

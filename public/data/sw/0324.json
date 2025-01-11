@@ -1,0 +1,115 @@
+{
+    "id": "0324",
+    "language": "sw",
+    "storyPath": "./public/data/sw/0324.json",
+    "title": "Siku niliyoondoka nyumbani kuelekea mjini",
+    "illustrator": " Brian Wambi",
+    "writtenby": " Lesley Koyi, Ursula Nafula",
+    "readby": " Lauwo George",
+    "translator": " Ursula Nafula",
+    "level": 3,
+    "pages": [
+        {
+            "text": "Siku niliyoondoka nyumbani kuelekea mjini",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0324/0324_00.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_00.mp3"
+        },
+        {
+            "text": "Kituo kidogo cha mabasi kijijini mwetu kilijaa shughuli za watu na mabasi. mabasi mengi yalikuwa yamejaa mizigo. Chini, palikuwa na mizigo zaidi ya kupakia. Makondakta walikuwa wanataja majina ya sehemu mabasi yalikokuwa yanaelekea.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0324/0324_01.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_01.mp3"
+        },
+        {
+            "text": "“Mjini! Mjini! Magharibi!” Nilisikia kondakta akiita kwa sauti. Lile ndilo basi nililohitaji kupanda.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0324/0324_02.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_02.mp3"
+        },
+        {
+            "text": "Basi la kwenda mjini lilikaribia kujaa, lakini watu wengine walikuwa wanasukumana kupanda. Baadhi yao walipakia mizigo chini ya basi. Wengine waliiweka katika sehemu ya juu.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0324/0324_03.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_03.mp3"
+        },
+        {
+            "text": "Abiria wapya walishika tiketi zao huku wakitafuta mahali pa kukaa. Wanawake waliokuwa na watoto wodogo waliwatayarisha kwa safari hiyo ndefu.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0324/0324_04.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_04.mp3"
+        },
+        {
+            "text": "Nilijipenyeza ndani na kukaa karibu na dirisha. Mtu aliyeketi karibu nami alishika mfuko wa plastiki wa kijani kibichi. Alivaa viatu vilivyochakaa, koti kuukuu na alionekana kuwa na wasiwasi.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0324/0324_05.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_05.mp3"
+        },
+        {
+            "text": "Niliangalia nje na kutambua kwamba nilikuwa naondoka kijijini kwangu, mahali ambapo nililelewa. Nilikuwa naenda katika mji mkubwa.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0324/0324_06.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_06.mp3"
+        },
+        {
+            "text": "Upakiaji mizigo ulikamilika na abiria wakawa wameketi. Wachuuzi walizidi kusukumana kutaka kuingia ndani ya basi ili wauze bidhaa zao. Kila mmoja alitaja kwa sauti majina ya bidhaa alizokuwa anauza. Maneno yao yalinifurahisha.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0324/0324_07.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_07.mp3"
+        },
+        {
+            "text": "Baadhi ya abiria walinunua vinywaji. Wengine wakanunua vitafunwa vidogo na kuanza kutafuna. Wasiokuwa na fedha, kama mimi, walitazama tu.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0324/0324_08.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_08.mp3"
+        },
+        {
+            "text": "Shughuli hizi zilikatizwa kwa mlio wa honi ya basi, ishara kwamba tulikuwa tayari kuondoka. Kondakta aliwataka wachuuzi kuondoka ndani ya basi.",
+            "pagenum": 9,
+            "imageSrc": "./public/images/0324/0324_09.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_09.mp3"
+        },
+        {
+            "text": "Wachuuzi walisukumana huku wakitafuta njia ya kushuka. Wengine waliwarudishia wasafiri chenji zao. Wengine walifanya juhudi za mwisho kuuza bidhaa zao.",
+            "pagenum": 10,
+            "imageSrc": "./public/images/0324/0324_10.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_10.mp3"
+        },
+        {
+            "text": "Basi lilipoondoka kituoni, nilichungulia dirishani. Nilijiuliza endapo ningerudi na kwenda kijijini kwangu tena.",
+            "pagenum": 11,
+            "imageSrc": "./public/images/0324/0324_11.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_11.mp3"
+        },
+        {
+            "text": "Safari ilipoendelea, joto lilikuwa jingi ndani ya basi. Niliyafumba macho yangu nikinuia kulala.",
+            "pagenum": 12,
+            "imageSrc": "./public/images/0324/0324_12.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_12.mp3"
+        },
+        {
+            "text": "Lakini mawazo yangu yalirejea nyumbani. Je, mamangu atakuwa salama? Je, sungura wangu wataleta hela zozote? Je, ndugu yangu atakumbuka kunyunyizia maji miche ya miti yangu?",
+            "pagenum": 13,
+            "imageSrc": "./public/images/0324/0324_13.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_13.mp3"
+        },
+        {
+            "text": "Njiani, nilikariri jina la mahali mjomba wangu alipoishi kwenye mji mkubwa. Nilikuwa bado nafikiria wakati nilipopatwa na usingizi.",
+            "pagenum": 14,
+            "imageSrc": "./public/images/0324/0324_14.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_14.mp3"
+        },
+        {
+            "text": "Baada ya saa tisa, niliamshwa kwa kelele za kuita abiria waliokwenda katika kijiji changu. Nilichukuwa mfuko wangu mdogo na kuruka nje ya basi.",
+            "pagenum": 15,
+            "imageSrc": "./public/images/0324/0324_15.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_15.mp3"
+        },
+        {
+            "text": "Basi la kurudi lilikuwa linajaa upesi. Muda mfupi baadaye, lingeanza safari ya kwenda mashariki. Jambo la maana kwangu wakati huo lilikuwa kuanza kutafuta nyumba ya mjomba wangu.",
+            "pagenum": 16,
+            "imageSrc": "./public/images/0324/0324_16.jpg",
+            "audioSrc": "./public/audio/sw/0324/0324_sw_16.mp3"
+        }
+    ]
+}

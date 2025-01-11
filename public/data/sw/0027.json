@@ -1,0 +1,115 @@
+{
+    "id": "0027",
+    "language": "sw",
+    "storyPath": "./public/data/sw/0027.json",
+    "title": "Uamuzi",
+    "illustrator": " Vusi Malindi",
+    "writtenby": " Ursula Nafula",
+    "readby": " Lauwo George",
+    "translator": " Ursula Nafula",
+    "level": 2,
+    "pages": [
+        {
+            "text": "Uamuzi",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0027/0027_00.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_00.mp3"
+        },
+        {
+            "text": "Kijiji changu kilikuwa na matatizo mengi. Tulipanga foleni ndefu tukisubiri kuchota maji kutoka mfereji mmoja.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0027/0027_01.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_01.mp3"
+        },
+        {
+            "text": "Tulisubiri kupokea msaada wa chakula.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0027/0027_02.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_02.mp3"
+        },
+        {
+            "text": "Tulifunga nyumba zetu mapema kwasababu ya wizi.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0027/0027_03.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_03.mp3"
+        },
+        {
+            "text": "Watoto wengi waliacha shule.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0027/0027_04.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_04.mp3"
+        },
+        {
+            "text": "Wasichana wadogo walifanya kazi za nyumbani kwenye vijiji vingine.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0027/0027_05.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_05.mp3"
+        },
+        {
+            "text": "Wavulana wadogo waliranda randa kijijini na wengine walifanya kazi kwenye mashamba ya watu.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0027/0027_06.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_06.mp3"
+        },
+        {
+            "text": "Upepo ulipovuma, ulipeperusha karatasi chafu na kuzifikisha mitini na uani.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0027/0027_07.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_07.mp3"
+        },
+        {
+            "text": "Watu walikatwa na vipande vya chupa vilivyotupwa ovyo ovyo.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0027/0027_08.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_08.mp3"
+        },
+        {
+            "text": "Halafu siku moja, mfereji wa maji ulikauka na mitungi yetu ikawa mitupu.",
+            "pagenum": 9,
+            "imageSrc": "./public/images/0027/0027_09.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_09.mp3"
+        },
+        {
+            "text": "Baba yangu alitembea nyumba hadi nyumba akiwaomba watu kuhudhuria mkutano wa kijiji.",
+            "pagenum": 10,
+            "imageSrc": "./public/images/0027/0027_10.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_10.mp3"
+        },
+        {
+            "text": "Watu walikusanyika chini ya mti mkubwa na kusikiliza.",
+            "pagenum": 11,
+            "imageSrc": "./public/images/0027/0027_11.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_11.mp3"
+        },
+        {
+            "text": "Baba yangu alisimama na kusema, “Tunahitaji kusaidiana kutatua matatizo yetu.”",
+            "pagenum": 12,
+            "imageSrc": "./public/images/0027/0027_12.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_12.mp3"
+        },
+        {
+            "text": "Juma, mtoto wa miaka minane aliyekuwa amekaa kwenye tawi la mti, alisema kwa sauti, “Naweza kusaidia na usafi.”",
+            "pagenum": 13,
+            "imageSrc": "./public/images/0027/0027_13.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_13.mp3"
+        },
+        {
+            "text": "Mwanamke mmoja alisema, “Sisi wanawake tunaweza kuungana na kulima.”",
+            "pagenum": 14,
+            "imageSrc": "./public/images/0027/0027_14.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_14.mp3"
+        },
+        {
+            "text": "Mwanamume mwingine alisimama na kusema, “Wanaume watachimba kisima cha maji.”",
+            "pagenum": 15,
+            "imageSrc": "./public/images/0027/0027_15.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_15.mp3"
+        },
+        {
+            "text": "Sote tulisema kwa sauti moja, “Lazima tubadilishe maisha yetu.” Tangu siku hiyo, tulifanya kazi pamoja kutatua shida zetu.",
+            "pagenum": 16,
+            "imageSrc": "./public/images/0027/0027_16.jpg",
+            "audioSrc": "./public/audio/sw/0027/0027_sw_16.mp3"
+        }
+    ]
+}

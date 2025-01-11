@@ -1,0 +1,67 @@
+{
+    "id": "0120",
+    "language": "sw",
+    "storyPath": "./public/data/sw/0120.json",
+    "title": "Nywele",
+    "illustrator": " Bronwen Heath, Ingrid Schechter",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "readby": " Lauwo George",
+    "translator": " Matteo E. Mwita",
+    "level": 1,
+    "pages": [
+        {
+            "text": "Nywele",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0120/0120_00.jpg",
+            "audioSrc": "./public/audio/sw/0120/0120_sw_00.mp3"
+        },
+        {
+            "text": "Thuli ana nywele fupi.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0120/0120_01.jpg",
+            "audioSrc": "./public/audio/sw/0120/0120_sw_01.mp3"
+        },
+        {
+            "text": "Anna ana nywele ndefu.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0120/0120_02.jpg",
+            "audioSrc": "./public/audio/sw/0120/0120_sw_02.mp3"
+        },
+        {
+            "text": "Cathy ana nywele ndefu kuliko wote.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0120/0120_03.jpg",
+            "audioSrc": "./public/audio/sw/0120/0120_sw_03.mp3"
+        },
+        {
+            "text": "Zama amesuka nywele zake.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0120/0120_04.jpg",
+            "audioSrc": "./public/audio/sw/0120/0120_sw_04.mp3"
+        },
+        {
+            "text": "Baba ana ndevu.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0120/0120_05.jpg",
+            "audioSrc": "./public/audio/sw/0120/0120_sw_05.mp3"
+        },
+        {
+            "text": "Zanele amechana nywele zake.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0120/0120_06.jpg",
+            "audioSrc": "./public/audio/sw/0120/0120_sw_06.mp3"
+        },
+        {
+            "text": "Thabo amenyoa nywele zake.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0120/0120_07.jpg",
+            "audioSrc": "./public/audio/sw/0120/0120_sw_07.mp3"
+        },
+        {
+            "text": "Themba amenyoa kipara.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0120/0120_08.jpg",
+            "audioSrc": "./public/audio/sw/0120/0120_sw_08.mp3"
+        }
+    ]
+}

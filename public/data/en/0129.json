@@ -1,0 +1,61 @@
+{
+    "id": "0129",
+    "language": "en",
+    "storyPath": "./public/data/en/0129.json",
+    "title": "Lazy little brother",
+    "illustrator": " Mlungisi Dlamini, Ingrid Schechter",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "readby": " Darshan Soni",
+    "translator": null,
+    "level": 1,
+    "pages": [
+        {
+            "text": "Lazy little brother",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0129/0129_00.jpg",
+            "audioSrc": "./public/audio/en/0129/0129_en_00.mp3"
+        },
+        {
+            "text": "I wake up and make fire.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0129/0129_01.jpg",
+            "audioSrc": "./public/audio/en/0129/0129_en_01.mp3"
+        },
+        {
+            "text": "I boil some water.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0129/0129_02.jpg",
+            "audioSrc": "./public/audio/en/0129/0129_en_02.mp3"
+        },
+        {
+            "text": "I chop the firewood.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0129/0129_03.jpg",
+            "audioSrc": "./public/audio/en/0129/0129_en_03.mp3"
+        },
+        {
+            "text": "I stir the pot.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0129/0129_04.jpg",
+            "audioSrc": "./public/audio/en/0129/0129_en_04.mp3"
+        },
+        {
+            "text": "I sweep the floor.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0129/0129_05.jpg",
+            "audioSrc": "./public/audio/en/0129/0129_en_05.mp3"
+        },
+        {
+            "text": "I wash the dishes.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0129/0129_06.jpg",
+            "audioSrc": "./public/audio/en/0129/0129_en_06.mp3"
+        },
+        {
+            "text": "Why do I work so hard… … when my brother is busy playing?",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0129/0129_07.jpg",
+            "audioSrc": "./public/audio/en/0129/0129_en_07.mp3"
+        }
+    ]
+}

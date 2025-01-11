@@ -1,0 +1,85 @@
+{
+    "id": "0337",
+    "language": "en",
+    "storyPath": "./public/data/en/0337.json",
+    "title": "Children of wax",
+    "illustrator": " Wiehan de Jager",
+    "writtenby": " Southern African Folktale",
+    "readby": " Darshan Soni",
+    "translator": null,
+    "level": 2,
+    "pages": [
+        {
+            "text": "Children of wax",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0337/0337_00.jpg",
+            "audioSrc": "./public/audio/en/0337/0337_en_00.mp3"
+        },
+        {
+            "text": "Once upon a time, there lived a happy family.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0337/0337_01.jpg",
+            "audioSrc": "./public/audio/en/0337/0337_en_01.mp3"
+        },
+        {
+            "text": "They never fought with each other. They helped their parents at home and in the fields.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0337/0337_02.jpg",
+            "audioSrc": "./public/audio/en/0337/0337_en_02.mp3"
+        },
+        {
+            "text": "But they were not allowed to go near a fire.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0337/0337_03.jpg",
+            "audioSrc": "./public/audio/en/0337/0337_en_03.mp3"
+        },
+        {
+            "text": "They had to do all their work during the night. Because they were made of wax!",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0337/0337_04.jpg",
+            "audioSrc": "./public/audio/en/0337/0337_en_04.mp3"
+        },
+        {
+            "text": "But one of the boys longed to go out in the sunlight.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0337/0337_05.jpg",
+            "audioSrc": "./public/audio/en/0337/0337_en_05.mp3"
+        },
+        {
+            "text": "One day the longing was too strong. His brothers warned him…",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0337/0337_06.jpg",
+            "audioSrc": "./public/audio/en/0337/0337_en_06.mp3"
+        },
+        {
+            "text": "But it was too late! He melted in the hot sun.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0337/0337_07.jpg",
+            "audioSrc": "./public/audio/en/0337/0337_en_07.mp3"
+        },
+        {
+            "text": "The wax children were so sad to see their brother melting away.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0337/0337_08.jpg",
+            "audioSrc": "./public/audio/en/0337/0337_en_08.mp3"
+        },
+        {
+            "text": "But they made a plan. They shaped the lump of melted wax into a bird.",
+            "pagenum": 9,
+            "imageSrc": "./public/images/0337/0337_09.jpg",
+            "audioSrc": "./public/audio/en/0337/0337_en_09.mp3"
+        },
+        {
+            "text": "They took their bird brother up to a high mountain.",
+            "pagenum": 10,
+            "imageSrc": "./public/images/0337/0337_10.jpg",
+            "audioSrc": "./public/audio/en/0337/0337_en_10.mp3"
+        },
+        {
+            "text": "And as the sun rose, he flew away singing into the morning light.",
+            "pagenum": 11,
+            "imageSrc": "./public/images/0337/0337_11.jpg",
+            "audioSrc": "./public/audio/en/0337/0337_en_11.mp3"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "0158",
+    "language": "en",
+    "storyPath": "./public/data/en/0158.json",
+    "title": "Hen and Eagle",
+    "illustrator": " Wiehan de Jager",
+    "writtenby": " Ann Nduku",
+    "readby": " Darshan Soni",
+    "translator": null,
+    "level": 3,
+    "pages": [
+        {
+            "text": "Hen and Eagle",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0158/0158_00.jpg",
+            "audioSrc": "./public/audio/en/0158/0158_en_00.mp3"
+        },
+        {
+            "text": "Once upon a time, Hen and Eagle were friends. They lived in peace with all the other birds. None of them could fly.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0158/0158_01.jpg",
+            "audioSrc": "./public/audio/en/0158/0158_en_01.mp3"
+        },
+        {
+            "text": "One day, there was famine in the land. Eagle had to walk very far to find food. She came back very tired. “There must be an easier way to travel!” said Eagle.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0158/0158_02.jpg",
+            "audioSrc": "./public/audio/en/0158/0158_en_02.mp3"
+        },
+        {
+            "text": "After a good night’s sleep, Hen had a brilliant idea. She began collecting the fallen feathers from all their bird friends. “Let’s sew them together on top of our own feathers,” she said. “Perhaps that will make it easier to travel.”",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0158/0158_03.jpg",
+            "audioSrc": "./public/audio/en/0158/0158_en_03.mp3"
+        },
+        {
+            "text": "Eagle was the only one in the village with a needle, so she started sewing first. She made herself a pair of beautiful wings and flew high above Hen. Hen borrowed the needle but she soon got tired of sewing. She left the needle on the cupboard and went into the kitchen to prepare food for her children.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0158/0158_04.jpg",
+            "audioSrc": "./public/audio/en/0158/0158_en_04.mp3"
+        },
+        {
+            "text": "But the other birds had seen Eagle flying away. They asked Hen to lend them the needle to make wings for themselves too. Soon there were birds flying all over the sky.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0158/0158_05.jpg",
+            "audioSrc": "./public/audio/en/0158/0158_en_05.mp3"
+        },
+        {
+            "text": "When the last bird returned the borrowed needle, Hen was not there. So her children took the needle and started playing with it. When they got tired of the game, they left the needle in the sand.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0158/0158_06.jpg",
+            "audioSrc": "./public/audio/en/0158/0158_en_06.mp3"
+        },
+        {
+            "text": "Later that afternoon, Eagle returned. She asked for the needle to fix some feathers that had loosened on her journey. Hen looked on the cupboard. She looked in the kitchen. She looked in the yard. But the needle was nowhere to be found.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0158/0158_07.jpg",
+            "audioSrc": "./public/audio/en/0158/0158_en_07.mp3"
+        },
+        {
+            "text": "“Just give me a day,” Hen begged Eagle. “Then you can fix your wing and fly away to get food again.” “Just one more day,” said Eagle. “If you can’t find the needle, you’ll have to give me one of your chicks as payment.”",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0158/0158_08.jpg",
+            "audioSrc": "./public/audio/en/0158/0158_en_08.mp3"
+        },
+        {
+            "text": "When Eagle came the next day, she found Hen scratching in the sand, but no needle. So Eagle flew down very fast and caught one of the chicks. She carried it away. Forever after that, whenever Eagle appears, she finds Hen scratching in the sand for the needle.",
+            "pagenum": 9,
+            "imageSrc": "./public/images/0158/0158_09.jpg",
+            "audioSrc": "./public/audio/en/0158/0158_en_09.mp3"
+        },
+        {
+            "text": "As the shadow of Eagle’s wing falls on the ground, Hen warns her chicks. “Get out of the bare and dry land.” And they respond: “We are not fools. We will run.”",
+            "pagenum": 10,
+            "imageSrc": "./public/images/0158/0158_10.jpg",
+            "audioSrc": "./public/audio/en/0158/0158_en_10.mp3"
+        }
+    ]
+}

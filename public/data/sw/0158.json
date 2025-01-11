@@ -1,0 +1,79 @@
+{
+    "id": "0158",
+    "language": "sw",
+    "storyPath": "./public/data/sw/0158.json",
+    "title": "Kuku na Tai",
+    "illustrator": " Wiehan de Jager",
+    "writtenby": " Ann Nduku",
+    "readby": " Lauwo George",
+    "translator": " Matteo E. Mwita",
+    "level": 3,
+    "pages": [
+        {
+            "text": "Kuku na Tai",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0158/0158_00.jpg",
+            "audioSrc": "./public/audio/sw/0158/0158_sw_00.mp3"
+        },
+        {
+            "text": "Hapo zamani za kale, Kuku na Tai walikuwa marafiki. Waliishi kwa amani na ndege wengine. Hakuna kati yao aliyeweza kupaa.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0158/0158_01.jpg",
+            "audioSrc": "./public/audio/sw/0158/0158_sw_01.mp3"
+        },
+        {
+            "text": "Kuna siku njaa ilitokea. Ikamlazimu Tai kutembea umbali mrefu kutafuta chakula. Alirudi akiwa amechoka sana. “Lazima kuwe na njia rahisi ya kusafiri!” Tai alisema.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0158/0158_02.jpg",
+            "audioSrc": "./public/audio/sw/0158/0158_sw_02.mp3"
+        },
+        {
+            "text": "Baada ya usingizi mnono wa usiku, Kuku alijiwa na wazo zuri sana. Akaanza kukusanya manyoya yaliyodondoka kutoka kwa ndege wenzao. “Tuyashonee haya manyoya juu ya manyoya yetu,” Kuku alisema. “Labda itaturahisishia kusafiri.”",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0158/0158_03.jpg",
+            "audioSrc": "./public/audio/sw/0158/0158_sw_03.mp3"
+        },
+        {
+            "text": "Tai pekee ndiye aliyekuwa na sindano kijijini, kwa hiyo akaanza kushona wa kwanza. Akajitengenezea mabawa mawili mazuri na akapaa juu ya kuku. Kuku aliazima sindano lakini akachoka kushona baada ya muda mfupi. Akaacha sindano kabatini na akaenda jikoni kuandaa chakula kwa ajili ya watoto wake.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0158/0158_04.jpg",
+            "audioSrc": "./public/audio/sw/0158/0158_sw_04.mp3"
+        },
+        {
+            "text": "Lakini ndege wengine walimwona Tai akipaa. Wakamwomba Kuku awaazime sindano ili nao wajishonee mabawa pia. Muda si mrefu ndege wakawa wamepaa na kuzagaa anga zima.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0158/0158_05.jpg",
+            "audioSrc": "./public/audio/sw/0158/0158_sw_05.mp3"
+        },
+        {
+            "text": "Ndege wa mwisho aliporudisha sindano aliyoazima, Kuku hakuwepo. Kwa hiyo watoto wake wakachukua sindano na wakaanza kuichezea. Walipochoka na mchezo wao, wakaiacha sindano kwenye mchanga.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0158/0158_06.jpg",
+            "audioSrc": "./public/audio/sw/0158/0158_sw_06.mp3"
+        },
+        {
+            "text": "Baadaye jioni Tai akarudi. Akaomba sindano ili aweze kushona baadhi ya manyoya yaliyokuwa yameanza kulegea alipokuwa safarini. Akaangalia kwenye kabati. Akaangalia jikoni. Akaangalia uani. Ila sindano haikupatikana.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0158/0158_07.jpg",
+            "audioSrc": "./public/audio/sw/0158/0158_sw_07.mp3"
+        },
+        {
+            "text": "“Nipatie siku moja,” Kuku alimwomba Tai. “Halafu utaweza kushona bawa lako na kuruka tena kwenda kutafuta chakula.” “Siku moja tu,” alisema Tai. “Kama hutaipata sindano, itabidi unipe kimoja cha vifaranga vyako kama malipo.”",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0158/0158_08.jpg",
+            "audioSrc": "./public/audio/sw/0158/0158_sw_08.mp3"
+        },
+        {
+            "text": "Tai aliporudi siku iliyofuata, alimkuta Kuku akichakura mchangani, ila hakukuwa na sindano. Kwa hiyo Tai alishuka kwa kasi na kukwapua kifaranga kimoja. Akaondoka nacho. Tangu hapo, kila Tai anapojitokeza humkuta Kuku akichakura kwenye mchanga akitafuta sindano.",
+            "pagenum": 9,
+            "imageSrc": "./public/images/0158/0158_09.jpg",
+            "audioSrc": "./public/audio/sw/0158/0158_sw_09.mp3"
+        },
+        {
+            "text": "Kila kivuli cha mabawa ya Tai kinapoonekana ardhini, Kuku huwatahadharisha vifaranga vyake. “Tokeni kwenye eneo la wazi.” Na wanajibu: “Sisi si wajinga. Tutakimbia.”",
+            "pagenum": 10,
+            "imageSrc": "./public/images/0158/0158_10.jpg",
+            "audioSrc": "./public/audio/sw/0158/0158_sw_10.mp3"
+        }
+    ]
+}

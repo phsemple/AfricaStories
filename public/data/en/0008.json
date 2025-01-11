@@ -1,0 +1,67 @@
+{
+    "id": "0008",
+    "language": "en",
+    "storyPath": "./public/data/en/0008.json",
+    "title": "What are you doing?",
+    "illustrator": " Wiehan de Jager",
+    "writtenby": " Nina Orange",
+    "readby": " Darshan Soni",
+    "translator": null,
+    "level": 1,
+    "pages": [
+        {
+            "text": "What are you doing?",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0008/0008_00.jpg",
+            "audioSrc": "./public/audio/en/0008/0008_en_00.mp3"
+        },
+        {
+            "text": "I am singing.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0008/0008_01.jpg",
+            "audioSrc": "./public/audio/en/0008/0008_en_01.mp3"
+        },
+        {
+            "text": "She is waving.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0008/0008_02.jpg",
+            "audioSrc": "./public/audio/en/0008/0008_en_02.mp3"
+        },
+        {
+            "text": "I am clapping.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0008/0008_03.jpg",
+            "audioSrc": "./public/audio/en/0008/0008_en_03.mp3"
+        },
+        {
+            "text": "She is stretching.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0008/0008_04.jpg",
+            "audioSrc": "./public/audio/en/0008/0008_en_04.mp3"
+        },
+        {
+            "text": "He is calling.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0008/0008_05.jpg",
+            "audioSrc": "./public/audio/en/0008/0008_en_05.mp3"
+        },
+        {
+            "text": "I am answering.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0008/0008_06.jpg",
+            "audioSrc": "./public/audio/en/0008/0008_en_06.mp3"
+        },
+        {
+            "text": "She is listening.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0008/0008_07.jpg",
+            "audioSrc": "./public/audio/en/0008/0008_en_07.mp3"
+        },
+        {
+            "text": "What are you doing?",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0008/0008_08.jpg",
+            "audioSrc": "./public/audio/en/0008/0008_en_08.mp3"
+        }
+    ]
+}

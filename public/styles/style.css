@@ -1,0 +1,359 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+body {
+  display: grid;
+  grid-template-columns: [start-body-left] 8.8rem [end-bod-left start-container] repeat(10, 8.8rem) [end-container start-body-left] 8.8rem [end-body-right];
+  grid-template-rows: repeat(12, 6.18rem);
+  min-height: 100vh;
+  width: 106rem;
+  height: 74rem;
+  background-color: rgb(88, 88, 88);
+}
+
+.header {
+  grid-column: start-container/end-container;
+  grid-row: 1/2;
+  background-color: rgb(176, 176, 176);
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  justify-items: center;
+  align-items: bottom;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 6.18rem;
+}
+
+#story-page .main {
+  grid-column: start-container/end-container;
+  grid-row: 2/10;
+  background-color: rgb(223, 223, 223);
+}
+
+#titles-page .main {
+  grid-column: start-container/end-container;
+  min-height: 100vh;
+  background-color: rgb(223, 223, 223);
+  overflow-y: auto; /* Enables scrolling if content exceeds viewport */
+}
+
+.story-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  justify-items: start;
+}
+
+/* ***************************
+   COMBINED CONTROLS/PAGING
+   */
+.wrapper-controls-paging {
+  display: grid;
+  column-gap: 1px;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 6.18rem;
+  background-color: rgb(223, 223, 223);
+}
+
+.controls {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+[class^=control-] {
+  width: 1.75rem;
+  height: 1.75rem;
+  fill: black;
+  filter: brightness(0.5);
+}
+
+#forward {
+  margin-right: 1rem;
+}
+
+#back {
+  margin-left: 1rem;
+}
+
+.paging {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  justify-content: space-between;
+  height: 6.18rem;
+}
+
+#previous {
+  justify-self: end;
+}
+
+#next {
+  justify-self: start;
+}
+
+#page-text {
+  justify-self: center;
+}
+
+/* *****************************
+    END COMBINED CONTROLS/PAGING
+*/
+/********************************
+  START PLAY/PAUSE
+  Play/Pause Stack on each other
+*/
+.wrapper-playpause {
+  display: flex; /* Enable flexbox */
+  flex-direction: column; /* Stack elements vertically */
+  justify-content: center; /* Center vertically */
+  align-items: center; /* Center horizontally */
+  position: relative; /* Allows stacking if needed */
+}
+
+#play, #pause {
+  position: absolute; /* Stack elements on top of each other */
+  top: 50%; /* Center vertically */
+  left: 50%; /* Center horizontally */
+  transform: translate(-50%, -50%); /* Align to the center */
+  display: none; /* Hide by default (you can toggle visibility with JS) */
+}
+
+/* END PLAY/PAUSE
+/********************************/
+/************************
+    START FOOTER
+*/
+.footer {
+  grid-column: start-container/end-container;
+  grid-row: 11/13;
+  align-content: center;
+  background-color: rgb(176, 176, 176);
+}
+
+.footer-credits {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  height: 6.18rem;
+  justify-content: center;
+}
+
+.credits-wrapper {
+  display: grid;
+  grid-template-columns: 40% 1fr;
+  align-items: center;
+}
+
+#title {
+  font-size: 3rem;
+}
+
+#level {
+  font-size: 1.75rem;
+}
+
+/* **************
+   MENU START   */
+.menu {
+  border-top: 2px solid rgb(50, 50, 50);
+  border-bottom: 2px solid rgb(50, 50, 50);
+}
+.menu-label {
+  font-size: 2rem;
+  margin-right: 1rem;
+}
+.menu-field {
+  height: 3rem; /* Sets the height */
+  font-size: 1.6rem; /* Sets the font size */
+  color: #333; /* Sets the text color */
+  background-color: #f0f0f0; /* Sets the background color */
+  border: 1px solid #ccc; /* Sets the border */
+  border-radius: 0.5rem; /* Optional: Adds rounded corners */
+  padding: 5px; /* Adds inner spacing */
+}
+
+#autoplay {
+  vertical-align: middle; /* Aligns the text to the checkbox */
+  width: 1.75rem;
+  margin-bottom: 1rem;
+  margin-left: -1rem;
+  margin-top: 0.5rem;
+}
+
+/* Style options */
+option {
+  font-size: 1.6rem; /* Font size for options */
+  color: #333; /* Text color for options */
+  background-color: #ffffff; /* Background color for options */
+}
+
+/*
+    MENU END     
+**************/
+/* *********************
+    HOME PAGE START   */
+#title-cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 1.5rem;
+}
+
+.title-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 23%;
+  border: 1px solid gray;
+  cursor: pointer;
+}
+.title-card-picture {
+  width: 100%;
+  height: auto;
+}
+.title-card-title {
+  font-size: 1.5rem;
+  height: 4rem;
+  margin-top: 0.5rem;
+  padding: 0 0.5rem;
+}
+.title-card-level {
+  font-size: 1rem;
+}
+
+/* **************
+   STORY START  */
+.story-wrapper {
+  border-left: 1px solid rgb(50, 50, 50);
+  border-right: 1px solid rgb(50, 50, 50);
+  border-bottom: 1px solid rgb(50, 50, 50);
+}
+
+#picture {
+  border-right: 1px solid rgb(50, 50, 50);
+  width: 44.15rem;
+  height: 43.25rem;
+}
+
+#storytext {
+  font-size: 2.5rem;
+  padding: 0 2rem;
+}
+
+/*
+   STORY END     
+**************/
+/* *****************
+   CONTROLS START  */
+#play.hidden, #pause.hidden {
+  display: none;
+}
+
+#playbutton.hidden, #pausebutton.hidden {
+  display: none;
+}
+
+#playbutton.visible, #pausebutton.visible {
+  display: block;
+}
+
+#play.visible, #pause.visible {
+  display: block; /* Show the play button initially */
+}
+
+/*
+   CONTROLS END     
+*******************/
+/* *****************
+   PAGING START  */
+#page-text {
+  font-size: 2rem;
+  color: rgb(3, 3, 3);
+}
+
+#previous,
+#next {
+  background-color: transparent;
+  border: none;
+  font-size: 2rem;
+  color: rgb(3, 3, 3);
+}
+#previous:hover,
+#next:hover {
+  transform: scale(1.25);
+}
+
+#previous[disabled],
+#next[disabled] {
+  color: grey;
+  transform: scale(1);
+}
+
+/*
+   PAGING END     
+*******************/
+/******************
+  FOOTER START
+*/
+.footer__credits--label {
+  font-size: 1.75rem;
+  font-weight: bold;
+  justify-self: end;
+}
+
+.footer__credits--field {
+  font-size: 1.75rem;
+  font-weight: 500;
+  margin-left: 1.75rem;
+  justify-self: start;
+}
+
+/*
+    FOOTER END
+*******************/
+#home {
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  border-radius: 15%;
+}
+
+.btn-control {
+  width: 2rem;
+  filter: brightness(40%);
+}
+
+.btn-play,
+.btn-pause {
+  position: absolute; /* Ensure both buttons overlap */
+  top: 0;
+  left: 0;
+  width: 100%; /* Ensure the buttons fit the container */
+  height: 100%; /* Ensure the buttons fit the container */
+  object-fit: contain; /* Adjust how the image scales if needed */
+}
+
+.btn-pause {
+  display: none; /* Initially hide the pause button */
+}
+
+/*# sourceMappingURL=style.css.map */

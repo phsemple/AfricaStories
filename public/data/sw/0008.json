@@ -1,0 +1,67 @@
+{
+    "id": "0008",
+    "language": "sw",
+    "storyPath": "./public/data/sw/0008.json",
+    "title": "Unafanya nini?",
+    "illustrator": " Wiehan de Jager",
+    "writtenby": " Nina Orange",
+    "readby": " Lauwo George",
+    "translator": " Matteo E. Mwita",
+    "level": 1,
+    "pages": [
+        {
+            "text": "Unafanya nini?",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0008/0008_00.jpg",
+            "audioSrc": "./public/audio/sw/0008/0008_sw_00.mp3"
+        },
+        {
+            "text": "Ninaimba.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0008/0008_01.jpg",
+            "audioSrc": "./public/audio/sw/0008/0008_sw_01.mp3"
+        },
+        {
+            "text": "Anapunga mkono.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0008/0008_02.jpg",
+            "audioSrc": "./public/audio/sw/0008/0008_sw_02.mp3"
+        },
+        {
+            "text": "Ninapiga makofi.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0008/0008_03.jpg",
+            "audioSrc": "./public/audio/sw/0008/0008_sw_03.mp3"
+        },
+        {
+            "text": "Anajinyoosha.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0008/0008_04.jpg",
+            "audioSrc": "./public/audio/sw/0008/0008_sw_04.mp3"
+        },
+        {
+            "text": "Anaita.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0008/0008_05.jpg",
+            "audioSrc": "./public/audio/sw/0008/0008_sw_05.mp3"
+        },
+        {
+            "text": "Ninaitika.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0008/0008_06.jpg",
+            "audioSrc": "./public/audio/sw/0008/0008_sw_06.mp3"
+        },
+        {
+            "text": "Anasikiliza.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0008/0008_07.jpg",
+            "audioSrc": "./public/audio/sw/0008/0008_sw_07.mp3"
+        },
+        {
+            "text": "Wewe unafanya nini?",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0008/0008_08.jpg",
+            "audioSrc": "./public/audio/sw/0008/0008_sw_08.mp3"
+        }
+    ]
+}

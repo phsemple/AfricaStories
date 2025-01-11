@@ -1,0 +1,91 @@
+{
+    "id": "0110",
+    "language": "sw",
+    "storyPath": "./public/data/sw/0110.json",
+    "title": "Mbegu Ndogo: Hadithi ya Wangari Maathai",
+    "illustrator": " Maya Marshak",
+    "writtenby": " Nicola Rijsdijk",
+    "readby": " Lauwo George",
+    "translator": " Ursula Nafula",
+    "level": 3,
+    "pages": [
+        {
+            "text": "Mbegu Ndogo: Hadithi ya Wangari Maathai",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0110/0110_00.jpg",
+            "audioSrc": "./public/audio/sw/0110/0110_sw_00.mp3"
+        },
+        {
+            "text": "Katika kijiji kimoja kwenye mteremko wa Mlima wa Kenya, katika Afrika Mashariki, msichana mdogo alifanya kazi za shambani pamoja na mama yake. Msichana huyu aliitwa Wangari.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0110/0110_01.jpg",
+            "audioSrc": "./public/audio/sw/0110/0110_sw_01.mp3"
+        },
+        {
+            "text": "Wangari alipenda kufanya kazi za nje. Alitumia jembe kulima katika bustani ya familia yake. Kisha alipanda mbegu ndogo katika ardhi yenye rutuba.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0110/0110_02.jpg",
+            "audioSrc": "./public/audio/sw/0110/0110_sw_02.mp3"
+        },
+        {
+            "text": "Alipenda majira ya jioni, wakati jua linapozama. Giza lilipozidi mpaka aliposhindwa kuona mimea, Wangari alifahamu kuwa wakati wa kwenda nyumbani uliwadia. Alikuwa anafuata kinjia chembamba kilichopita uwanjani huku akivuka mito akielekea nyumbani.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0110/0110_03.jpg",
+            "audioSrc": "./public/audio/sw/0110/0110_sw_03.mp3"
+        },
+        {
+            "text": "Wangari alikuwa mtoto mwerevu na alikuwa na hamu ya kwenda shule. Lakini wazazi wake walitaka awasaidie nyumbani. Alipofika umri wa miaka saba, kaka yake aliwashawishi wazazi wake kumwacha aende shule.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0110/0110_04.jpg",
+            "audioSrc": "./public/audio/sw/0110/0110_sw_04.mp3"
+        },
+        {
+            "text": "Alipenda kusoma! Wangari alijifunza zaidi na zaidi kwa kila kitabu alichokisoma. Alifanya vyema sana shuleni hadi akaalikwa kwenda Marekani kuendeleza masomo yake huko. Wangari alitiwa hamasa sana na nafasi hii! Alipenda kujua ulimwengu zaidi.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0110/0110_05.jpg",
+            "audioSrc": "./public/audio/sw/0110/0110_sw_05.mp3"
+        },
+        {
+            "text": "Alipokuwa chuoni huko Marekani, Wangari alijifunza mengi mapya. Alisomea mimea na jinsi inavyokua. Na alikumbuka maisha yake yalivyokuwa utotoni: kucheza michezo na msitu zake katika kivuli cha miti kwenye misitu maridadi ya Kenya.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0110/0110_06.jpg",
+            "audioSrc": "./public/audio/sw/0110/0110_sw_06.mp3"
+        },
+        {
+            "text": "Jinsi alivyojifunza ndivyo alivyofahamu kuwa aliwapenda watu wa Kenya. Alitaka wafurahi na wawe wenye uhuru. Jinsi alivyojifunza ndivyo alivyokumbuka nyumbani kwao Afrika.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0110/0110_07.jpg",
+            "audioSrc": "./public/audio/sw/0110/0110_sw_07.mp3"
+        },
+        {
+            "text": "Alipokamilisha masomo yake, alirudi Kenya. Lakini nchi yake ilikuwa imebadilika. Kulikuwa na mashamba makubwa kila upande. Wanawake hawakupata kuni za kuwasha moto wa kupikia. Watu walikuwa maskini na watoto walikuwa na njaa.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0110/0110_08.jpg",
+            "audioSrc": "./public/audio/sw/0110/0110_sw_08.mp3"
+        },
+        {
+            "text": "Wangari alijua la kufanya. Aliwafundisha wanawake jinsi ya kupanda miti kutokana na miche. Wanawake waliuza ile miti na pesa walizopata walizitumia kwa mahitaji ya familia zao. Wanawake walifurahi. Wangari alikuwa amewasaidia kuwa wenye nguvu na uwezo.",
+            "pagenum": 9,
+            "imageSrc": "./public/images/0110/0110_09.jpg",
+            "audioSrc": "./public/audio/sw/0110/0110_sw_09.mp3"
+        },
+        {
+            "text": "Muda ulipopita, miti mipya ilikuwa misitu, na mito ilianza tena kupitisha maji. Ujumbe wa Wangari ulienea Afrika nzima. Leo, mamilioni ya miti imemea kutokana na mbegu za Wangari.",
+            "pagenum": 10,
+            "imageSrc": "./public/images/0110/0110_10.jpg",
+            "audioSrc": "./public/audio/sw/0110/0110_sw_10.mp3"
+        },
+        {
+            "text": "Wangari alikuwa amefanya bidii. Watu ulimwengu mzima walifahamu hili na wakampa tuzo. Tuzo hii inaitwa, ‘Tuzo ya Amani ya Nobel.’ Na alikuwa mwanamke wa Kiafrika wa kwanza kupokea tuzo hii.",
+            "pagenum": 11,
+            "imageSrc": "./public/images/0110/0110_11.jpg",
+            "audioSrc": "./public/audio/sw/0110/0110_sw_11.mp3"
+        },
+        {
+            "text": "Wangari alifariki mwaka 2011, lakini tunaweza kumkumbuka kila tunapoona mti maridadi.",
+            "pagenum": 12,
+            "imageSrc": "./public/images/0110/0110_12.jpg",
+            "audioSrc": "./public/audio/sw/0110/0110_sw_12.mp3"
+        }
+    ]
+}

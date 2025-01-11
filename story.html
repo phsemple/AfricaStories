@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="public/styles/style.css">
+    <title>Uwimana's African Stories</title>
+
+</head>
+
+<body id="story-page">
+
+    <header class="header">
+        <div id="title"></div>
+        <div id="level"></div>
+    </header>
+    <container class="main">
+
+        <!-- We will load the control.html here -->
+        <div id="controls-container"></div>
+
+
+        <div class="story-wrapper">
+            <img src="#" alt="" id="picture">
+            <div id="storytext">
+            </div>
+        </div>
+
+        <div class="wrapper-controls-paging">
+            <div class="controls">
+                <audio id="audio" type="audio/mp3" src="public/audio/sw/0001/0001_sw_01.mp3">
+                    Your browser does not support the audio element.
+                </audio>
+                <img src="public/images/panel/back2.png" id="back" class="control-back"></img>
+                <div class="wrapper-playpause">
+                    <button id="playbutton" class='visible'>
+                        <img src="public/images/panel/play.png" id="play" class="control-play visible"></img>
+                    </button>
+                    <button id="pausebutton" class='hidden'>
+                        <img src="public/images/panel/pause.png" id="pause" class="control-pause hidden"></img>
+                    </button>
+                </div>
+                <img src="public/images/panel/forward2.png" id="forward" class="control-forward"></img>
+            </div>
+
+            <div class="paging">
+                <button class="paging-button" id="previous">&lt;&lt;</button>
+                <div id="page-text">Page <span id="page-num">4</span> of <span id="page-count">12</span></div>
+                <button class="paging-button" id="next">&gt;&gt;</button>
+            </div>
+        </div>
+
+
+    </container>
+    <footer class="footer">
+        <div class="footer-credits">
+
+            <div class="credits-wrapper">
+                <div class="footer__credits--label">Writer:</div>
+                <div id="writer" class="footer__credits--writtenby footer__credits--field"></div>
+            </div>
+
+            <div class="credits-wrapper">
+                <div class="footer__credits--label">Reader:</div>
+                <div id="reader" class="footer__credits--readby footer__credits--field"></div>
+            </div>
+
+            <div class="credits-wrapper">
+                <div class="footer__credits--label">Translator:</div>
+                <div id="translator" class="footer__credits--translatedby footer__credits--field"></div>
+            </div>
+
+            <div class="credits-wrapper">
+                <div class="footer__credits--label">Illustrator:</div>
+                <div id="illustrator" class="footer__credits--illustratedby footer__credits--field">
+                </div>
+            </div>
+
+        </div>
+
+    </footer>
+
+    <script type="module" src="./public/scripts/loadControls.js"></script>
+    <script type="module" src="./public/scripts/story/story.js"></script>
+
+</body>
+
+</html>

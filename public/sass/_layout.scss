@@ -1,0 +1,169 @@
+@use "variables" as var;
+
+body {
+  display: grid;
+  // create a 12x12 grid
+  grid-template-columns: [start-body-left] 8.8rem [end-bod-left start-container] repeat(10, 8.8rem) [end-container start-body-left] 8.8rem [end-body-right] ;
+  grid-template-rows: repeat(12,6.18rem );
+
+  min-height: 100vh;
+  width: 106rem;
+  height: 74rem;
+  background-color: var.$color-body;
+}
+
+.header {
+    grid-column:start-container/end-container;
+    grid-row: 1/2;
+    background-color:var.$color-header;
+
+    display:grid;
+    grid-template-rows: 1fr 1fr;
+    justify-items: center;
+    align-items: bottom;
+}
+
+.menu {
+    display:flex;
+    justify-content: space-evenly;
+    align-items:center;
+    height: var.$cell-height;
+}
+
+#story-page .main {
+    grid-column:start-container/end-container;
+    grid-row: 2/10;
+    background-color:var.$color-container;
+}
+
+#titles-page .main {
+    grid-column:start-container/end-container;
+    min-height: 100vh;
+    background-color:var.$color-container;
+    overflow-y: auto; /* Enables scrolling if content exceeds viewport */
+}
+
+
+
+.story-wrapper {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+
+    // the picture takes the full cell, so centering has no effect
+    // we want to center and set storytext at start of it's cell.
+    align-items: center;
+    justify-items:start; 
+
+}
+
+/* ***************************
+   COMBINED CONTROLS/PAGING
+   */
+
+
+   .wrapper-controls-paging{
+       display:grid;
+       column-gap: 1px;
+       grid-template-columns: 1fr 1fr;
+       grid-template-rows: var.$cell-height;
+       background-color: var.$color-container;
+       }
+
+       
+    .controls { // wraps the controls and the paging over the width of the page
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
+    
+    //  **** PLAY/PAUSE CONTROLS ****
+    [class^="control-"] {
+    width: 1.75rem;
+    height: 1.75rem;
+    fill: black;
+    filter: brightness(0.5);
+    }
+
+    #forward { // jump forward 2 seconds
+        margin-right: 1rem;
+    }
+
+    #back { // rewind 2 seconds
+        margin-left: 1rem;
+    }
+
+    // **** PAGING CONTROL ****
+    .paging {
+        display:grid;
+        grid-template-columns: repeat(3, 1fr);
+        align-items: center;
+        justify-content: space-between;
+        height: var.$cell-height;
+    }
+
+    #previous {
+        justify-self: end;
+    }
+
+    #next {
+        justify-self: start;
+    }
+
+    #page-text {
+        justify-self: center;
+    }
+            
+/* *****************************
+    END COMBINED CONTROLS/PAGING
+*/
+
+
+
+/********************************
+  START PLAY/PAUSE
+  Play/Pause Stack on each other
+*/
+.wrapper-playpause {
+    display: flex; /* Enable flexbox */
+    flex-direction: column; /* Stack elements vertically */
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    position: relative; /* Allows stacking if needed */
+}
+
+#play, #pause {
+    position: absolute; /* Stack elements on top of each other */
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Align to the center */
+    display: none; /* Hide by default (you can toggle visibility with JS) */
+}
+
+
+
+/* END PLAY/PAUSE
+/********************************/
+
+/************************
+    START FOOTER
+*/
+.footer {
+    grid-column:start-container/end-container;
+    grid-row:11/13;
+    align-content:center;
+    background-color:var.$color-footer; 
+}
+
+.footer-credits{
+    display:grid;
+    grid-template-columns: 50% 50%;
+    height: var.$cell-height;
+    justify-content: center;
+}
+
+.credits-wrapper {
+    display:grid;
+    grid-template-columns: 40% 1fr;
+    align-items:center;
+}
+

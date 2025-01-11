@@ -1,0 +1,73 @@
+@use "variables" as var;
+
+body {
+  display: grid;
+  // create a 12x12 grid
+  grid-template-columns: [start-body-left] 8.8rem [end-bod-left start-container] repeat(10, 8.8rem) [end-container start-body-left] 8.8rem [end-body-right] ;
+  grid-template-rows: repeat(12,6.18rem );
+  
+  min-height: 100vh;
+  width: 106rem;
+  height: 74rem;
+  background-color: var.$color-body;
+}
+
+.header {
+    grid-column:start-container/end-container;
+    grid-row: 1/2;
+    background-color:var.$color-header;
+
+    display:grid;
+    grid-template-rows: 1fr 1fr;
+    justify-items: center;
+    align-items: bottom;
+    
+}
+
+.main {
+    grid-column:start-container/end-container;
+    grid-row: 2/10;
+    background-color:var.$color-container;
+}
+
+.menu {
+    display:flex;
+    justify-content: space-evenly;
+    align-items:center;
+    height: var.$cell-height;
+}
+
+#title-cards {
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap:wrap;
+    gap:2rem;
+ 
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+// used by main page
+.title-card {
+    display:flex;
+    flex-direction: column; 
+    align-items:center;
+    max-width:23%;
+    border: 1px solid gray;
+
+    &-picture {
+        width:100%;
+        height:auto;
+    }
+
+    &-title {
+        font-size: 1.25rem;
+        height: 4rem;
+    }
+
+    &-level {
+        font-size: 1rem;
+    }
+
+}

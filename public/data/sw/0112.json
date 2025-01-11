@@ -1,0 +1,67 @@
+{
+    "id": "0112",
+    "language": "sw",
+    "storyPath": "./public/data/sw/0112.json",
+    "title": "Mwili wangu",
+    "illustrator": " Mlungisi Dlamini, Ingrid Schechter",
+    "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
+    "readby": " Lauwo George",
+    "translator": " Peterson Kibuuri, Stevenson Mutisya",
+    "level": 1,
+    "pages": [
+        {
+            "text": "Mwili wangu",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0112/0112_00.jpg",
+            "audioSrc": "./public/audio/sw/0112/0112_sw_00.mp3"
+        },
+        {
+            "text": "Ninaweza kukimbia nao.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0112/0112_01.jpg",
+            "audioSrc": "./public/audio/sw/0112/0112_sw_01.mp3"
+        },
+        {
+            "text": "Ninaweza kuruka nao.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0112/0112_02.jpg",
+            "audioSrc": "./public/audio/sw/0112/0112_sw_02.mp3"
+        },
+        {
+            "text": "Ninaweza kucheza nao.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0112/0112_03.jpg",
+            "audioSrc": "./public/audio/sw/0112/0112_sw_03.mp3"
+        },
+        {
+            "text": "Ninaweza kuogelea nao.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0112/0112_04.jpg",
+            "audioSrc": "./public/audio/sw/0112/0112_sw_04.mp3"
+        },
+        {
+            "text": "Ninaweza kuruka kamba nao.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0112/0112_05.jpg",
+            "audioSrc": "./public/audio/sw/0112/0112_sw_05.mp3"
+        },
+        {
+            "text": "Ninaweza kupiga mpira nao.",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0112/0112_06.jpg",
+            "audioSrc": "./public/audio/sw/0112/0112_sw_06.mp3"
+        },
+        {
+            "text": "Ninaweza kutoroka nao.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0112/0112_07.jpg",
+            "audioSrc": "./public/audio/sw/0112/0112_sw_07.mp3"
+        },
+        {
+            "text": "Lakini siwezi kupaa nao angani.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0112/0112_08.jpg",
+            "audioSrc": "./public/audio/sw/0112/0112_sw_08.mp3"
+        }
+    ]
+}

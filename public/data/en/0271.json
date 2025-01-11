@@ -1,0 +1,49 @@
+{
+    "id": "0271",
+    "language": "en",
+    "storyPath": "./public/data/en/0271.json",
+    "title": "Two",
+    "illustrator": " Richard MacIntosh",
+    "writtenby": " Carole Bloch",
+    "readby": " Darshan Soni",
+    "translator": null,
+    "level": 1,
+    "pages": [
+        {
+            "text": "Two",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0271/0271_00.jpg",
+            "audioSrc": "./public/audio/en/0271/0271_en_00.mp3"
+        },
+        {
+            "text": "Two little hands to hold.",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0271/0271_01.jpg",
+            "audioSrc": "./public/audio/en/0271/0271_en_01.mp3"
+        },
+        {
+            "text": "Two little feet to kick.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0271/0271_02.jpg",
+            "audioSrc": "./public/audio/en/0271/0271_en_02.mp3"
+        },
+        {
+            "text": "Two little eyes to see.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0271/0271_03.jpg",
+            "audioSrc": "./public/audio/en/0271/0271_en_03.mp3"
+        },
+        {
+            "text": "Two little ears to hear.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0271/0271_04.jpg",
+            "audioSrc": "./public/audio/en/0271/0271_en_04.mp3"
+        },
+        {
+            "text": "And two loving arms to HUG!",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0271/0271_05.jpg",
+            "audioSrc": "./public/audio/en/0271/0271_en_05.mp3"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "0302",
+    "language": "en",
+    "storyPath": "./public/data/en/0302.json",
+    "title": "Fire",
+    "illustrator": " Rob Owen",
+    "writtenby": " Deborah Namugosa, Beatrice Nabune, Alison Tukei, Rose Sabano",
+    "readby": " Darshan Soni",
+    "translator": null,
+    "level": 1,
+    "pages": [
+        {
+            "text": "Fire",
+            "pagenum": 0,
+            "imageSrc": "./public/images/0302/0302_00.jpg",
+            "audioSrc": "./public/audio/en/0302/0302_en_00.mp3"
+        },
+        {
+            "text": "Look, fire!",
+            "pagenum": 1,
+            "imageSrc": "./public/images/0302/0302_01.jpg",
+            "audioSrc": "./public/audio/en/0302/0302_en_01.mp3"
+        },
+        {
+            "text": "Fire burns.",
+            "pagenum": 2,
+            "imageSrc": "./public/images/0302/0302_02.jpg",
+            "audioSrc": "./public/audio/en/0302/0302_en_02.mp3"
+        },
+        {
+            "text": "Fire cooks.",
+            "pagenum": 3,
+            "imageSrc": "./public/images/0302/0302_03.jpg",
+            "audioSrc": "./public/audio/en/0302/0302_en_03.mp3"
+        },
+        {
+            "text": "Fire gives warmth.",
+            "pagenum": 4,
+            "imageSrc": "./public/images/0302/0302_04.jpg",
+            "audioSrc": "./public/audio/en/0302/0302_en_04.mp3"
+        },
+        {
+            "text": "Fire gives light.",
+            "pagenum": 5,
+            "imageSrc": "./public/images/0302/0302_05.jpg",
+            "audioSrc": "./public/audio/en/0302/0302_en_05.mp3"
+        },
+        {
+            "text": "Look, fire!",
+            "pagenum": 6,
+            "imageSrc": "./public/images/0302/0302_06.jpg",
+            "audioSrc": "./public/audio/en/0302/0302_en_06.mp3"
+        },
+        {
+            "text": "Fire is wonderful.",
+            "pagenum": 7,
+            "imageSrc": "./public/images/0302/0302_07.jpg",
+            "audioSrc": "./public/audio/en/0302/0302_en_07.mp3"
+        },
+        {
+            "text": "And it is powerful.",
+            "pagenum": 8,
+            "imageSrc": "./public/images/0302/0302_08.jpg",
+            "audioSrc": "./public/audio/en/0302/0302_en_08.mp3"
+        }
+    ]
+}
