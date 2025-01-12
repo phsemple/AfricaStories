@@ -26,7 +26,7 @@ export default class Controls {
         this.checkboxAutoplay = document.getElementById('autoplay');
         this.autoplay = 'false';
         this.dropdownRate = document.getElementById('rate');
-        this.playbackRate = 1.00;
+        this.playbackRate = "1.00";
         this.initializeControlsMenu();  // read localStorage and set menu
 
         this.addEventHandlers();
