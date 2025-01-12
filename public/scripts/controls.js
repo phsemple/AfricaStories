@@ -17,6 +17,7 @@ export default class Controls {
 
         this.currentPage = document.body.id;
 
+
         // get elements and set defaults.
         this.homeButton = document.getElementById('home')
         this.dropdownLanguage = document.getElementById('language')
@@ -35,6 +36,8 @@ export default class Controls {
     // set control field from local storage
     initializeControlsMenu() {
         
+        // hide the home button if on the home page.
+        this.homeButton.style.visibility = this.currentPage === 'titles-page' ? 'hidden' : 'visible';
  
         // We set the controls to either localStorage or the default settings.
         const langCode = localStorage.getItem('language');

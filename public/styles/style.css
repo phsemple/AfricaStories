@@ -258,6 +258,9 @@ option {
 #storytext {
   font-size: 2.5rem;
   padding: 0 2rem;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 40rem;
 }
 
 /*
