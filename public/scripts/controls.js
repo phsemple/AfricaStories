@@ -1,3 +1,5 @@
+
+
 const HOME_PAGE_NAME = '/index.html';
 
 const languages = [
@@ -35,7 +37,7 @@ export default class Controls {
 
     // set control field from local storage
     initializeControlsMenu() {
-        
+
         // hide the home button if on the home page.
         this.homeButton.style.visibility = this.currentPage === 'titles-page' ? 'hidden' : 'visible';
  
@@ -95,7 +97,6 @@ export default class Controls {
 
         console.log('Redirecting to:', homeUrl); // Log the URL
         window.location.replace( homeUrl);
-
 
     }
 

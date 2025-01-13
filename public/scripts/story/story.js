@@ -4,7 +4,7 @@ import PageHandler from "./pageHandler.js";
 
 // ***************** SHARED HANDLERS *********************
 import AudioHandler from "../audioHandler.js";
-import Controls     from "../controls.js";     // controls for language, autoplay and playbackrate.
+import Controls from "../controls.js";     // controls for language, autoplay and playbackrate.
 
 let storyId = null;
 

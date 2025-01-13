@@ -1,4 +1,6 @@
+import setupPageSwipe from './swipePage.js' // Handle left/right page turning.
 
+// Page Handler for the Story Page. 
 export default class PageHandler
 {
     constructor(dataHandler, audioHandler) { // pass in the dataHandler
@@ -15,6 +17,8 @@ export default class PageHandler
         pageCount.innerText = this.lastPage;
         pageNum.innerText = this.currentPage;
 
+        setupPageSwipe(this.previousPage.bind(this), this.nextPage.bind(this)); // setup swipe for text screens
+        
         this.drawPage();  // first time in we draw the whole page.
 
         this.addEventListeners();
@@ -111,16 +115,27 @@ export default class PageHandler
 
     nextPage()
     {
+        // disallows swipe right
+        if (this.isLastPage()){
+            return;
+        }
+
         this.audioHandler.stopPlaying();
         this.currentPage++;
         this.drawCurrentPage();
     }
     
     previousPage() {
+
+        // disallows swipe left
+        if (this.isFirstPage()){
+            return;
+        }
         this.audioHandler.stopPlaying();
         this.currentPage--;
         this.drawCurrentPage();
     }
+
 
 
 }
