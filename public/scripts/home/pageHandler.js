@@ -23,7 +23,7 @@ export default class PageHandler {
                 // Construct the URL with the storyId as a query parameter
                 const currentUrl = window.location.origin; // Gets the base URL (e.g., http://127.0.0.1:8080)
                 // const storyUrl = `${currentUrl}${basePath}/story.html?storyid=${storyId}`;
-                const storyUrl = `/story.html?storyid=${storyId}`;
+                const storyUrl = `/story/?storyid=${storyId}`;
 
                 // Redirect to the constructed URL
                 window.location.href = storyUrl;

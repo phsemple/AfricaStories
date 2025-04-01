@@ -8,6 +8,12 @@ import Controls from "../controls.js";     // controls for language, autoplay an
 
 let storyId = null;
 
+console.log("URL:", window.location.href);
+console.log(
+  "Story ID:",
+  new URLSearchParams(window.location.search).get("storyid")
+);
+
 // We wait for our dynamic HTML to load before we can build out the handler classes
 document.addEventListener("controlsLoaded", async () => {
     // Get the full URL
