@@ -1,7 +1,7 @@
 {
     "id": "0210",
     "language": "en",
-    "storyPath": "./public/data/en/0210.json",
+    "storyPath": ".//data/en/0210.json",
     "title": "Tingi and the cows",
     "illustrator": " Ingrid Schechter",
     "writtenby": " Ingrid Schechter",
@@ -12,74 +12,74 @@
         {
             "text": "Tingi and the cows",
             "pagenum": 0,
-            "imageSrc": "./public/images/0210/0210_00.jpg",
-            "audioSrc": "./public/audio/en/0210/0210_en_00.mp3"
+            "imageSrc": ".//images/0210/0210_00.jpg",
+            "audioSrc": ".//audio/en/0210/0210_en_00.mp3"
         },
         {
             "text": "Tingi lived with his grandmother.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0210/0210_01.jpg",
-            "audioSrc": "./public/audio/en/0210/0210_en_01.mp3"
+            "imageSrc": ".//images/0210/0210_01.jpg",
+            "audioSrc": ".//audio/en/0210/0210_en_01.mp3"
         },
         {
             "text": "He used to look after the cows with her.",
             "pagenum": 2,
-            "imageSrc": "./public/images/0210/0210_02.jpg",
-            "audioSrc": "./public/audio/en/0210/0210_en_02.mp3"
+            "imageSrc": ".//images/0210/0210_02.jpg",
+            "audioSrc": ".//audio/en/0210/0210_en_02.mp3"
         },
         {
             "text": "One day the soldiers came.",
             "pagenum": 3,
-            "imageSrc": "./public/images/0210/0210_03.jpg",
-            "audioSrc": "./public/audio/en/0210/0210_en_03.mp3"
+            "imageSrc": ".//images/0210/0210_03.jpg",
+            "audioSrc": ".//audio/en/0210/0210_en_03.mp3"
         },
         {
             "text": "They took the cows away.",
             "pagenum": 4,
-            "imageSrc": "./public/images/0210/0210_04.jpg",
-            "audioSrc": "./public/audio/en/0210/0210_en_04.mp3"
+            "imageSrc": ".//images/0210/0210_04.jpg",
+            "audioSrc": ".//audio/en/0210/0210_en_04.mp3"
         },
         {
             "text": "Tingi and his grandmother ran away and hid.",
             "pagenum": 5,
-            "imageSrc": "./public/images/0210/0210_05.jpg",
-            "audioSrc": "./public/audio/en/0210/0210_en_05.mp3"
+            "imageSrc": ".//images/0210/0210_05.jpg",
+            "audioSrc": ".//audio/en/0210/0210_en_05.mp3"
         },
         {
             "text": "They hid in the bush until night.",
             "pagenum": 6,
-            "imageSrc": "./public/images/0210/0210_06.jpg",
-            "audioSrc": "./public/audio/en/0210/0210_en_06.mp3"
+            "imageSrc": ".//images/0210/0210_06.jpg",
+            "audioSrc": ".//audio/en/0210/0210_en_06.mp3"
         },
         {
             "text": "Then the soldiers came back.",
             "pagenum": 7,
-            "imageSrc": "./public/images/0210/0210_07.jpg",
-            "audioSrc": "./public/audio/en/0210/0210_en_07.mp3"
+            "imageSrc": ".//images/0210/0210_07.jpg",
+            "audioSrc": ".//audio/en/0210/0210_en_07.mp3"
         },
         {
             "text": "Grandmother hid Tingi under the leaves.",
             "pagenum": 8,
-            "imageSrc": "./public/images/0210/0210_08.jpg",
-            "audioSrc": "./public/audio/en/0210/0210_en_08.mp3"
+            "imageSrc": ".//images/0210/0210_08.jpg",
+            "audioSrc": ".//audio/en/0210/0210_en_08.mp3"
         },
         {
             "text": "One of the soldiers put his foot right on him, but he kept quiet.",
             "pagenum": 9,
-            "imageSrc": "./public/images/0210/0210_09.jpg",
-            "audioSrc": "./public/audio/en/0210/0210_en_09.mp3"
+            "imageSrc": ".//images/0210/0210_09.jpg",
+            "audioSrc": ".//audio/en/0210/0210_en_09.mp3"
         },
         {
             "text": "When it was safe, Tingi and his grandmother came out.",
             "pagenum": 10,
-            "imageSrc": "./public/images/0210/0210_10.jpg",
-            "audioSrc": "./public/audio/en/0210/0210_en_10.mp3"
+            "imageSrc": ".//images/0210/0210_10.jpg",
+            "audioSrc": ".//audio/en/0210/0210_en_10.mp3"
         },
         {
             "text": "They crept home very quietly.",
             "pagenum": 11,
-            "imageSrc": "./public/images/0210/0210_11.jpg",
-            "audioSrc": "./public/audio/en/0210/0210_en_11.mp3"
+            "imageSrc": ".//images/0210/0210_11.jpg",
+            "audioSrc": ".//audio/en/0210/0210_en_11.mp3"
         }
     ]
 }

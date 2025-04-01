@@ -1,7 +1,7 @@
 {
     "id": "0291",
     "language": "sw",
-    "storyPath": "./public/data/sw/0291.json",
+    "storyPath": ".//data/sw/0291.json",
     "title": "Alichokisema dada yake Vusi",
     "illustrator": " Wiehan de Jager",
     "writtenby": " Nina Orange",
@@ -12,86 +12,86 @@
         {
             "text": "Alichokisema dada yake Vusi",
             "pagenum": 0,
-            "imageSrc": "./public/images/0291/0291_00.jpg",
-            "audioSrc": "./public/audio/sw/0291/0291_sw_00.mp3"
+            "imageSrc": ".//images/0291/0291_00.jpg",
+            "audioSrc": ".//audio/sw/0291/0291_sw_00.mp3"
         },
         {
             "text": "Siku moja asubuhi bibi yake Vusi alimwita na kumwambia, “Tafadhali peleka yai hili kwa wazazi wako. Wanataka kutengeneza keki kubwa kwa ajili ya harusi ya dada yako.”",
             "pagenum": 1,
-            "imageSrc": "./public/images/0291/0291_01.jpg",
-            "audioSrc": "./public/audio/sw/0291/0291_sw_01.mp3"
+            "imageSrc": ".//images/0291/0291_01.jpg",
+            "audioSrc": ".//audio/sw/0291/0291_sw_01.mp3"
         },
         {
             "text": "Alipokuwa njiani kuelekea kwa wazazi wake, Vusi akakutana na vijana wawili wanaokota matunda. Kijana mmoja akanyakua yai kutoka kwa Vusi na akalirusha kwenye mti. Yai likavunjika.",
             "pagenum": 2,
-            "imageSrc": "./public/images/0291/0291_02.jpg",
-            "audioSrc": "./public/audio/sw/0291/0291_sw_02.mp3"
+            "imageSrc": ".//images/0291/0291_02.jpg",
+            "audioSrc": ".//audio/sw/0291/0291_sw_02.mp3"
         },
         {
             "text": "“Umefanya nini?” Vusi akalia. “Yai lile lilikuwa kwa ajili ya keki. Keki ilikuwa kwa ajili ya harusi ya dada yangu. Dada yangu atasemaje kama hakutakuwa na keki ya harusi?”",
             "pagenum": 3,
-            "imageSrc": "./public/images/0291/0291_03.jpg",
-            "audioSrc": "./public/audio/sw/0291/0291_sw_03.mp3"
+            "imageSrc": ".//images/0291/0291_03.jpg",
+            "audioSrc": ".//audio/sw/0291/0291_sw_03.mp3"
         },
         {
             "text": "Vijana wale waliomba msamaha kwa kumchokoza Vusi. “Hatuna la kufanya kuhusu keki, lakini hii hapa ni fimbo kwa ajili ya dada yako,” mmoja alisema. Vusi akaendelea na safari yake.",
             "pagenum": 4,
-            "imageSrc": "./public/images/0291/0291_04.jpg",
-            "audioSrc": "./public/audio/sw/0291/0291_sw_04.mp3"
+            "imageSrc": ".//images/0291/0291_04.jpg",
+            "audioSrc": ".//audio/sw/0291/0291_sw_04.mp3"
         },
         {
             "text": "Njiani alikutana na wanaume wawili wakijenga nyumba. “Tunaweza kutumia hiyo fimbo imara?” mmoja akaomba. Lakini fimbo haikuwa imara kwa kujengea, na ikavunjika.",
             "pagenum": 5,
-            "imageSrc": "./public/images/0291/0291_05.jpg",
-            "audioSrc": "./public/audio/sw/0291/0291_sw_05.mp3"
+            "imageSrc": ".//images/0291/0291_05.jpg",
+            "audioSrc": ".//audio/sw/0291/0291_sw_05.mp3"
         },
         {
             "text": "“Mmefanya nini?” Vusi akalia. “Fimbo hii ilikuwa zawadi kwa ajili ya dada yangu. Waangua matunda walinipa fimbo hiyo kwa sababu walivunja yai la keki. Keki ilikuwa ni kwa ajili ya harusi ya dada yangu. Sasa hakuna yai, hakuna keki, na hakuna zawadi. Dada yangu atasemaje?”",
             "pagenum": 6,
-            "imageSrc": "./public/images/0291/0291_06.jpg",
-            "audioSrc": "./public/audio/sw/0291/0291_sw_06.mp3"
+            "imageSrc": ".//images/0291/0291_06.jpg",
+            "audioSrc": ".//audio/sw/0291/0291_sw_06.mp3"
         },
         {
             "text": "Wajenzi waliomba msamaha kwa kuvunja fimbo. “Hatuna la kufanya kuhusu keki, lakini tutakupa makuti umpelekee dada yako,” mmoja alisema. Na Vusi akaendelea na safari yake.",
             "pagenum": 7,
-            "imageSrc": "./public/images/0291/0291_07.jpg",
-            "audioSrc": "./public/audio/sw/0291/0291_sw_07.mp3"
+            "imageSrc": ".//images/0291/0291_07.jpg",
+            "audioSrc": ".//audio/sw/0291/0291_sw_07.mp3"
         },
         {
             "text": "Njiani, Vusi akakutana na mkulima akiwa na ng’ombe. “Una makuti mazuri, naweza kupata kidogo?” Ng’ombe akaomba. Lakini makuti yalikuwa matamu ng’ombe akayala yote!",
             "pagenum": 8,
-            "imageSrc": "./public/images/0291/0291_08.jpg",
-            "audioSrc": "./public/audio/sw/0291/0291_sw_08.mp3"
+            "imageSrc": ".//images/0291/0291_08.jpg",
+            "audioSrc": ".//audio/sw/0291/0291_sw_08.mp3"
         },
         {
             "text": "“Umefanya nini?” Vusi akalia. “Makuti haya yalikuwa zawadi ya dada yangu. Wajenzi walinipa makuti kwa kuwa walivunja fimbo yangu niliyopewa na waangua matunda. Waangua matunda walinipa fimbo kwa kuwa walivunja yai kwa ajili ya keki ya dada yangu. Keki ilikuwa kwa ajili ya harusi ya dada yangu. Sasa hakuna yai, hakuna keki, na hakuna zawadi. Dada yangu atasemaje?”",
             "pagenum": 9,
-            "imageSrc": "./public/images/0291/0291_09.jpg",
-            "audioSrc": "./public/audio/sw/0291/0291_sw_09.mp3"
+            "imageSrc": ".//images/0291/0291_09.jpg",
+            "audioSrc": ".//audio/sw/0291/0291_sw_09.mp3"
         },
         {
             "text": "Ng’ombe aliomba msamaha kwa kuwa mlafi. Mkulima alikubali kumpa Vusi ng’ombe aende naye kama zawadi kwa ajili ya dada yake. Vusi akaendelea na safari yake.",
             "pagenum": 10,
-            "imageSrc": "./public/images/0291/0291_10.jpg",
-            "audioSrc": "./public/audio/sw/0291/0291_sw_10.mp3"
+            "imageSrc": ".//images/0291/0291_10.jpg",
+            "audioSrc": ".//audio/sw/0291/0291_sw_10.mp3"
         },
         {
             "text": "Lakini wakati wa chakula cha jioni ng’ombe alikimbia kurudi kwa mkulima. Na Vusi akapotea njiani. Akafika kwa kuchelewa sana kwenye harusi ya dada yake. Wageni walikuwa tayari wanakula.",
             "pagenum": 11,
-            "imageSrc": "./public/images/0291/0291_11.jpg",
-            "audioSrc": "./public/audio/sw/0291/0291_sw_11.mp3"
+            "imageSrc": ".//images/0291/0291_11.jpg",
+            "audioSrc": ".//audio/sw/0291/0291_sw_11.mp3"
         },
         {
             "text": "“Nifanye nini?” alilia Vusi. “Ng’ombe aliyekimbia alikuwa ni zawadi, ambayo nilipewa kama mbadala wa makuti niliyopewa na wajenzi. Wajenzi walinipa makuti kwa sababu walivunja fimbo niliyopewa na waangua matunda. Waangua matunda walinipa fimbo kwa sababu walivunja yai la keki. Keki ilikuwa kwa ajili ya harusi. Kwa hiyo hakuna yai, hakuna keki, na hakuna zawadi.”",
             "pagenum": 12,
-            "imageSrc": "./public/images/0291/0291_12.jpg",
-            "audioSrc": "./public/audio/sw/0291/0291_sw_12.mp3"
+            "imageSrc": ".//images/0291/0291_12.jpg",
+            "audioSrc": ".//audio/sw/0291/0291_sw_12.mp3"
         },
         {
             "text": "Dada yake Vusi alifikiria kwa muda, halafu akasema, “Kaka yangu Vusi, usijali zawadi, pia usijali keki! Tupo hapa pamoja, nina furaha. Nenda kavae nguo zako nadhifu na uje tusherehekee siku hii!”",
             "pagenum": 13,
-            "imageSrc": "./public/images/0291/0291_13.jpg",
-            "audioSrc": "./public/audio/sw/0291/0291_sw_13.mp3"
+            "imageSrc": ".//images/0291/0291_13.jpg",
+            "audioSrc": ".//audio/sw/0291/0291_sw_13.mp3"
         }
     ]
 }

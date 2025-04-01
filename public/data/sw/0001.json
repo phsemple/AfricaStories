@@ -1,7 +1,7 @@
 {
     "id": "0001",
     "language": "sw",
-    "storyPath": "./public/data/sw/0001.json",
+    "storyPath": ".//data/sw/0001.json",
     "title": "Mwanamume mrefu",
     "illustrator": " Catherine Groenewald",
     "writtenby": " Cornelius Gulere",
@@ -12,74 +12,74 @@
         {
             "text": "Mwanamume mrefu",
             "pagenum": 0,
-            "imageSrc": "./public/images/0001/0001_00.jpg",
-            "audioSrc": "./public/audio/sw/0001/0001_sw_00.mp3"
+            "imageSrc": ".//images/0001/0001_00.jpg",
+            "audioSrc": ".//audio/sw/0001/0001_sw_00.mp3"
         },
         {
             "text": "Jembe lake lilikuwa fupi mno.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0001/0001_01.jpg",
-            "audioSrc": "./public/audio/sw/0001/0001_sw_01.mp3"
+            "imageSrc": ".//images/0001/0001_01.jpg",
+            "audioSrc": ".//audio/sw/0001/0001_sw_01.mp3"
         },
         {
             "text": "Mlango wake ulikuwa chini mno.",
             "pagenum": 2,
-            "imageSrc": "./public/images/0001/0001_02.jpg",
-            "audioSrc": "./public/audio/sw/0001/0001_sw_02.mp3"
+            "imageSrc": ".//images/0001/0001_02.jpg",
+            "audioSrc": ".//audio/sw/0001/0001_sw_02.mp3"
         },
         {
             "text": "Kitanda chake kilikuwa kifupi mno.",
             "pagenum": 3,
-            "imageSrc": "./public/images/0001/0001_03.jpg",
-            "audioSrc": "./public/audio/sw/0001/0001_sw_03.mp3"
+            "imageSrc": ".//images/0001/0001_03.jpg",
+            "audioSrc": ".//audio/sw/0001/0001_sw_03.mp3"
         },
         {
             "text": "Baisikeli yake ilikuwa fupi sana.",
             "pagenum": 4,
-            "imageSrc": "./public/images/0001/0001_04.jpg",
-            "audioSrc": "./public/audio/sw/0001/0001_sw_04.mp3"
+            "imageSrc": ".//images/0001/0001_04.jpg",
+            "audioSrc": ".//audio/sw/0001/0001_sw_04.mp3"
         },
         {
             "text": "Mtu huyu alikuwa mrefu zaidi!",
             "pagenum": 5,
-            "imageSrc": "./public/images/0001/0001_05.jpg",
-            "audioSrc": "./public/audio/sw/0001/0001_sw_05.mp3"
+            "imageSrc": ".//images/0001/0001_05.jpg",
+            "audioSrc": ".//audio/sw/0001/0001_sw_05.mp3"
         },
         {
             "text": "Alitengeneza mpini wa jembe mrefu sana.",
             "pagenum": 6,
-            "imageSrc": "./public/images/0001/0001_06.jpg",
-            "audioSrc": "./public/audio/sw/0001/0001_sw_06.mp3"
+            "imageSrc": ".//images/0001/0001_06.jpg",
+            "audioSrc": ".//audio/sw/0001/0001_sw_06.mp3"
         },
         {
             "text": "Alitengeneza fremu ndefu za milango.",
             "pagenum": 7,
-            "imageSrc": "./public/images/0001/0001_07.jpg",
-            "audioSrc": "./public/audio/sw/0001/0001_sw_07.mp3"
+            "imageSrc": ".//images/0001/0001_07.jpg",
+            "audioSrc": ".//audio/sw/0001/0001_sw_07.mp3"
         },
         {
             "text": "Alitengeneza kitanda kirefu sana.",
             "pagenum": 8,
-            "imageSrc": "./public/images/0001/0001_08.jpg",
-            "audioSrc": "./public/audio/sw/0001/0001_sw_08.mp3"
+            "imageSrc": ".//images/0001/0001_08.jpg",
+            "audioSrc": ".//audio/sw/0001/0001_sw_08.mp3"
         },
         {
             "text": "Akanunua baisikeli iliyokuwa ndefu mno.",
             "pagenum": 9,
-            "imageSrc": "./public/images/0001/0001_09.jpg",
-            "audioSrc": "./public/audio/sw/0001/0001_sw_09.mp3"
+            "imageSrc": ".//images/0001/0001_09.jpg",
+            "audioSrc": ".//audio/sw/0001/0001_sw_09.mp3"
         },
         {
             "text": "Aliketi juu ya kiti kilichokuwa juu sana. Alikula kwa kutumia uma iliyokuwa ndefu mno.",
             "pagenum": 10,
-            "imageSrc": "./public/images/0001/0001_10.jpg",
-            "audioSrc": "./public/audio/sw/0001/0001_sw_10.mp3"
+            "imageSrc": ".//images/0001/0001_10.jpg",
+            "audioSrc": ".//audio/sw/0001/0001_sw_10.mp3"
         },
         {
             "text": "Aliacha nyumba yake na kuishi katika msitu mkubwa. Aliishi kwa miaka mingi.",
             "pagenum": 11,
-            "imageSrc": "./public/images/0001/0001_11.jpg",
-            "audioSrc": "./public/audio/sw/0001/0001_sw_11.mp3"
+            "imageSrc": ".//images/0001/0001_11.jpg",
+            "audioSrc": ".//audio/sw/0001/0001_sw_11.mp3"
         }
     ]
 }

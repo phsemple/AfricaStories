@@ -23,7 +23,7 @@ export default class DataHandler {
 
     // Static method to fetch the titles file for the home page data
     static async fetchTitles( language) {
-        const url = `public/data/${language}/titles.json`;
+        const url = `/data/${language}/titles.json`;
 
         try {
             const response = await fetch(url);

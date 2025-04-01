@@ -23,7 +23,7 @@ export default class DataHandler {
 
     // Static method to fetch the story data
     static async fetchStory(storyId, language) {
-        const url = `public/data/${language}/${storyId}.json`;
+        const url = `/data/${language}/${storyId}.json`;
 
         try {
             const response = await fetch(url);

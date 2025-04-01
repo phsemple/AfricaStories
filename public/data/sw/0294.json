@@ -1,7 +1,7 @@
 {
     "id": "0294",
     "language": "sw",
-    "storyPath": "./public/data/sw/0294.json",
+    "storyPath": ".//data/sw/0294.json",
     "title": "Ndizi za bibi",
     "illustrator": " Catherine Groenewald",
     "writtenby": " Ursula Nafula",
@@ -12,68 +12,68 @@
         {
             "text": "Ndizi za bibi",
             "pagenum": 0,
-            "imageSrc": "./public/images/0294/0294_00.jpg",
-            "audioSrc": "./public/audio/sw/0294/0294_sw_00.mp3"
+            "imageSrc": ".//images/0294/0294_00.jpg",
+            "audioSrc": ".//audio/sw/0294/0294_sw_00.mp3"
         },
         {
             "text": "Bibi alikuwa na bustani nzuri iliyojaa mtama, ulezi na mihogo. Lakini kati ya mazao yote, alipenda zaidi ndizi. Japo bibi alikuwa na wajukuu wengi, nilikuja kubaini kuwa alikuwa ananipenda mimi zaidi ya wote. Mara nyingi alikuwa akinialika nyumbani kwake. Pia alikuwa ananiambia siri ndogo ndogo. Lakini kulikuwa na siri moja ambayo hakunishirikisha: alipokuwa anavundika ndizi.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0294/0294_01.jpg",
-            "audioSrc": "./public/audio/sw/0294/0294_sw_01.mp3"
+            "imageSrc": ".//images/0294/0294_01.jpg",
+            "audioSrc": ".//audio/sw/0294/0294_sw_01.mp3"
         },
         {
             "text": "Siku moja niliona tenga kubwa limeanikwa juani nje ya nyumba ya bibi. Nilipouliza lilikuwa la nini, jibu pekee nililopata lilikuwa, “Hilo ni tenga langu la maajabu.” Pembeni mwa tenga lile kulikuwa na majani ya ndizi ambayo bibi alikuwa akiyageuza kila mara. Nilipatwa na shauku. “Bibi, hayo majani ni ya nini?” niliuliza. Jibu pekee nililopata lilikuwa, “Ni majani yangu ya maajabu.”",
             "pagenum": 2,
-            "imageSrc": "./public/images/0294/0294_02.jpg",
-            "audioSrc": "./public/audio/sw/0294/0294_sw_02.mp3"
+            "imageSrc": ".//images/0294/0294_02.jpg",
+            "audioSrc": ".//audio/sw/0294/0294_sw_02.mp3"
         },
         {
             "text": "Nilikuwa na shauku kubwa kumwangalia bibi, ndizi, majani ya ndizi na tenga kubwa. Lakini bibi alinituma kwenda kwa mama. “Bibi, tafadhali naomba nitazame unavyoandaa…” “Usiwe msumbufu, fanya ulichoambiwa,” alisisitiza. Nikaondoka nikikimbia.",
             "pagenum": 3,
-            "imageSrc": "./public/images/0294/0294_03.jpg",
-            "audioSrc": "./public/audio/sw/0294/0294_sw_03.mp3"
+            "imageSrc": ".//images/0294/0294_03.jpg",
+            "audioSrc": ".//audio/sw/0294/0294_sw_03.mp3"
         },
         {
             "text": "Niliporudi, bibi alikuwa amekaa nje, ila hakukuwa na tenga wala ndizi. “Bibi, tenga liko wapi, zile ndizi ziko wapi, na…” Jibu pekee nililopata lilikuwa, “Zipo kwenye eneo la maajabu.” Ilikuwa inasikitisha.",
             "pagenum": 4,
-            "imageSrc": "./public/images/0294/0294_04.jpg",
-            "audioSrc": "./public/audio/sw/0294/0294_sw_04.mp3"
+            "imageSrc": ".//images/0294/0294_04.jpg",
+            "audioSrc": ".//audio/sw/0294/0294_sw_04.mp3"
         },
         {
             "text": "Siku mbili baadaye, bibi alinituma kwenda chumbani kwake kumletea mkongojo. Mara tu baada ya kufungua mlango, nilikaribishwa na harufu kali ya ndizi mbivu. Pembeni mwa chumba kulikuwa na tenga kubwa la maajabu la bibi. Lilikuwa limefichwa na blanketi la zamani. Nikaliinua na kunusa ile harufi nzuri.",
             "pagenum": 5,
-            "imageSrc": "./public/images/0294/0294_05.jpg",
-            "audioSrc": "./public/audio/sw/0294/0294_sw_05.mp3"
+            "imageSrc": ".//images/0294/0294_05.jpg",
+            "audioSrc": ".//audio/sw/0294/0294_sw_05.mp3"
         },
         {
             "text": "Sauti ya bibi ilinishtua alipoita, “Unafanya nini? Fanya haraka niletee mkongojo.” Nikaharakisha kwenda nje na mkongojo wake. “Unatabasamu nini?” bibi aliuliza. Swali lake likanifanya nigundue kuwa kumbe bado nilikuwa ninatabasamu baada ya kugundua eneo lake la maajabu.",
             "pagenum": 6,
-            "imageSrc": "./public/images/0294/0294_06.jpg",
-            "audioSrc": "./public/audio/sw/0294/0294_sw_06.mp3"
+            "imageSrc": ".//images/0294/0294_06.jpg",
+            "audioSrc": ".//audio/sw/0294/0294_sw_06.mp3"
         },
         {
             "text": "Siku iliyofuata bibi alipokuja kumtembelea mama yangu, nikakimbilia nyumbani kwake kuangalia ndizi tena. Kulikuwa na vichane vya ndizi zilizoiva. Nikachukua ndizi moja na kuificha kwenye nguo yangu. Baada ya kufunika tenga tena, nikaenda nyuma ya nyumba na harakaharaka nikaila. Ilikuwa ni ndizi tamu ambayo sijawahi kula kamwe.",
             "pagenum": 7,
-            "imageSrc": "./public/images/0294/0294_07.jpg",
-            "audioSrc": "./public/audio/sw/0294/0294_sw_07.mp3"
+            "imageSrc": ".//images/0294/0294_07.jpg",
+            "audioSrc": ".//audio/sw/0294/0294_sw_07.mp3"
         },
         {
             "text": "Siku iliyofuata, bibi alipokuwa bustanini akichuma mboga, nikanyemelea ndani kuchungulia ndizi. Karibu zote zilikuwa zimeiva. Nikashindwa kujizuia nikachukua kichane cha ndizi nne. Nilipokuwa nanyata kuelekea mlangoni, nikamsikia bibi akikohoa nje. Nilifanikiwa kuzificha ndizi ndani ya nguo yangu na tukapishana bila ya kugundua.",
             "pagenum": 8,
-            "imageSrc": "./public/images/0294/0294_08.jpg",
-            "audioSrc": "./public/audio/sw/0294/0294_sw_08.mp3"
+            "imageSrc": ".//images/0294/0294_08.jpg",
+            "audioSrc": ".//audio/sw/0294/0294_sw_08.mp3"
         },
         {
             "text": "Siku iliyofuata ilikuwa siku ya gulio. Bibi aliamka asubuhi sana. Huwa anapeleka ndizi mbivu na mihogo kuuza gulioni. Siku hiyo sikuwa na haraka kwenda kumsalimia. Ila sikuweza kumkwepa kwa muda mrefu.",
             "pagenum": 9,
-            "imageSrc": "./public/images/0294/0294_09.jpg",
-            "audioSrc": "./public/audio/sw/0294/0294_sw_09.mp3"
+            "imageSrc": ".//images/0294/0294_09.jpg",
+            "audioSrc": ".//audio/sw/0294/0294_sw_09.mp3"
         },
         {
             "text": "Jioni ile niliitwa na mama, baba na bibi. Nilijua kwanini. Usiku ule nilipokwenda kulala, nilijua siwezi kuiba tena. Siwezi kumwibia bibi, wazazi wangu na mtu yeyote yule.",
             "pagenum": 10,
-            "imageSrc": "./public/images/0294/0294_10.jpg",
-            "audioSrc": "./public/audio/sw/0294/0294_sw_10.mp3"
+            "imageSrc": ".//images/0294/0294_10.jpg",
+            "audioSrc": ".//audio/sw/0294/0294_sw_10.mp3"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "id": "0030",
     "language": "sw",
-    "storyPath": "./public/data/sw/0030.json",
+    "storyPath": ".//data/sw/0030.json",
     "title": "Hisia",
     "illustrator": " Kathy Arbuckle, Ingrid Schechter",
     "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
@@ -12,38 +12,38 @@
         {
             "text": "Hisia",
             "pagenum": 0,
-            "imageSrc": "./public/images/0030/0030_00.jpg",
-            "audioSrc": "./public/audio/sw/0030/0030_sw_00.mp3"
+            "imageSrc": ".//images/0030/0030_00.jpg",
+            "audioSrc": ".//audio/sw/0030/0030_sw_00.mp3"
         },
         {
             "text": "Moyo wangu unahisi vitu vingi.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0030/0030_01.jpg",
-            "audioSrc": "./public/audio/sw/0030/0030_sw_01.mp3"
+            "imageSrc": ".//images/0030/0030_01.jpg",
+            "audioSrc": ".//audio/sw/0030/0030_sw_01.mp3"
         },
         {
             "text": "Najisikia furaha bibi yangu akitusimulia hadithi jioni.",
             "pagenum": 2,
-            "imageSrc": "./public/images/0030/0030_02.jpg",
-            "audioSrc": "./public/audio/sw/0030/0030_sw_02.mp3"
+            "imageSrc": ".//images/0030/0030_02.jpg",
+            "audioSrc": ".//audio/sw/0030/0030_sw_02.mp3"
         },
         {
             "text": "Najisikia kufanya mzaha ninapocheza na rafiki zangu.",
             "pagenum": 3,
-            "imageSrc": "./public/images/0030/0030_03.jpg",
-            "audioSrc": "./public/audio/sw/0030/0030_sw_03.mp3"
+            "imageSrc": ".//images/0030/0030_03.jpg",
+            "audioSrc": ".//audio/sw/0030/0030_sw_03.mp3"
         },
         {
             "text": "Najisikia vibaya baba yangu anaposema hana pesa.",
             "pagenum": 4,
-            "imageSrc": "./public/images/0030/0030_04.jpg",
-            "audioSrc": "./public/audio/sw/0030/0030_sw_04.mp3"
+            "imageSrc": ".//images/0030/0030_04.jpg",
+            "audioSrc": ".//audio/sw/0030/0030_sw_04.mp3"
         },
         {
             "text": "Najihisi kupendwa na mama yangu anaponikumbatia.",
             "pagenum": 5,
-            "imageSrc": "./public/images/0030/0030_05.jpg",
-            "audioSrc": "./public/audio/sw/0030/0030_sw_05.mp3"
+            "imageSrc": ".//images/0030/0030_05.jpg",
+            "audioSrc": ".//audio/sw/0030/0030_sw_05.mp3"
         }
     ]
 }

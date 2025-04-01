@@ -1,7 +1,7 @@
 {
     "id": "0342",
     "language": "sw",
-    "storyPath": "./public/data/sw/0342.json",
+    "storyPath": ".//data/sw/0342.json",
     "title": "Adhabu",
     "illustrator": " Melany Pietersen",
     "writtenby": " Adelheid Marie Bwire",
@@ -12,80 +12,80 @@
         {
             "text": "Adhabu",
             "pagenum": 0,
-            "imageSrc": "./public/images/0342/0342_00.jpg",
-            "audioSrc": "./public/audio/sw/0342/0342_sw_00.mp3"
+            "imageSrc": ".//images/0342/0342_00.jpg",
+            "audioSrc": ".//audio/sw/0342/0342_sw_00.mp3"
         },
         {
             "text": "Siku moja, mama alileta matunda mengi.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0342/0342_01.jpg",
-            "audioSrc": "./public/audio/sw/0342/0342_sw_01.mp3"
+            "imageSrc": ".//images/0342/0342_01.jpg",
+            "audioSrc": ".//audio/sw/0342/0342_sw_01.mp3"
         },
         {
             "text": "“Tutakula matunda lini?” tunauliza. “Tutakula matunda leo jioni,” mama anasema.",
             "pagenum": 2,
-            "imageSrc": "./public/images/0342/0342_02.jpg",
-            "audioSrc": "./public/audio/sw/0342/0342_sw_02.mp3"
+            "imageSrc": ".//images/0342/0342_02.jpg",
+            "audioSrc": ".//audio/sw/0342/0342_sw_02.mp3"
         },
         {
             "text": "Kaka yangu Rahim ni mlafi. Anaonja onja matunda yote. Anakula matunda mengi.",
             "pagenum": 3,
-            "imageSrc": "./public/images/0342/0342_03.jpg",
-            "audioSrc": "./public/audio/sw/0342/0342_sw_03.mp3"
+            "imageSrc": ".//images/0342/0342_03.jpg",
+            "audioSrc": ".//audio/sw/0342/0342_sw_03.mp3"
         },
         {
             "text": "“Angalia Rahim alichokifanya!” mdogo wangu analalamika kwa sauti. “Rahim ni mtundu na mchoyo,” ninasema.",
             "pagenum": 4,
-            "imageSrc": "./public/images/0342/0342_04.jpg",
-            "audioSrc": "./public/audio/sw/0342/0342_sw_04.mp3"
+            "imageSrc": ".//images/0342/0342_04.jpg",
+            "audioSrc": ".//audio/sw/0342/0342_sw_04.mp3"
         },
         {
             "text": "Mama amekasirishwa na Rahim.",
             "pagenum": 5,
-            "imageSrc": "./public/images/0342/0342_05.jpg",
-            "audioSrc": "./public/audio/sw/0342/0342_sw_05.mp3"
+            "imageSrc": ".//images/0342/0342_05.jpg",
+            "audioSrc": ".//audio/sw/0342/0342_sw_05.mp3"
         },
         {
             "text": "Sisi pia tumekasirishwa na Rahim. Lakini Rahim haombi msamaha.",
             "pagenum": 6,
-            "imageSrc": "./public/images/0342/0342_06.jpg",
-            "audioSrc": "./public/audio/sw/0342/0342_sw_06.mp3"
+            "imageSrc": ".//images/0342/0342_06.jpg",
+            "audioSrc": ".//audio/sw/0342/0342_sw_06.mp3"
         },
         {
             "text": "“Hutamwadhibu Rahim?” mdogo wangu anauliza.",
             "pagenum": 7,
-            "imageSrc": "./public/images/0342/0342_07.jpg",
-            "audioSrc": "./public/audio/sw/0342/0342_sw_07.mp3"
+            "imageSrc": ".//images/0342/0342_07.jpg",
+            "audioSrc": ".//audio/sw/0342/0342_sw_07.mp3"
         },
         {
             "text": "“Rahim, muda si mrefu utajuta,” mama anaonya.",
             "pagenum": 8,
-            "imageSrc": "./public/images/0342/0342_08.jpg",
-            "audioSrc": "./public/audio/sw/0342/0342_sw_08.mp3"
+            "imageSrc": ".//images/0342/0342_08.jpg",
+            "audioSrc": ".//audio/sw/0342/0342_sw_08.mp3"
         },
         {
             "text": "Rahim anaanza kuhisi kuumwa.",
             "pagenum": 9,
-            "imageSrc": "./public/images/0342/0342_09.jpg",
-            "audioSrc": "./public/audio/sw/0342/0342_sw_09.mp3"
+            "imageSrc": ".//images/0342/0342_09.jpg",
+            "audioSrc": ".//audio/sw/0342/0342_sw_09.mp3"
         },
         {
             "text": "“Tumbo langu linauma sana,” Rahim ananong’ona.",
             "pagenum": 10,
-            "imageSrc": "./public/images/0342/0342_10.jpg",
-            "audioSrc": "./public/audio/sw/0342/0342_sw_10.mp3"
+            "imageSrc": ".//images/0342/0342_10.jpg",
+            "audioSrc": ".//audio/sw/0342/0342_sw_10.mp3"
         },
         {
             "text": "Mama alijua hili litatokea. Matunda yanamwadhibu Rahim!",
             "pagenum": 11,
-            "imageSrc": "./public/images/0342/0342_11.jpg",
-            "audioSrc": "./public/audio/sw/0342/0342_sw_11.mp3"
+            "imageSrc": ".//images/0342/0342_11.jpg",
+            "audioSrc": ".//audio/sw/0342/0342_sw_11.mp3"
         },
         {
             "text": "Baadaye, Rahim anatuomba msamaha. “Kamwe sitakuwa mlafi tena,” anaahidi. Na sote tunamwamini.",
             "pagenum": 12,
-            "imageSrc": "./public/images/0342/0342_12.jpg",
-            "audioSrc": "./public/audio/sw/0342/0342_sw_12.mp3"
+            "imageSrc": ".//images/0342/0342_12.jpg",
+            "audioSrc": ".//audio/sw/0342/0342_sw_12.mp3"
         }
     ]
 }

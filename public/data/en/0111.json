@@ -1,7 +1,7 @@
 {
     "id": "0111",
     "language": "en",
-    "storyPath": "./public/data/en/0111.json",
+    "storyPath": ".//data/en/0111.json",
     "title": "Why hippos have no hair",
     "illustrator": " Carol Liddiment",
     "writtenby": " Basilio Gimo, David Ker",
@@ -12,56 +12,56 @@
         {
             "text": "Why hippos have no hair",
             "pagenum": 0,
-            "imageSrc": "./public/images/0111/0111_00.jpg",
-            "audioSrc": "./public/audio/en/0111/0111_en_00.mp3"
+            "imageSrc": ".//images/0111/0111_00.jpg",
+            "audioSrc": ".//audio/en/0111/0111_en_00.mp3"
         },
         {
             "text": "One day, Rabbit was walking by the riverside.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0111/0111_01.jpg",
-            "audioSrc": "./public/audio/en/0111/0111_en_01.mp3"
+            "imageSrc": ".//images/0111/0111_01.jpg",
+            "audioSrc": ".//audio/en/0111/0111_en_01.mp3"
         },
         {
             "text": "Hippo was there too, going for a stroll and eating some nice green grass.",
             "pagenum": 2,
-            "imageSrc": "./public/images/0111/0111_02.jpg",
-            "audioSrc": "./public/audio/en/0111/0111_en_02.mp3"
+            "imageSrc": ".//images/0111/0111_02.jpg",
+            "audioSrc": ".//audio/en/0111/0111_en_02.mp3"
         },
         {
             "text": "Hippo didn’t see that Rabbit was there and she accidentally stepped on Rabbit’s foot. Rabbit started screaming at Hippo, “You Hippo! Can’t you see that you’re stepping on my foot?”",
             "pagenum": 3,
-            "imageSrc": "./public/images/0111/0111_03.jpg",
-            "audioSrc": "./public/audio/en/0111/0111_en_03.mp3"
+            "imageSrc": ".//images/0111/0111_03.jpg",
+            "audioSrc": ".//audio/en/0111/0111_en_03.mp3"
         },
         {
             "text": "Hippo apologised to Rabbit, “I’m so sorry. I didn’t see you. Please forgive me!” But Rabbit wouldn’t listen and he shouted at Hippo, “You did that on purpose! Someday, you’ll see! You’re going to pay!”",
             "pagenum": 4,
-            "imageSrc": "./public/images/0111/0111_04.jpg",
-            "audioSrc": "./public/audio/en/0111/0111_en_04.mp3"
+            "imageSrc": ".//images/0111/0111_04.jpg",
+            "audioSrc": ".//audio/en/0111/0111_en_04.mp3"
         },
         {
             "text": "Rabbit went to find Fire and said, “Go, burn Hippo when she comes out of the water to eat grass. She stepped on me!” Fire answered, “No problem, Rabbit, my friend. I’ll do just what you ask.”",
             "pagenum": 5,
-            "imageSrc": "./public/images/0111/0111_05.jpg",
-            "audioSrc": "./public/audio/en/0111/0111_en_05.mp3"
+            "imageSrc": ".//images/0111/0111_05.jpg",
+            "audioSrc": ".//audio/en/0111/0111_en_05.mp3"
         },
         {
             "text": "Later, Hippo was eating grass far from the river when, “Whoosh!” Fire burst into flame. The flames began to burn Hippo’s hair.",
             "pagenum": 6,
-            "imageSrc": "./public/images/0111/0111_06.jpg",
-            "audioSrc": "./public/audio/en/0111/0111_en_06.mp3"
+            "imageSrc": ".//images/0111/0111_06.jpg",
+            "audioSrc": ".//audio/en/0111/0111_en_06.mp3"
         },
         {
             "text": "Hippo started to cry and ran for the water. All her hair was burned off by the fire. Hippo kept crying, “My hair has burned in the fire! My hair is all gone! My beautiful hair!”",
             "pagenum": 7,
-            "imageSrc": "./public/images/0111/0111_07.jpg",
-            "audioSrc": "./public/audio/en/0111/0111_en_07.mp3"
+            "imageSrc": ".//images/0111/0111_07.jpg",
+            "audioSrc": ".//audio/en/0111/0111_en_07.mp3"
         },
         {
             "text": "Rabbit was happy that Hippo’s hair was burned. And to this day, for fear of fire, the hippo never goes far from the water.",
             "pagenum": 8,
-            "imageSrc": "./public/images/0111/0111_08.jpg",
-            "audioSrc": "./public/audio/en/0111/0111_en_08.mp3"
+            "imageSrc": ".//images/0111/0111_08.jpg",
+            "audioSrc": ".//audio/en/0111/0111_en_08.mp3"
         }
     ]
 }

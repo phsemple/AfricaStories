@@ -1,7 +1,7 @@
 {
     "id": "0342",
     "language": "en",
-    "storyPath": "./public/data/en/0342.json",
+    "storyPath": ".//data/en/0342.json",
     "title": "Punishment",
     "illustrator": " Melany Pietersen",
     "writtenby": " Adelheid Marie Bwire",
@@ -12,80 +12,80 @@
         {
             "text": "Punishment",
             "pagenum": 0,
-            "imageSrc": "./public/images/0342/0342_00.jpg",
-            "audioSrc": "./public/audio/en/0342/0342_en_00.mp3"
+            "imageSrc": ".//images/0342/0342_00.jpg",
+            "audioSrc": ".//audio/en/0342/0342_en_00.mp3"
         },
         {
             "text": "One day, mama got a lot of fruit.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0342/0342_01.jpg",
-            "audioSrc": "./public/audio/en/0342/0342_en_01.mp3"
+            "imageSrc": ".//images/0342/0342_01.jpg",
+            "audioSrc": ".//audio/en/0342/0342_en_01.mp3"
         },
         {
             "text": "“When can we have some fruit?” we ask. “We will have the fruit tonight,” says mama.",
             "pagenum": 2,
-            "imageSrc": "./public/images/0342/0342_02.jpg",
-            "audioSrc": "./public/audio/en/0342/0342_en_02.mp3"
+            "imageSrc": ".//images/0342/0342_02.jpg",
+            "audioSrc": ".//audio/en/0342/0342_en_02.mp3"
         },
         {
             "text": "My brother Rahim is greedy. He tastes all the fruit. He eats a lot of it.",
             "pagenum": 3,
-            "imageSrc": "./public/images/0342/0342_03.jpg",
-            "audioSrc": "./public/audio/en/0342/0342_en_03.mp3"
+            "imageSrc": ".//images/0342/0342_03.jpg",
+            "audioSrc": ".//audio/en/0342/0342_en_03.mp3"
         },
         {
             "text": "“Look at what Rahim did!” shouts my little brother. “Rahim is naughty and selfish,” I say.",
             "pagenum": 4,
-            "imageSrc": "./public/images/0342/0342_04.jpg",
-            "audioSrc": "./public/audio/en/0342/0342_en_04.mp3"
+            "imageSrc": ".//images/0342/0342_04.jpg",
+            "audioSrc": ".//audio/en/0342/0342_en_04.mp3"
         },
         {
             "text": "Mother is angry with Rahim.",
             "pagenum": 5,
-            "imageSrc": "./public/images/0342/0342_05.jpg",
-            "audioSrc": "./public/audio/en/0342/0342_en_05.mp3"
+            "imageSrc": ".//images/0342/0342_05.jpg",
+            "audioSrc": ".//audio/en/0342/0342_en_05.mp3"
         },
         {
             "text": "We are also angry with Rahim. But Rahim is not sorry.",
             "pagenum": 6,
-            "imageSrc": "./public/images/0342/0342_06.jpg",
-            "audioSrc": "./public/audio/en/0342/0342_en_06.mp3"
+            "imageSrc": ".//images/0342/0342_06.jpg",
+            "audioSrc": ".//audio/en/0342/0342_en_06.mp3"
         },
         {
             "text": "“Aren’t you going to punish Rahim?” asks little brother.",
             "pagenum": 7,
-            "imageSrc": "./public/images/0342/0342_07.jpg",
-            "audioSrc": "./public/audio/en/0342/0342_en_07.mp3"
+            "imageSrc": ".//images/0342/0342_07.jpg",
+            "audioSrc": ".//audio/en/0342/0342_en_07.mp3"
         },
         {
             "text": "“Rahim, soon you will be sorry,” warns mama.",
             "pagenum": 8,
-            "imageSrc": "./public/images/0342/0342_08.jpg",
-            "audioSrc": "./public/audio/en/0342/0342_en_08.mp3"
+            "imageSrc": ".//images/0342/0342_08.jpg",
+            "audioSrc": ".//audio/en/0342/0342_en_08.mp3"
         },
         {
             "text": "Rahim starts to feel sick.",
             "pagenum": 9,
-            "imageSrc": "./public/images/0342/0342_09.jpg",
-            "audioSrc": "./public/audio/en/0342/0342_en_09.mp3"
+            "imageSrc": ".//images/0342/0342_09.jpg",
+            "audioSrc": ".//audio/en/0342/0342_en_09.mp3"
         },
         {
             "text": "“My tummy is so sore,” whispers Rahim.",
             "pagenum": 10,
-            "imageSrc": "./public/images/0342/0342_10.jpg",
-            "audioSrc": "./public/audio/en/0342/0342_en_10.mp3"
+            "imageSrc": ".//images/0342/0342_10.jpg",
+            "audioSrc": ".//audio/en/0342/0342_en_10.mp3"
         },
         {
             "text": "Mama knew this would happen. The fruit is punishing Rahim!",
             "pagenum": 11,
-            "imageSrc": "./public/images/0342/0342_11.jpg",
-            "audioSrc": "./public/audio/en/0342/0342_en_11.mp3"
+            "imageSrc": ".//images/0342/0342_11.jpg",
+            "audioSrc": ".//audio/en/0342/0342_en_11.mp3"
         },
         {
             "text": "Later, Rahim says sorry to us. “I will never be so greedy again,” he promises. And we all believe him.",
             "pagenum": 12,
-            "imageSrc": "./public/images/0342/0342_12.jpg",
-            "audioSrc": "./public/audio/en/0342/0342_en_12.mp3"
+            "imageSrc": ".//images/0342/0342_12.jpg",
+            "audioSrc": ".//audio/en/0342/0342_en_12.mp3"
         }
     ]
 }

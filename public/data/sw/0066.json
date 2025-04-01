@@ -1,7 +1,7 @@
 {
     "id": "0066",
     "language": "sw",
-    "storyPath": "./public/data/sw/0066.json",
+    "storyPath": ".//data/sw/0066.json",
     "title": "Nozibele na nywele tatu",
     "illustrator": " Wiehan de Jager",
     "writtenby": " Tessa Welch",
@@ -12,86 +12,86 @@
         {
             "text": "Nozibele na nywele tatu",
             "pagenum": 0,
-            "imageSrc": "./public/images/0066/0066_00.jpg",
-            "audioSrc": "./public/audio/sw/0066/0066_sw_00.mp3"
+            "imageSrc": ".//images/0066/0066_00.jpg",
+            "audioSrc": ".//audio/sw/0066/0066_sw_00.mp3"
         },
         {
             "text": "Hapo zamani za kale, wasichana watatu walienda kukusanya kuni.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0066/0066_01.jpg",
-            "audioSrc": "./public/audio/sw/0066/0066_sw_01.mp3"
+            "imageSrc": ".//images/0066/0066_01.jpg",
+            "audioSrc": ".//audio/sw/0066/0066_sw_01.mp3"
         },
         {
             "text": "Ilikuwa ni siku yenye jua kali na wakaamua kwenda mtoni kuogelea. Wakaogelea huku wakicheza na kurushiana maji.",
             "pagenum": 2,
-            "imageSrc": "./public/images/0066/0066_02.jpg",
-            "audioSrc": "./public/audio/sw/0066/0066_sw_02.mp3"
+            "imageSrc": ".//images/0066/0066_02.jpg",
+            "audioSrc": ".//audio/sw/0066/0066_sw_02.mp3"
         },
         {
             "text": "Ghafla waligundua kuwa muda umekwenda. Wakaharakisha kurudi nyumbani.",
             "pagenum": 3,
-            "imageSrc": "./public/images/0066/0066_03.jpg",
-            "audioSrc": "./public/audio/sw/0066/0066_sw_03.mp3"
+            "imageSrc": ".//images/0066/0066_03.jpg",
+            "audioSrc": ".//audio/sw/0066/0066_sw_03.mp3"
         },
         {
             "text": "Walipokuwa wanakaribia kufika nyumbani, Nozibele akajishika shingoni. Alikuwa amesahau shanga zake! “Tafadhali turudini!” aliwasihi rafiki zake. Lakini rafiki zake wakasema tumechelewa.",
             "pagenum": 4,
-            "imageSrc": "./public/images/0066/0066_04.jpg",
-            "audioSrc": "./public/audio/sw/0066/0066_sw_04.mp3"
+            "imageSrc": ".//images/0066/0066_04.jpg",
+            "audioSrc": ".//audio/sw/0066/0066_sw_04.mp3"
         },
         {
             "text": "Kwa hiyo Nozibele akarudi mwenyewe mtoni. Akapata shanga zake na akakimbia kurudi nyumbani. Lakini akapotea gizani.",
             "pagenum": 5,
-            "imageSrc": "./public/images/0066/0066_05.jpg",
-            "audioSrc": "./public/audio/sw/0066/0066_sw_05.mp3"
+            "imageSrc": ".//images/0066/0066_05.jpg",
+            "audioSrc": ".//audio/sw/0066/0066_sw_05.mp3"
         },
         {
             "text": "Kwa mbali akaona mwanga unatoka kwenye nyumba. Akakimbilia kwenye nyumba na kugonga mlango.",
             "pagenum": 6,
-            "imageSrc": "./public/images/0066/0066_06.jpg",
-            "audioSrc": "./public/audio/sw/0066/0066_sw_06.mp3"
+            "imageSrc": ".//images/0066/0066_06.jpg",
+            "audioSrc": ".//audio/sw/0066/0066_sw_06.mp3"
         },
         {
             "text": "Akastaajabu kumwona mbwa akifungua mlango na akasema, “Unataka nini?” “Nimepotea na ninatafuta sehemu ya kulala,” akasema Nozibele. “Ingia ndani, la sivyo nitakung’ata!” mbwa akamwambia. Nozibele akaingia ndani.",
             "pagenum": 7,
-            "imageSrc": "./public/images/0066/0066_07.jpg",
-            "audioSrc": "./public/audio/sw/0066/0066_sw_07.mp3"
+            "imageSrc": ".//images/0066/0066_07.jpg",
+            "audioSrc": ".//audio/sw/0066/0066_sw_07.mp3"
         },
         {
             "text": "Mbwa akamwambia, “Nipikie!” “Sijawahi kumpikia mbwa,” akajibu. “Pika, la sivyo nitakung’ata!” mbwa akasema. Nozibele akampikia mbwa chakula.",
             "pagenum": 8,
-            "imageSrc": "./public/images/0066/0066_08.jpg",
-            "audioSrc": "./public/audio/sw/0066/0066_sw_08.mp3"
+            "imageSrc": ".//images/0066/0066_08.jpg",
+            "audioSrc": ".//audio/sw/0066/0066_sw_08.mp3"
         },
         {
             "text": "Mbwa akamwambia, “Nitandikie kitanda!” Nozibele akajibu, “Sijawahi kumtandikia mbwa kitanda.” “Tandika kitanda, la sivyo nitakung’ata!” mbwa akasema. Nozibele akatandika kitanda.",
             "pagenum": 9,
-            "imageSrc": "./public/images/0066/0066_09.jpg",
-            "audioSrc": "./public/audio/sw/0066/0066_sw_09.mp3"
+            "imageSrc": ".//images/0066/0066_09.jpg",
+            "audioSrc": ".//audio/sw/0066/0066_sw_09.mp3"
         },
         {
             "text": "Akawa kila siku anampikia, anamfulia na kumfagilia mbwa. Siku moja mbwa akasema, “Nozibele, leo naenda kuwatembelea rafiki zangu. Fagia nyumba, pika chakula na osha vitu vyangu kabla sijarudi.”",
             "pagenum": 10,
-            "imageSrc": "./public/images/0066/0066_10.jpg",
-            "audioSrc": "./public/audio/sw/0066/0066_sw_10.mp3"
+            "imageSrc": ".//images/0066/0066_10.jpg",
+            "audioSrc": ".//audio/sw/0066/0066_sw_10.mp3"
         },
         {
             "text": "Mara baada tu ya mbwa kuondoka, Nozibele akanyofoa nywele tatu kutoka kwenye kichwa chake. Akaweka unywele mmoja chini ya kitanda, mmoja nyuma ya mlango, na mwingine akauweka kwenye uzio wa nyumba. Halafu, akakimbia kuelekea nyumbani kwa nguvu zote.",
             "pagenum": 11,
-            "imageSrc": "./public/images/0066/0066_11.jpg",
-            "audioSrc": "./public/audio/sw/0066/0066_sw_11.mp3"
+            "imageSrc": ".//images/0066/0066_11.jpg",
+            "audioSrc": ".//audio/sw/0066/0066_sw_11.mp3"
         },
         {
             "text": "Mbwa aliporudi akaanza kumtafuta Nozibele. “Nozibele, uko wapi?” akapiga kelele. “Niko hapa, chini ya kitanda,” unywele wa kwanza ukajibu. “Nipo hapa nyuma ya mlango,” unywele wa pili ukajibu. “Niko hapa kwenye uzio,” unywele wa tatu ukajibu.",
             "pagenum": 12,
-            "imageSrc": "./public/images/0066/0066_12.jpg",
-            "audioSrc": "./public/audio/sw/0066/0066_sw_12.mp3"
+            "imageSrc": ".//images/0066/0066_12.jpg",
+            "audioSrc": ".//audio/sw/0066/0066_sw_12.mp3"
         },
         {
             "text": "Mbwa akagundua kuwa Nozibele amemkimbia. Kwa hiyo akakimbia kuelekea kijijini. Kaka zake Nozibele walikuwa wakimsubiri na fimbo. Mbwa alipowaona akageuka na kukimbia, na hajawahi kuonekana tena.",
             "pagenum": 13,
-            "imageSrc": "./public/images/0066/0066_13.jpg",
-            "audioSrc": "./public/audio/sw/0066/0066_sw_13.mp3"
+            "imageSrc": ".//images/0066/0066_13.jpg",
+            "audioSrc": ".//audio/sw/0066/0066_sw_13.mp3"
         }
     ]
 }

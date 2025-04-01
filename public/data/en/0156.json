@@ -1,7 +1,7 @@
 {
     "id": "0156",
     "language": "en",
-    "storyPath": "./public/data/en/0156.json",
+    "storyPath": ".//data/en/0156.json",
     "title": "The hungry crocodile",
     "illustrator": " Wiehan de Jager",
     "writtenby": " Christian G.",
@@ -12,38 +12,38 @@
         {
             "text": "The hungry crocodile",
             "pagenum": 0,
-            "imageSrc": "./public/images/0156/0156_00.jpg",
-            "audioSrc": "./public/audio/en/0156/0156_en_00.mp3"
+            "imageSrc": ".//images/0156/0156_00.jpg",
+            "audioSrc": ".//audio/en/0156/0156_en_00.mp3"
         },
         {
             "text": "Once there was a very hungry crocodile.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0156/0156_01.jpg",
-            "audioSrc": "./public/audio/en/0156/0156_en_01.mp3"
+            "imageSrc": ".//images/0156/0156_01.jpg",
+            "audioSrc": ".//audio/en/0156/0156_en_01.mp3"
         },
         {
             "text": "He searched for food slowly and quietly. And then…",
             "pagenum": 2,
-            "imageSrc": "./public/images/0156/0156_02.jpg",
-            "audioSrc": "./public/audio/en/0156/0156_en_02.mp3"
+            "imageSrc": ".//images/0156/0156_02.jpg",
+            "audioSrc": ".//audio/en/0156/0156_en_02.mp3"
         },
         {
             "text": "POW!!! The crocodile strikes!",
             "pagenum": 3,
-            "imageSrc": "./public/images/0156/0156_03.jpg",
-            "audioSrc": "./public/audio/en/0156/0156_en_03.mp3"
+            "imageSrc": ".//images/0156/0156_03.jpg",
+            "audioSrc": ".//audio/en/0156/0156_en_03.mp3"
         },
         {
             "text": "After that he is no longer hungry, and he is happy.",
             "pagenum": 4,
-            "imageSrc": "./public/images/0156/0156_04.jpg",
-            "audioSrc": "./public/audio/en/0156/0156_en_04.mp3"
+            "imageSrc": ".//images/0156/0156_04.jpg",
+            "audioSrc": ".//audio/en/0156/0156_en_04.mp3"
         },
         {
             "text": "Until he gets hungry again.",
             "pagenum": 5,
-            "imageSrc": "./public/images/0156/0156_05.jpg",
-            "audioSrc": "./public/audio/en/0156/0156_en_05.mp3"
+            "imageSrc": ".//images/0156/0156_05.jpg",
+            "audioSrc": ".//audio/en/0156/0156_en_05.mp3"
         }
     ]
 }

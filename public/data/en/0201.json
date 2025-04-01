@@ -1,7 +1,7 @@
 {
     "id": "0201",
     "language": "en",
-    "storyPath": "./public/data/en/0201.json",
+    "storyPath": ".//data/en/0201.json",
     "title": "Donkey Child",
     "illustrator": " Meghan Judge",
     "writtenby": " Lindiwe Matshikiza",
@@ -12,128 +12,128 @@
         {
             "text": "Donkey Child",
             "pagenum": 0,
-            "imageSrc": "./public/images/0201/0201_00.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_00.mp3"
+            "imageSrc": ".//images/0201/0201_00.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_00.mp3"
         },
         {
             "text": "It was a little girl who first saw the mysterious shape in the distance.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0201/0201_01.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_01.mp3"
+            "imageSrc": ".//images/0201/0201_01.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_01.mp3"
         },
         {
             "text": "As the shape moved closer, she saw that it was a heavily pregnant woman.",
             "pagenum": 2,
-            "imageSrc": "./public/images/0201/0201_02.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_02.mp3"
+            "imageSrc": ".//images/0201/0201_02.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_02.mp3"
         },
         {
             "text": "Shy but brave, the little girl moved nearer to the woman. “We must keep her with us,” the little girl’s people decided. “We’ll keep her and her child safe.”",
             "pagenum": 3,
-            "imageSrc": "./public/images/0201/0201_03.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_03.mp3"
+            "imageSrc": ".//images/0201/0201_03.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_03.mp3"
         },
         {
             "text": "The child was soon on its way. “Push!” “Bring blankets!” “Water!” “Puuuuussssshhh!!!”",
             "pagenum": 4,
-            "imageSrc": "./public/images/0201/0201_04.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_04.mp3"
+            "imageSrc": ".//images/0201/0201_04.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_04.mp3"
         },
         {
             "text": "But when they saw the baby, everyone jumped back in shock. “A donkey?!”",
             "pagenum": 5,
-            "imageSrc": "./public/images/0201/0201_05.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_05.mp3"
+            "imageSrc": ".//images/0201/0201_05.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_05.mp3"
         },
         {
             "text": "Everyone began to argue. “We said we would keep mother and child safe, and that’s what we’ll do,” said some. “But they will bring us bad luck!” said others.",
             "pagenum": 6,
-            "imageSrc": "./public/images/0201/0201_06.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_06.mp3"
+            "imageSrc": ".//images/0201/0201_06.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_06.mp3"
         },
         {
             "text": "And so the woman found herself alone again. She wondered what to do with this awkward child. She wondered what to do with herself.",
             "pagenum": 7,
-            "imageSrc": "./public/images/0201/0201_07.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_07.mp3"
+            "imageSrc": ".//images/0201/0201_07.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_07.mp3"
         },
         {
             "text": "But finally she had to accept that he was her child and she was his mother.",
             "pagenum": 8,
-            "imageSrc": "./public/images/0201/0201_08.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_08.mp3"
+            "imageSrc": ".//images/0201/0201_08.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_08.mp3"
         },
         {
             "text": "Now, if the child had stayed that same, small size, everything might have been different. But the donkey child grew and grew until he could no longer fit on his mother’s back. And no matter how hard he tried, he could not behave like a human being. His mother was often tired and frustrated. Sometimes she made him do work meant for animals.",
             "pagenum": 9,
-            "imageSrc": "./public/images/0201/0201_09.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_09.mp3"
+            "imageSrc": ".//images/0201/0201_09.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_09.mp3"
         },
         {
             "text": "Confusion and anger built up inside Donkey. He couldn’t do this and he couldn’t do that. He couldn’t be like this and he couldn’t be like that. He became so angry that, one day, he kicked his mother to the ground.",
             "pagenum": 10,
-            "imageSrc": "./public/images/0201/0201_10.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_10.mp3"
+            "imageSrc": ".//images/0201/0201_10.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_10.mp3"
         },
         {
             "text": "Donkey was filled with shame. He started to run away as far and fast as he could.",
             "pagenum": 11,
-            "imageSrc": "./public/images/0201/0201_11.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_11.mp3"
+            "imageSrc": ".//images/0201/0201_11.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_11.mp3"
         },
         {
             "text": "By the time he stopped running, it was night, and Donkey was lost. “Hee haw?” he whispered to the darkness. “Hee Haw?” it echoed back. He was alone. Curling himself into a tight ball, he fell into a deep and troubled sleep.",
             "pagenum": 12,
-            "imageSrc": "./public/images/0201/0201_12.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_12.mp3"
+            "imageSrc": ".//images/0201/0201_12.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_12.mp3"
         },
         {
             "text": "Donkey woke up to find a strange old man staring down at him. He looked into the old man’s eyes and started to feel a twinkle of hope.",
             "pagenum": 13,
-            "imageSrc": "./public/images/0201/0201_13.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_13.mp3"
+            "imageSrc": ".//images/0201/0201_13.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_13.mp3"
         },
         {
             "text": "Donkey went to stay with the old man, who taught him many different ways to survive. Donkey listened and learned, and so did the old man. They helped each other, and they laughed together.",
             "pagenum": 14,
-            "imageSrc": "./public/images/0201/0201_14.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_14.mp3"
+            "imageSrc": ".//images/0201/0201_14.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_14.mp3"
         },
         {
             "text": "One morning, the old man asked Donkey to carry him to the top of a mountain.",
             "pagenum": 15,
-            "imageSrc": "./public/images/0201/0201_15.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_15.mp3"
+            "imageSrc": ".//images/0201/0201_15.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_15.mp3"
         },
         {
             "text": "High up amongst the clouds they fell asleep. Donkey dreamed that his mother was sick and calling to him. And when he woke up…",
             "pagenum": 16,
-            "imageSrc": "./public/images/0201/0201_16.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_16.mp3"
+            "imageSrc": ".//images/0201/0201_16.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_16.mp3"
         },
         {
             "text": "… the clouds had disappeared along with his friend, the old man.",
             "pagenum": 17,
-            "imageSrc": "./public/images/0201/0201_17.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_17.mp3"
+            "imageSrc": ".//images/0201/0201_17.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_17.mp3"
         },
         {
             "text": "Donkey finally knew what to do.",
             "pagenum": 18,
-            "imageSrc": "./public/images/0201/0201_18.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_18.mp3"
+            "imageSrc": ".//images/0201/0201_18.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_18.mp3"
         },
         {
             "text": "Donkey found his mother, alone and mourning her lost child. They stared at each other for a long time. And then hugged each other very hard.",
             "pagenum": 19,
-            "imageSrc": "./public/images/0201/0201_19.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_19.mp3"
+            "imageSrc": ".//images/0201/0201_19.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_19.mp3"
         },
         {
             "text": "The donkey child and his mother have grown together and found many ways of living side by side. Slowly, all around them, other families have started to settle.",
             "pagenum": 20,
-            "imageSrc": "./public/images/0201/0201_20.jpg",
-            "audioSrc": "./public/audio/en/0201/0201_en_20.mp3"
+            "imageSrc": ".//images/0201/0201_20.jpg",
+            "audioSrc": ".//audio/en/0201/0201_en_20.mp3"
         }
     ]
 }

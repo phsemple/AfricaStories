@@ -1,7 +1,7 @@
 {
     "id": "0315",
     "language": "sw",
-    "storyPath": "./public/data/sw/0315.json",
+    "storyPath": ".//data/sw/0315.json",
     "title": "Wimbo wa Sakima",
     "illustrator": " Peris Wachuka",
     "writtenby": " Ursula Nafula",
@@ -12,116 +12,116 @@
         {
             "text": "Wimbo wa Sakima",
             "pagenum": 0,
-            "imageSrc": "./public/images/0315/0315_00.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_00.mp3"
+            "imageSrc": ".//images/0315/0315_00.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_00.mp3"
         },
         {
             "text": "Sakima aliishi na wazazi wake na dada yake wa miaka minne. Waliishi katika shamba la mtu tajiri. Nyumba yao ya nyasi ilikuwa mwisho wa safu ya miti iliyopendeza.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0315/0315_01.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_01.mp3"
+            "imageSrc": ".//images/0315/0315_01.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_01.mp3"
         },
         {
             "text": "Sakima alipokuwa na umri wa miaka mitatu, aliugua na kupoteza uwezo wa kuona. Hata hivyo, Sakima alikuwa mvulana mwenye kipaji.",
             "pagenum": 2,
-            "imageSrc": "./public/images/0315/0315_02.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_02.mp3"
+            "imageSrc": ".//images/0315/0315_02.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_02.mp3"
         },
         {
             "text": "Sakima alitenda mambo mengi ambayo wavulana wengine wa umri wake hawakufanya. Kwa mfano, aliketi na watu wazima na kujadili mambo muhimu.",
             "pagenum": 3,
-            "imageSrc": "./public/images/0315/0315_03.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_03.mp3"
+            "imageSrc": ".//images/0315/0315_03.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_03.mp3"
         },
         {
             "text": "Wazazi wa Sakima walifanya kazi katika nyumba ya yule tajiri. Walitoka nyumbani asubuhi na mapema na kurudi jioni. Sakima aliachwa na dada yake.",
             "pagenum": 4,
-            "imageSrc": "./public/images/0315/0315_04.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_04.mp3"
+            "imageSrc": ".//images/0315/0315_04.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_04.mp3"
         },
         {
             "text": "Sakima alipenda kuimba nyimbo. Siku moja mama yake alimuuliza, “Sakima, unajifunza nyimbo hizi kutoka wapi?”",
             "pagenum": 5,
-            "imageSrc": "./public/images/0315/0315_05.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_05.mp3"
+            "imageSrc": ".//images/0315/0315_05.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_05.mp3"
         },
         {
             "text": "Sakima alimjibu, “Nazisikia akilini mwangu kisha naziimba.”",
             "pagenum": 6,
-            "imageSrc": "./public/images/0315/0315_06.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_06.mp3"
+            "imageSrc": ".//images/0315/0315_06.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_06.mp3"
         },
         {
             "text": "Sakima alipenda kumwimbia mdogo wake hasa akihisi njaa. Dada yake alimsikiliza na kucheza.",
             "pagenum": 7,
-            "imageSrc": "./public/images/0315/0315_07.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_07.mp3"
+            "imageSrc": ".//images/0315/0315_07.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_07.mp3"
         },
         {
             "text": "“Naomba uimbe tena na tena, Sakima,” mdogo wake alimsihi. Sakima alikubali na kuimba mara nyingine.",
             "pagenum": 8,
-            "imageSrc": "./public/images/0315/0315_08.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_08.mp3"
+            "imageSrc": ".//images/0315/0315_08.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_08.mp3"
         },
         {
             "text": "Jioni moja, wazazi wake waliporudi nyumbani, walikuwa kimya sana. Sakima alijua kwamba lazima kulikuwa na jambo baya.",
             "pagenum": 9,
-            "imageSrc": "./public/images/0315/0315_09.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_09.mp3"
+            "imageSrc": ".//images/0315/0315_09.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_09.mp3"
         },
         {
             "text": "“Kuna shida gani, mama, baba?” Sakima aliuliza. Sakima aligundua kwamba mwana wa tajiri wao alikuwa amepotea. Tajiri alihuzunika na kuwa na upweke mkubwa.",
             "pagenum": 10,
-            "imageSrc": "./public/images/0315/0315_10.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_10.mp3"
+            "imageSrc": ".//images/0315/0315_10.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_10.mp3"
         },
         {
             "text": "“Labda atafurahi tena nikimwimbia,” Sakima aliwaambia wazazi wake. Wazazi wake walidharau wazo lake. “Yeye ni tajiri sana. Wewe ni mvulana asiyeona. Unadhani wimbo wako utamsaidia?”",
             "pagenum": 11,
-            "imageSrc": "./public/images/0315/0315_11.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_11.mp3"
+            "imageSrc": ".//images/0315/0315_11.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_11.mp3"
         },
         {
             "text": "Hata hivyo, Sakima hakukata tamaa. Mdogo wake alimpa moyo. Alisema, “Nyimbo za Sakima hunituliza mimi nikiwa na njaa. Zitamtuliza tajiri vile vile.”",
             "pagenum": 12,
-            "imageSrc": "./public/images/0315/0315_12.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_12.mp3"
+            "imageSrc": ".//images/0315/0315_12.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_12.mp3"
         },
         {
             "text": "Siku iliyofuata, Sakima alimwomba mdogo wake amwongoze hadi kwenye nyumba ya tajiri.",
             "pagenum": 13,
-            "imageSrc": "./public/images/0315/0315_13.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_13.mp3"
+            "imageSrc": ".//images/0315/0315_13.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_13.mp3"
         },
         {
             "text": "Alisimama chini ya dirisha moja kubwa na kuanza kuimba wimbo wake alioupenda. Pole pole, kichwa cha tajiri kilionekana dirishani.",
             "pagenum": 14,
-            "imageSrc": "./public/images/0315/0315_14.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_14.mp3"
+            "imageSrc": ".//images/0315/0315_14.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_14.mp3"
         },
         {
             "text": "Wafanyakazi waliacha kazi zao. Wakasikiliza wimbo mzuri wa Sakima. Hata hivyo, mwanamume mmoja alisema, “Hakuna aliyefaulu kumtuliza bwana. Je, huyu mvulana asiyeona anafikiri atamtuliza?”",
             "pagenum": 15,
-            "imageSrc": "./public/images/0315/0315_15.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_15.mp3"
+            "imageSrc": ".//images/0315/0315_15.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_15.mp3"
         },
         {
             "text": "Sakima alipomaliza kuimba wimbo wake alianza kuondoka. Tajiri alitoka nje kwa haraka na kusema, “Tafadhali, imba tena.”",
             "pagenum": 16,
-            "imageSrc": "./public/images/0315/0315_16.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_16.mp3"
+            "imageSrc": ".//images/0315/0315_16.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_16.mp3"
         },
         {
             "text": "Wakati huo huo, watu wawili walikuja wakiwa wamembeba mtu kwenye machela. Walimkuta mwana wa tajiri akiwa amechapwa na kuachwa kando ya barabara.",
             "pagenum": 17,
-            "imageSrc": "./public/images/0315/0315_17.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_17.mp3"
+            "imageSrc": ".//images/0315/0315_17.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_17.mp3"
         },
         {
             "text": "Tajiri alifurahi sana kumwona mwana wake tena. Alimzawadia Sakima kwa kumliwaza. Aliwapeleka mwanawe na Sakima hosipitali ili Sakima aweze kusaidiwa kuona tena.",
             "pagenum": 18,
-            "imageSrc": "./public/images/0315/0315_18.jpg",
-            "audioSrc": "./public/audio/sw/0315/0315_sw_18.mp3"
+            "imageSrc": ".//images/0315/0315_18.jpg",
+            "audioSrc": ".//audio/sw/0315/0315_sw_18.mp3"
         }
     ]
 }

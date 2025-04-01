@@ -1,7 +1,7 @@
 {
     "id": "0337",
     "language": "sw",
-    "storyPath": "./public/data/sw/0337.json",
+    "storyPath": ".//data/sw/0337.json",
     "title": "Watoto wa nta",
     "illustrator": " Wiehan de Jager",
     "writtenby": " Southern African Folktale",
@@ -12,74 +12,74 @@
         {
             "text": "Watoto wa nta",
             "pagenum": 0,
-            "imageSrc": "./public/images/0337/0337_00.jpg",
-            "audioSrc": "./public/audio/sw/0337/0337_sw_00.mp3"
+            "imageSrc": ".//images/0337/0337_00.jpg",
+            "audioSrc": ".//audio/sw/0337/0337_sw_00.mp3"
         },
         {
             "text": "Hapo zamani za kale, paliishi familia yenye furaha.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0337/0337_01.jpg",
-            "audioSrc": "./public/audio/sw/0337/0337_sw_01.mp3"
+            "imageSrc": ".//images/0337/0337_01.jpg",
+            "audioSrc": ".//audio/sw/0337/0337_sw_01.mp3"
         },
         {
             "text": "Hawakugombana hata kidogo. Watoto waliwasaidia wazazi nyumbani na shambani.",
             "pagenum": 2,
-            "imageSrc": "./public/images/0337/0337_02.jpg",
-            "audioSrc": "./public/audio/sw/0337/0337_sw_02.mp3"
+            "imageSrc": ".//images/0337/0337_02.jpg",
+            "audioSrc": ".//audio/sw/0337/0337_sw_02.mp3"
         },
         {
             "text": "Lakini, walikatazwa kwenda karibu na moto.",
             "pagenum": 3,
-            "imageSrc": "./public/images/0337/0337_03.jpg",
-            "audioSrc": "./public/audio/sw/0337/0337_sw_03.mp3"
+            "imageSrc": ".//images/0337/0337_03.jpg",
+            "audioSrc": ".//audio/sw/0337/0337_sw_03.mp3"
         },
         {
             "text": "Walifanya kazi zao zote usiku. Hii ni kwa sababu walikuwa wameumbwa kwa nta.",
             "pagenum": 4,
-            "imageSrc": "./public/images/0337/0337_04.jpg",
-            "audioSrc": "./public/audio/sw/0337/0337_sw_04.mp3"
+            "imageSrc": ".//images/0337/0337_04.jpg",
+            "audioSrc": ".//audio/sw/0337/0337_sw_04.mp3"
         },
         {
             "text": "Lakini, kijana mmoja alitamani kwenda nje wakati wa mchana.",
             "pagenum": 5,
-            "imageSrc": "./public/images/0337/0337_05.jpg",
-            "audioSrc": "./public/audio/sw/0337/0337_sw_05.mp3"
+            "imageSrc": ".//images/0337/0337_05.jpg",
+            "audioSrc": ".//audio/sw/0337/0337_sw_05.mp3"
         },
         {
             "text": "Siku moja tamaa ya kwenda nje ikazidi. Wenzake wakamwonya asiende juani. Lakini, hakusikia.",
             "pagenum": 6,
-            "imageSrc": "./public/images/0337/0337_06.jpg",
-            "audioSrc": "./public/audio/sw/0337/0337_sw_06.mp3"
+            "imageSrc": ".//images/0337/0337_06.jpg",
+            "audioSrc": ".//audio/sw/0337/0337_sw_06.mp3"
         },
         {
             "text": "Aliyeyuka kwa sababu joto lilikuwa kali.",
             "pagenum": 7,
-            "imageSrc": "./public/images/0337/0337_07.jpg",
-            "audioSrc": "./public/audio/sw/0337/0337_sw_07.mp3"
+            "imageSrc": ".//images/0337/0337_07.jpg",
+            "audioSrc": ".//audio/sw/0337/0337_sw_07.mp3"
         },
         {
             "text": "Watoto wa nta walihuzunika walipoona kaka yao akiyeyuka.",
             "pagenum": 8,
-            "imageSrc": "./public/images/0337/0337_08.jpg",
-            "audioSrc": "./public/audio/sw/0337/0337_sw_08.mp3"
+            "imageSrc": ".//images/0337/0337_08.jpg",
+            "audioSrc": ".//audio/sw/0337/0337_sw_08.mp3"
         },
         {
             "text": "Wakapanga jambo fulani. Walichukua nta iliyoyeyuka wakatengeza ndege.",
             "pagenum": 9,
-            "imageSrc": "./public/images/0337/0337_09.jpg",
-            "audioSrc": "./public/audio/sw/0337/0337_sw_09.mp3"
+            "imageSrc": ".//images/0337/0337_09.jpg",
+            "audioSrc": ".//audio/sw/0337/0337_sw_09.mp3"
         },
         {
             "text": "Wakamweka ndege huyo juu ya mlima mrefu.",
             "pagenum": 10,
-            "imageSrc": "./public/images/0337/0337_10.jpg",
-            "audioSrc": "./public/audio/sw/0337/0337_sw_10.mp3"
+            "imageSrc": ".//images/0337/0337_10.jpg",
+            "audioSrc": ".//audio/sw/0337/0337_sw_10.mp3"
         },
         {
             "text": "Jua lilipochomoza asubuhi, akapeperuka akiimba kwa furaha.",
             "pagenum": 11,
-            "imageSrc": "./public/images/0337/0337_11.jpg",
-            "audioSrc": "./public/audio/sw/0337/0337_sw_11.mp3"
+            "imageSrc": ".//images/0337/0337_11.jpg",
+            "audioSrc": ".//audio/sw/0337/0337_sw_11.mp3"
         }
     ]
 }

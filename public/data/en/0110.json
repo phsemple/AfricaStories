@@ -1,7 +1,7 @@
 {
     "id": "0110",
     "language": "en",
-    "storyPath": "./public/data/en/0110.json",
+    "storyPath": ".//data/en/0110.json",
     "title": "A Tiny Seed: The Story of Wangari Maathai",
     "illustrator": " Maya Marshak",
     "writtenby": " Nicola Rijsdijk",
@@ -12,80 +12,80 @@
         {
             "text": "A Tiny Seed: The Story of Wangari Maathai",
             "pagenum": 0,
-            "imageSrc": "./public/images/0110/0110_00.jpg",
-            "audioSrc": "./public/audio/en/0110/0110_en_00.mp3"
+            "imageSrc": ".//images/0110/0110_00.jpg",
+            "audioSrc": ".//audio/en/0110/0110_en_00.mp3"
         },
         {
             "text": "In a village on the slopes of Mount Kenya in East Africa, a little girl worked in the fields with her mother. Her name was Wangari.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0110/0110_01.jpg",
-            "audioSrc": "./public/audio/en/0110/0110_en_01.mp3"
+            "imageSrc": ".//images/0110/0110_01.jpg",
+            "audioSrc": ".//audio/en/0110/0110_en_01.mp3"
         },
         {
             "text": "Wangari loved being outside. In her family’s food garden she broke up the soil with her machete. She pressed tiny seeds into the warm earth.",
             "pagenum": 2,
-            "imageSrc": "./public/images/0110/0110_02.jpg",
-            "audioSrc": "./public/audio/en/0110/0110_en_02.mp3"
+            "imageSrc": ".//images/0110/0110_02.jpg",
+            "audioSrc": ".//audio/en/0110/0110_en_02.mp3"
         },
         {
             "text": "Her favourite time of day was just after sunset. When it got too dark to see the plants, Wangari knew it was time to go home. She would follow the narrow paths through the fields, crossing rivers as she went.",
             "pagenum": 3,
-            "imageSrc": "./public/images/0110/0110_03.jpg",
-            "audioSrc": "./public/audio/en/0110/0110_en_03.mp3"
+            "imageSrc": ".//images/0110/0110_03.jpg",
+            "audioSrc": ".//audio/en/0110/0110_en_03.mp3"
         },
         {
             "text": "Wangari was a clever child and couldn’t wait to go to school. But her mother and father wanted her to stay and help them at home. When she was seven years old, her big brother persuaded her parents to let her go to school.",
             "pagenum": 4,
-            "imageSrc": "./public/images/0110/0110_04.jpg",
-            "audioSrc": "./public/audio/en/0110/0110_en_04.mp3"
+            "imageSrc": ".//images/0110/0110_04.jpg",
+            "audioSrc": ".//audio/en/0110/0110_en_04.mp3"
         },
         {
             "text": "She liked to learn! Wangari learnt more and more with every book she read. She did so well at school that she was invited to study in the United States of America. Wangari was excited! She wanted to know more about the world.",
             "pagenum": 5,
-            "imageSrc": "./public/images/0110/0110_05.jpg",
-            "audioSrc": "./public/audio/en/0110/0110_en_05.mp3"
+            "imageSrc": ".//images/0110/0110_05.jpg",
+            "audioSrc": ".//audio/en/0110/0110_en_05.mp3"
         },
         {
             "text": "At the American university Wangari learnt many new things. She studied plants and how they grow. And she remembered how she grew: playing games with her brothers in the shade of the trees in the beautiful Kenyan forests.",
             "pagenum": 6,
-            "imageSrc": "./public/images/0110/0110_06.jpg",
-            "audioSrc": "./public/audio/en/0110/0110_en_06.mp3"
+            "imageSrc": ".//images/0110/0110_06.jpg",
+            "audioSrc": ".//audio/en/0110/0110_en_06.mp3"
         },
         {
             "text": "The more she learnt, the more she realised that she loved the people of Kenya. She wanted them to be happy and free. The more she learnt, the more she remembered her African home.",
             "pagenum": 7,
-            "imageSrc": "./public/images/0110/0110_07.jpg",
-            "audioSrc": "./public/audio/en/0110/0110_en_07.mp3"
+            "imageSrc": ".//images/0110/0110_07.jpg",
+            "audioSrc": ".//audio/en/0110/0110_en_07.mp3"
         },
         {
             "text": "When she had finished her studies, she returned to Kenya. But her country had changed. Huge farms stretched across the land. Women had no wood to make cooking fires. The people were poor and the children were hungry.",
             "pagenum": 8,
-            "imageSrc": "./public/images/0110/0110_08.jpg",
-            "audioSrc": "./public/audio/en/0110/0110_en_08.mp3"
+            "imageSrc": ".//images/0110/0110_08.jpg",
+            "audioSrc": ".//audio/en/0110/0110_en_08.mp3"
         },
         {
             "text": "Wangari knew what to do. She taught the women how to plant trees from seeds. The women sold the trees and used the money to look after their families. The women were very happy. Wangari had helped them to feel powerful and strong.",
             "pagenum": 9,
-            "imageSrc": "./public/images/0110/0110_09.jpg",
-            "audioSrc": "./public/audio/en/0110/0110_en_09.mp3"
+            "imageSrc": ".//images/0110/0110_09.jpg",
+            "audioSrc": ".//audio/en/0110/0110_en_09.mp3"
         },
         {
             "text": "As time passed, the new trees grew into forests, and the rivers started flowing again. Wangari’s message spread across Africa. Today, millions of trees have grown from Wangari’s seeds.",
             "pagenum": 10,
-            "imageSrc": "./public/images/0110/0110_10.jpg",
-            "audioSrc": "./public/audio/en/0110/0110_en_10.mp3"
+            "imageSrc": ".//images/0110/0110_10.jpg",
+            "audioSrc": ".//audio/en/0110/0110_en_10.mp3"
         },
         {
             "text": "Wangari had worked hard. People all over the world took notice, and gave her a famous prize. It is called the Nobel Peace Prize, and she was the first African woman ever to receive it.",
             "pagenum": 11,
-            "imageSrc": "./public/images/0110/0110_11.jpg",
-            "audioSrc": "./public/audio/en/0110/0110_en_11.mp3"
+            "imageSrc": ".//images/0110/0110_11.jpg",
+            "audioSrc": ".//audio/en/0110/0110_en_11.mp3"
         },
         {
             "text": "Wangari died in 2011, but we can think of her every time we see a beautiful tree.",
             "pagenum": 12,
-            "imageSrc": "./public/images/0110/0110_12.jpg",
-            "audioSrc": "./public/audio/en/0110/0110_en_12.mp3"
+            "imageSrc": ".//images/0110/0110_12.jpg",
+            "audioSrc": ".//audio/en/0110/0110_en_12.mp3"
         }
     ]
 }

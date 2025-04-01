@@ -1,7 +1,7 @@
 {
     "id": "0234",
     "language": "en",
-    "storyPath": "./public/data/en/0234.json",
+    "storyPath": ".//data/en/0234.json",
     "title": "Andiswa Soccer Star",
     "illustrator": " Eden Daniels",
     "writtenby": " Eden Daniels",
@@ -12,56 +12,56 @@
         {
             "text": "Andiswa Soccer Star",
             "pagenum": 0,
-            "imageSrc": "./public/images/0234/0234_00.jpg",
-            "audioSrc": "./public/audio/en/0234/0234_en_00.mp3"
+            "imageSrc": ".//images/0234/0234_00.jpg",
+            "audioSrc": ".//audio/en/0234/0234_en_00.mp3"
         },
         {
             "text": "Andiswa watched the boys play soccer. She wished that she could join them. She asked the coach if she can practise with them.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0234/0234_01.jpg",
-            "audioSrc": "./public/audio/en/0234/0234_en_01.mp3"
+            "imageSrc": ".//images/0234/0234_01.jpg",
+            "audioSrc": ".//audio/en/0234/0234_en_01.mp3"
         },
         {
             "text": "The coach put his hands on his hips. “At this school, only boys are allowed to play soccer,” he said.",
             "pagenum": 2,
-            "imageSrc": "./public/images/0234/0234_02.jpg",
-            "audioSrc": "./public/audio/en/0234/0234_en_02.mp3"
+            "imageSrc": ".//images/0234/0234_02.jpg",
+            "audioSrc": ".//audio/en/0234/0234_en_02.mp3"
         },
         {
             "text": "The boys told her to go play netball. They said that netball is for girls and soccer is for boys. Andiswa was upset.",
             "pagenum": 3,
-            "imageSrc": "./public/images/0234/0234_03.jpg",
-            "audioSrc": "./public/audio/en/0234/0234_en_03.mp3"
+            "imageSrc": ".//images/0234/0234_03.jpg",
+            "audioSrc": ".//audio/en/0234/0234_en_03.mp3"
         },
         {
             "text": "The next day, the school had a big soccer match. The coach was worried because his best player was sick and could not play.",
             "pagenum": 4,
-            "imageSrc": "./public/images/0234/0234_04.jpg",
-            "audioSrc": "./public/audio/en/0234/0234_en_04.mp3"
+            "imageSrc": ".//images/0234/0234_04.jpg",
+            "audioSrc": ".//audio/en/0234/0234_en_04.mp3"
         },
         {
             "text": "Andiswa ran to the coach and begged him to let her to play. The coach was not sure what to do. Then he decided that Andiswa could join the team.",
             "pagenum": 5,
-            "imageSrc": "./public/images/0234/0234_05.jpg",
-            "audioSrc": "./public/audio/en/0234/0234_en_05.mp3"
+            "imageSrc": ".//images/0234/0234_05.jpg",
+            "audioSrc": ".//audio/en/0234/0234_en_05.mp3"
         },
         {
             "text": "The game was tough. Nobody had scored a goal by half time.",
             "pagenum": 6,
-            "imageSrc": "./public/images/0234/0234_06.jpg",
-            "audioSrc": "./public/audio/en/0234/0234_en_06.mp3"
+            "imageSrc": ".//images/0234/0234_06.jpg",
+            "audioSrc": ".//audio/en/0234/0234_en_06.mp3"
         },
         {
             "text": "During the second half of the match one of the boys passed the ball to Andiswa. She moved very fast towards the goal post. She kicked the ball hard and scored a goal.",
             "pagenum": 7,
-            "imageSrc": "./public/images/0234/0234_07.jpg",
-            "audioSrc": "./public/audio/en/0234/0234_en_07.mp3"
+            "imageSrc": ".//images/0234/0234_07.jpg",
+            "audioSrc": ".//audio/en/0234/0234_en_07.mp3"
         },
         {
             "text": "The crowd went wild with joy. Since that day, girls were also allowed to play soccer at the school.",
             "pagenum": 8,
-            "imageSrc": "./public/images/0234/0234_08.jpg",
-            "audioSrc": "./public/audio/en/0234/0234_en_08.mp3"
+            "imageSrc": ".//images/0234/0234_08.jpg",
+            "audioSrc": ".//audio/en/0234/0234_en_08.mp3"
         }
     ]
 }

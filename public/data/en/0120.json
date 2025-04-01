@@ -1,7 +1,7 @@
 {
     "id": "0120",
     "language": "en",
-    "storyPath": "./public/data/en/0120.json",
+    "storyPath": ".//data/en/0120.json",
     "title": "Hair",
     "illustrator": " Bronwen Heath, Ingrid Schechter",
     "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
@@ -12,56 +12,56 @@
         {
             "text": "Hair",
             "pagenum": 0,
-            "imageSrc": "./public/images/0120/0120_00.jpg",
-            "audioSrc": "./public/audio/en/0120/0120_en_00.mp3"
+            "imageSrc": ".//images/0120/0120_00.jpg",
+            "audioSrc": ".//audio/en/0120/0120_en_00.mp3"
         },
         {
             "text": "Thuli has short hair.",
             "pagenum": 1,
-            "imageSrc": "./public/images/0120/0120_01.jpg",
-            "audioSrc": "./public/audio/en/0120/0120_en_01.mp3"
+            "imageSrc": ".//images/0120/0120_01.jpg",
+            "audioSrc": ".//audio/en/0120/0120_en_01.mp3"
         },
         {
             "text": "Anna has long hair.",
             "pagenum": 2,
-            "imageSrc": "./public/images/0120/0120_02.jpg",
-            "audioSrc": "./public/audio/en/0120/0120_en_02.mp3"
+            "imageSrc": ".//images/0120/0120_02.jpg",
+            "audioSrc": ".//audio/en/0120/0120_en_02.mp3"
         },
         {
             "text": "Cathy has the longest hair.",
             "pagenum": 3,
-            "imageSrc": "./public/images/0120/0120_03.jpg",
-            "audioSrc": "./public/audio/en/0120/0120_en_03.mp3"
+            "imageSrc": ".//images/0120/0120_03.jpg",
+            "audioSrc": ".//audio/en/0120/0120_en_03.mp3"
         },
         {
             "text": "Zama has plaited her hair.",
             "pagenum": 4,
-            "imageSrc": "./public/images/0120/0120_04.jpg",
-            "audioSrc": "./public/audio/en/0120/0120_en_04.mp3"
+            "imageSrc": ".//images/0120/0120_04.jpg",
+            "audioSrc": ".//audio/en/0120/0120_en_04.mp3"
         },
         {
             "text": "Baba has a beard.",
             "pagenum": 5,
-            "imageSrc": "./public/images/0120/0120_05.jpg",
-            "audioSrc": "./public/audio/en/0120/0120_en_05.mp3"
+            "imageSrc": ".//images/0120/0120_05.jpg",
+            "audioSrc": ".//audio/en/0120/0120_en_05.mp3"
         },
         {
             "text": "Zanele has combed her hair.",
             "pagenum": 6,
-            "imageSrc": "./public/images/0120/0120_06.jpg",
-            "audioSrc": "./public/audio/en/0120/0120_en_06.mp3"
+            "imageSrc": ".//images/0120/0120_06.jpg",
+            "audioSrc": ".//audio/en/0120/0120_en_06.mp3"
         },
         {
             "text": "Thabo has cut his hair.",
             "pagenum": 7,
-            "imageSrc": "./public/images/0120/0120_07.jpg",
-            "audioSrc": "./public/audio/en/0120/0120_en_07.mp3"
+            "imageSrc": ".//images/0120/0120_07.jpg",
+            "audioSrc": ".//audio/en/0120/0120_en_07.mp3"
         },
         {
             "text": "Themba has shaved his hair.",
             "pagenum": 8,
-            "imageSrc": "./public/images/0120/0120_08.jpg",
-            "audioSrc": "./public/audio/en/0120/0120_en_08.mp3"
+            "imageSrc": ".//images/0120/0120_08.jpg",
+            "audioSrc": ".//audio/en/0120/0120_en_08.mp3"
         }
     ]
 }

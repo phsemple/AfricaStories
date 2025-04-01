@@ -3,7 +3,7 @@
 
 document.addEventListener('DOMContentLoaded', async () => {
 
-    await fetch('public/partials/controls.html')
+    await fetch('/partials/controls.html')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Failed to load controls.html');
