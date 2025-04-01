@@ -1,7 +1,7 @@
 {
     "id": "0006",
     "language": "sw",
-    "storyPath": "./data/sw/0006.json",
+    "storyPath": "/data/sw/0006.json",
     "title": "Anansi na hekima",
     "illustrator": " Wiehan de Jager",
     "writtenby": " Ghanaian folktale",
@@ -12,44 +12,44 @@
         {
             "text": "Anansi na hekima",
             "pagenum": 0,
-            "imageSrc": "./images/0006/0006_00.jpg",
-            "audioSrc": "./audio/sw/0006/0006_sw_00.mp3"
+            "imageSrc": "/images/0006/0006_00.jpg",
+            "audioSrc": "/audio/sw/0006/0006_sw_00.mp3"
         },
         {
             "text": "Hapo zamani za kale, watu hawakujua chochote. Hawakujua kupanda mimea, hawakujua kushona nguo, wala hawakujua kuunda zana za chuma. Nyame, mungu aliyekuwa mbinguni, ndiye aliyekuwa mwenye hekima zote za dunia. Alihifadhi hekima hiyo kwenye chungu cha udongo.",
             "pagenum": 1,
-            "imageSrc": "./images/0006/0006_01.jpg",
-            "audioSrc": "./audio/sw/0006/0006_sw_01.mp3"
+            "imageSrc": "/images/0006/0006_01.jpg",
+            "audioSrc": "/audio/sw/0006/0006_sw_01.mp3"
         },
         {
             "text": "Siku moja, Nyame aliamua kumpa Anansi chungu hicho cha hekima. Kila Anansi alipotazama ndani ya chungu cha udongo, alijifunza jambo jipya. Alifurahi sana!",
             "pagenum": 2,
-            "imageSrc": "./images/0006/0006_02.jpg",
-            "audioSrc": "./audio/sw/0006/0006_sw_02.mp3"
+            "imageSrc": "/images/0006/0006_02.jpg",
+            "audioSrc": "/audio/sw/0006/0006_sw_02.mp3"
         },
         {
             "text": "Anansi mlafi alinong’ona moyoni, “Nitakificha chungu hiki juu ya mti mrefu ili nikifaidi mwenyewe.” Akasokota uzi mrefu na kuuzungusha kwenye chungu. Kisha, akajifunga tumboni. Akaanza kupanda kwenye mti. Lakini ilikuwa vigumu kupanda kwenye mti huku chungu kikimgonga magotini kila mara.",
             "pagenum": 3,
-            "imageSrc": "./images/0006/0006_03.jpg",
-            "audioSrc": "./audio/sw/0006/0006_sw_03.mp3"
+            "imageSrc": "/images/0006/0006_03.jpg",
+            "audioSrc": "/audio/sw/0006/0006_sw_03.mp3"
         },
         {
             "text": "Wakati huo wote, mwanawe alikuwa amesimama chini ya ule mti akimtazama baba yake. Akamwambia, “Baba, si ingekuwa rahisi kupanda endapo ungekifungia chungu mgongoni?” Basi Anansi akajaribu kukifungia chungu kilichojaa hekima mgongoni mwake, na kweli ikawa rahisi zaidi.",
             "pagenum": 4,
-            "imageSrc": "./images/0006/0006_04.jpg",
-            "audioSrc": "./audio/sw/0006/0006_sw_04.mp3"
+            "imageSrc": "/images/0006/0006_04.jpg",
+            "audioSrc": "/audio/sw/0006/0006_sw_04.mp3"
         },
         {
             "text": "Punde tu alipofika juu ya mti, aliwaza, “Natakiwa kuwa ndiye mwenye hekima zote, lakini hapa mwanangu ndiye mwenye akili kuliko mimi.” Anansi alikasirishwa sana kiasi kwamba alikitupa kile chungu chini ya mti.",
             "pagenum": 5,
-            "imageSrc": "./images/0006/0006_05.jpg",
-            "audioSrc": "./audio/sw/0006/0006_sw_05.mp3"
+            "imageSrc": "/images/0006/0006_05.jpg",
+            "audioSrc": "/audio/sw/0006/0006_sw_05.mp3"
         },
         {
             "text": "Chungu kilivunjika vipandevipande pale chini. Hekima zikawa za bure kwa mtu yeyote kujichukulia. Na hivyo ndivyo watu walivyojifunza kulima, kushona nguo, kuunda zana za chuma, na mambo yote mengine ambayo watu wanajua kuyafanya.",
             "pagenum": 6,
-            "imageSrc": "./images/0006/0006_06.jpg",
-            "audioSrc": "./audio/sw/0006/0006_sw_06.mp3"
+            "imageSrc": "/images/0006/0006_06.jpg",
+            "audioSrc": "/audio/sw/0006/0006_sw_06.mp3"
         }
     ]
 }

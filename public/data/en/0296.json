@@ -1,7 +1,7 @@
 {
     "id": "0296",
     "language": "en",
-    "storyPath": "./data/en/0296.json",
+    "storyPath": "/data/en/0296.json",
     "title": "Tom the banana seller",
     "illustrator": " Zablon Alex Nguku",
     "writtenby": " Humphreys Odunga",
@@ -12,80 +12,80 @@
         {
             "text": "Tom the banana seller",
             "pagenum": 0,
-            "imageSrc": "./images/0296/0296_00.jpg",
-            "audioSrc": "./audio/en/0296/0296_en_00.mp3"
+            "imageSrc": "/images/0296/0296_00.jpg",
+            "audioSrc": "/audio/en/0296/0296_en_00.mp3"
         },
         {
             "text": "Tom carries a tray of ripe bananas.",
             "pagenum": 1,
-            "imageSrc": "./images/0296/0296_01.jpg",
-            "audioSrc": "./audio/en/0296/0296_en_01.mp3"
+            "imageSrc": "/images/0296/0296_01.jpg",
+            "audioSrc": "/audio/en/0296/0296_en_01.mp3"
         },
         {
             "text": "Tom goes to the market to sell bananas.",
             "pagenum": 2,
-            "imageSrc": "./images/0296/0296_02.jpg",
-            "audioSrc": "./audio/en/0296/0296_en_02.mp3"
+            "imageSrc": "/images/0296/0296_02.jpg",
+            "audioSrc": "/audio/en/0296/0296_en_02.mp3"
         },
         {
             "text": "People at the market are buying fruit.",
             "pagenum": 3,
-            "imageSrc": "./images/0296/0296_03.jpg",
-            "audioSrc": "./audio/en/0296/0296_en_03.mp3"
+            "imageSrc": "/images/0296/0296_03.jpg",
+            "audioSrc": "/audio/en/0296/0296_en_03.mp3"
         },
         {
             "text": "But no one is buying Tom’s bananas. They prefer to buy fruit from women.",
             "pagenum": 4,
-            "imageSrc": "./images/0296/0296_04.jpg",
-            "audioSrc": "./audio/en/0296/0296_en_04.mp3"
+            "imageSrc": "/images/0296/0296_04.jpg",
+            "audioSrc": "/audio/en/0296/0296_en_04.mp3"
         },
         {
             "text": "“In our community, only women sell fruit,” people say. “What kind of a man is this?” people ask.",
             "pagenum": 5,
-            "imageSrc": "./images/0296/0296_05.jpg",
-            "audioSrc": "./audio/en/0296/0296_en_05.mp3"
+            "imageSrc": "/images/0296/0296_05.jpg",
+            "audioSrc": "/audio/en/0296/0296_en_05.mp3"
         },
         {
             "text": "But Tom does not give up. He calls, “Buy my bananas! Buy my sweet ripe bananas!”",
             "pagenum": 6,
-            "imageSrc": "./images/0296/0296_06.jpg",
-            "audioSrc": "./audio/en/0296/0296_en_06.mp3"
+            "imageSrc": "/images/0296/0296_06.jpg",
+            "audioSrc": "/audio/en/0296/0296_en_06.mp3"
         },
         {
             "text": "One woman picks up a bunch of bananas from the tray. She looks at the bananas carefully.",
             "pagenum": 7,
-            "imageSrc": "./images/0296/0296_07.jpg",
-            "audioSrc": "./audio/en/0296/0296_en_07.mp3"
+            "imageSrc": "/images/0296/0296_07.jpg",
+            "audioSrc": "/audio/en/0296/0296_en_07.mp3"
         },
         {
             "text": "The woman buys the bananas.",
             "pagenum": 8,
-            "imageSrc": "./images/0296/0296_08.jpg",
-            "audioSrc": "./audio/en/0296/0296_en_08.mp3"
+            "imageSrc": "/images/0296/0296_08.jpg",
+            "audioSrc": "/audio/en/0296/0296_en_08.mp3"
         },
         {
             "text": "More people come to the stall. They buy Tom’s bananas and eat them.",
             "pagenum": 9,
-            "imageSrc": "./images/0296/0296_09.jpg",
-            "audioSrc": "./audio/en/0296/0296_en_09.mp3"
+            "imageSrc": "/images/0296/0296_09.jpg",
+            "audioSrc": "/audio/en/0296/0296_en_09.mp3"
         },
         {
             "text": "Soon, the tray is empty. Tom counts the money he earned.",
             "pagenum": 10,
-            "imageSrc": "./images/0296/0296_10.jpg",
-            "audioSrc": "./audio/en/0296/0296_en_10.mp3"
+            "imageSrc": "/images/0296/0296_10.jpg",
+            "audioSrc": "/audio/en/0296/0296_en_10.mp3"
         },
         {
             "text": "Then Tom buys soap, sugar, and bread. He puts the things in his tray.",
             "pagenum": 11,
-            "imageSrc": "./images/0296/0296_11.jpg",
-            "audioSrc": "./audio/en/0296/0296_en_11.mp3"
+            "imageSrc": "/images/0296/0296_11.jpg",
+            "audioSrc": "/audio/en/0296/0296_en_11.mp3"
         },
         {
             "text": "Tom balances the tray on his head and goes home.",
             "pagenum": 12,
-            "imageSrc": "./images/0296/0296_12.jpg",
-            "audioSrc": "./audio/en/0296/0296_en_12.mp3"
+            "imageSrc": "/images/0296/0296_12.jpg",
+            "audioSrc": "/audio/en/0296/0296_en_12.mp3"
         }
     ]
 }

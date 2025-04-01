@@ -1,7 +1,7 @@
 {
     "id": "0156",
     "language": "sw",
-    "storyPath": "./data/sw/0156.json",
+    "storyPath": "/data/sw/0156.json",
     "title": "Mamba mwenye njaa",
     "illustrator": " Wiehan de Jager",
     "writtenby": " Christian G.",
@@ -12,38 +12,38 @@
         {
             "text": "Mamba mwenye njaa",
             "pagenum": 0,
-            "imageSrc": "./images/0156/0156_00.jpg",
-            "audioSrc": "./audio/sw/0156/0156_sw_00.mp3"
+            "imageSrc": "/images/0156/0156_00.jpg",
+            "audioSrc": "/audio/sw/0156/0156_sw_00.mp3"
         },
         {
             "text": "Hapo zamani, palikuwa na mamba mwenye njaa.",
             "pagenum": 1,
-            "imageSrc": "./images/0156/0156_01.jpg",
-            "audioSrc": "./audio/sw/0156/0156_sw_01.mp3"
+            "imageSrc": "/images/0156/0156_01.jpg",
+            "audioSrc": "/audio/sw/0156/0156_sw_01.mp3"
         },
         {
             "text": "Alitafuta chakula taratibu na kwa ukimya. Halafu…",
             "pagenum": 2,
-            "imageSrc": "./images/0156/0156_02.jpg",
-            "audioSrc": "./audio/sw/0156/0156_sw_02.mp3"
+            "imageSrc": "/images/0156/0156_02.jpg",
+            "audioSrc": "/audio/sw/0156/0156_sw_02.mp3"
         },
         {
             "text": "POO!!! Mamba anashambulia!",
             "pagenum": 3,
-            "imageSrc": "./images/0156/0156_03.jpg",
-            "audioSrc": "./audio/sw/0156/0156_sw_03.mp3"
+            "imageSrc": "/images/0156/0156_03.jpg",
+            "audioSrc": "/audio/sw/0156/0156_sw_03.mp3"
         },
         {
             "text": "Baada ya hapo hana njaa tena, na anafurahi.",
             "pagenum": 4,
-            "imageSrc": "./images/0156/0156_04.jpg",
-            "audioSrc": "./audio/sw/0156/0156_sw_04.mp3"
+            "imageSrc": "/images/0156/0156_04.jpg",
+            "audioSrc": "/audio/sw/0156/0156_sw_04.mp3"
         },
         {
             "text": "Hadi atakapopatwa na njaa tena.",
             "pagenum": 5,
-            "imageSrc": "./images/0156/0156_05.jpg",
-            "audioSrc": "./audio/sw/0156/0156_sw_05.mp3"
+            "imageSrc": "/images/0156/0156_05.jpg",
+            "audioSrc": "/audio/sw/0156/0156_sw_05.mp3"
         }
     ]
 }

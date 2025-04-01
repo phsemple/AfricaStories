@@ -1,7 +1,7 @@
 {
     "id": "0009",
     "language": "sw",
-    "storyPath": "./data/sw/0009.json",
+    "storyPath": "/data/sw/0009.json",
     "title": "Wapi paka wangu?",
     "illustrator": " Bronwen Heath, Ingrid Schechter",
     "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
@@ -12,56 +12,56 @@
         {
             "text": "Wapi paka wangu?",
             "pagenum": 0,
-            "imageSrc": "./images/0009/0009_00.jpg",
-            "audioSrc": "./audio/sw/0009/0009_sw_00.mp3"
+            "imageSrc": "/images/0009/0009_00.jpg",
+            "audioSrc": "/audio/sw/0009/0009_sw_00.mp3"
         },
         {
             "text": "Yuko wapi paka wangu?",
             "pagenum": 1,
-            "imageSrc": "./images/0009/0009_01.jpg",
-            "audioSrc": "./audio/sw/0009/0009_sw_01.mp3"
+            "imageSrc": "/images/0009/0009_01.jpg",
+            "audioSrc": "/audio/sw/0009/0009_sw_01.mp3"
         },
         {
             "text": "Je, yuko chini ya kitanda?",
             "pagenum": 2,
-            "imageSrc": "./images/0009/0009_02.jpg",
-            "audioSrc": "./audio/sw/0009/0009_sw_02.mp3"
+            "imageSrc": "/images/0009/0009_02.jpg",
+            "audioSrc": "/audio/sw/0009/0009_sw_02.mp3"
         },
         {
             "text": "Yuko juu ya kabati?",
             "pagenum": 3,
-            "imageSrc": "./images/0009/0009_03.jpg",
-            "audioSrc": "./audio/sw/0009/0009_sw_03.mp3"
+            "imageSrc": "/images/0009/0009_03.jpg",
+            "audioSrc": "/audio/sw/0009/0009_sw_03.mp3"
         },
         {
             "text": "Yuko nyuma ya sofa?",
             "pagenum": 4,
-            "imageSrc": "./images/0009/0009_04.jpg",
-            "audioSrc": "./audio/sw/0009/0009_sw_04.mp3"
+            "imageSrc": "/images/0009/0009_04.jpg",
+            "audioSrc": "/audio/sw/0009/0009_sw_04.mp3"
         },
         {
             "text": "Yuko karibu na pipa la takataka?",
             "pagenum": 5,
-            "imageSrc": "./images/0009/0009_05.jpg",
-            "audioSrc": "./audio/sw/0009/0009_sw_05.mp3"
+            "imageSrc": "/images/0009/0009_05.jpg",
+            "audioSrc": "/audio/sw/0009/0009_sw_05.mp3"
         },
         {
             "text": "Yuko ndani ya kikapu?",
             "pagenum": 6,
-            "imageSrc": "./images/0009/0009_06.jpg",
-            "audioSrc": "./audio/sw/0009/0009_sw_06.mp3"
+            "imageSrc": "/images/0009/0009_06.jpg",
+            "audioSrc": "/audio/sw/0009/0009_sw_06.mp3"
         },
         {
             "text": "Yuko nje ya nyumba?",
             "pagenum": 7,
-            "imageSrc": "./images/0009/0009_07.jpg",
-            "audioSrc": "./audio/sw/0009/0009_sw_07.mp3"
+            "imageSrc": "/images/0009/0009_07.jpg",
+            "audioSrc": "/audio/sw/0009/0009_sw_07.mp3"
         },
         {
             "text": "Yupo hapa!",
             "pagenum": 8,
-            "imageSrc": "./images/0009/0009_08.jpg",
-            "audioSrc": "./audio/sw/0009/0009_sw_08.mp3"
+            "imageSrc": "/images/0009/0009_08.jpg",
+            "audioSrc": "/audio/sw/0009/0009_sw_08.mp3"
         }
     ]
 }

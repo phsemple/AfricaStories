@@ -1,7 +1,7 @@
 {
     "id": "0271",
     "language": "sw",
-    "storyPath": "./data/sw/0271.json",
+    "storyPath": "/data/sw/0271.json",
     "title": "Mbili",
     "illustrator": " Richard MacIntosh",
     "writtenby": " Carole Bloch",
@@ -12,38 +12,38 @@
         {
             "text": "Mbili",
             "pagenum": 0,
-            "imageSrc": "./images/0271/0271_00.jpg",
-            "audioSrc": "./audio/sw/0271/0271_sw_00.mp3"
+            "imageSrc": "/images/0271/0271_00.jpg",
+            "audioSrc": "/audio/sw/0271/0271_sw_00.mp3"
         },
         {
             "text": "Mikono miwili midogo ya kushikia.",
             "pagenum": 1,
-            "imageSrc": "./images/0271/0271_01.jpg",
-            "audioSrc": "./audio/sw/0271/0271_sw_01.mp3"
+            "imageSrc": "/images/0271/0271_01.jpg",
+            "audioSrc": "/audio/sw/0271/0271_sw_01.mp3"
         },
         {
             "text": "Miguu miwili midogo ya kupigia.",
             "pagenum": 2,
-            "imageSrc": "./images/0271/0271_02.jpg",
-            "audioSrc": "./audio/sw/0271/0271_sw_02.mp3"
+            "imageSrc": "/images/0271/0271_02.jpg",
+            "audioSrc": "/audio/sw/0271/0271_sw_02.mp3"
         },
         {
             "text": "Macho mawili madogo ya kuonea.",
             "pagenum": 3,
-            "imageSrc": "./images/0271/0271_03.jpg",
-            "audioSrc": "./audio/sw/0271/0271_sw_03.mp3"
+            "imageSrc": "/images/0271/0271_03.jpg",
+            "audioSrc": "/audio/sw/0271/0271_sw_03.mp3"
         },
         {
             "text": "Masikio mawili madogo ya kusikia.",
             "pagenum": 4,
-            "imageSrc": "./images/0271/0271_04.jpg",
-            "audioSrc": "./audio/sw/0271/0271_sw_04.mp3"
+            "imageSrc": "/images/0271/0271_04.jpg",
+            "audioSrc": "/audio/sw/0271/0271_sw_04.mp3"
         },
         {
             "text": "Na mikono miwili ya KUKUMBATIA kwa upendo!",
             "pagenum": 5,
-            "imageSrc": "./images/0271/0271_05.jpg",
-            "audioSrc": "./audio/sw/0271/0271_sw_05.mp3"
+            "imageSrc": "/images/0271/0271_05.jpg",
+            "audioSrc": "/audio/sw/0271/0271_sw_05.mp3"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "id": "0231",
     "language": "sw",
-    "storyPath": "./data/sw/0231.json",
+    "storyPath": "/data/sw/0231.json",
     "title": "Kitabu cha hali ya hewa",
     "illustrator": " Sandra McDougall, Ingrid Schechter",
     "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
@@ -12,56 +12,56 @@
         {
             "text": "Kitabu cha hali ya hewa",
             "pagenum": 0,
-            "imageSrc": "./images/0231/0231_00.jpg",
-            "audioSrc": "./audio/sw/0231/0231_sw_00.mp3"
+            "imageSrc": "/images/0231/0231_00.jpg",
+            "audioSrc": "/audio/sw/0231/0231_sw_00.mp3"
         },
         {
             "text": "Hakuna mvua.",
             "pagenum": 1,
-            "imageSrc": "./images/0231/0231_01.jpg",
-            "audioSrc": "./audio/sw/0231/0231_sw_01.mp3"
+            "imageSrc": "/images/0231/0231_01.jpg",
+            "audioSrc": "/audio/sw/0231/0231_sw_01.mp3"
         },
         {
             "text": "Jua linang’aa.",
             "pagenum": 2,
-            "imageSrc": "./images/0231/0231_02.jpg",
-            "audioSrc": "./audio/sw/0231/0231_sw_02.mp3"
+            "imageSrc": "/images/0231/0231_02.jpg",
+            "audioSrc": "/audio/sw/0231/0231_sw_02.mp3"
         },
         {
             "text": "Kuna upepo.",
             "pagenum": 3,
-            "imageSrc": "./images/0231/0231_03.jpg",
-            "audioSrc": "./audio/sw/0231/0231_sw_03.mp3"
+            "imageSrc": "/images/0231/0231_03.jpg",
+            "audioSrc": "/audio/sw/0231/0231_sw_03.mp3"
         },
         {
             "text": "Kuna mawingu.",
             "pagenum": 4,
-            "imageSrc": "./images/0231/0231_04.jpg",
-            "audioSrc": "./audio/sw/0231/0231_sw_04.mp3"
+            "imageSrc": "/images/0231/0231_04.jpg",
+            "audioSrc": "/audio/sw/0231/0231_sw_04.mp3"
         },
         {
             "text": "Kuna baridi.",
             "pagenum": 5,
-            "imageSrc": "./images/0231/0231_05.jpg",
-            "audioSrc": "./audio/sw/0231/0231_sw_05.mp3"
+            "imageSrc": "/images/0231/0231_05.jpg",
+            "audioSrc": "/audio/sw/0231/0231_sw_05.mp3"
         },
         {
             "text": "Mvua inanyesha.",
             "pagenum": 6,
-            "imageSrc": "./images/0231/0231_06.jpg",
-            "audioSrc": "./audio/sw/0231/0231_sw_06.mp3"
+            "imageSrc": "/images/0231/0231_06.jpg",
+            "audioSrc": "/audio/sw/0231/0231_sw_06.mp3"
         },
         {
             "text": "Kuna ngurumo za radi.",
             "pagenum": 7,
-            "imageSrc": "./images/0231/0231_07.jpg",
-            "audioSrc": "./audio/sw/0231/0231_sw_07.mp3"
+            "imageSrc": "/images/0231/0231_07.jpg",
+            "audioSrc": "/audio/sw/0231/0231_sw_07.mp3"
         },
         {
             "text": "Naona upinde wa mvua.",
             "pagenum": 8,
-            "imageSrc": "./images/0231/0231_08.jpg",
-            "audioSrc": "./audio/sw/0231/0231_sw_08.mp3"
+            "imageSrc": "/images/0231/0231_08.jpg",
+            "audioSrc": "/audio/sw/0231/0231_sw_08.mp3"
         }
     ]
 }

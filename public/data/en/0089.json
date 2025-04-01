@@ -1,7 +1,7 @@
 {
     "id": "0089",
     "language": "en",
-    "storyPath": "./data/en/0089.json",
+    "storyPath": "/data/en/0089.json",
     "title": "Khalai talks to plants",
     "illustrator": " Jesse Pietersen",
     "writtenby": " Ursula Nafula",
@@ -12,56 +12,56 @@
         {
             "text": "Khalai talks to plants",
             "pagenum": 0,
-            "imageSrc": "./images/0089/0089_00.jpg",
-            "audioSrc": "./audio/en/0089/0089_en_00.mp3"
+            "imageSrc": "/images/0089/0089_00.jpg",
+            "audioSrc": "/audio/en/0089/0089_en_00.mp3"
         },
         {
             "text": "This is Khalai. She is seven years old. Her name means ‘the good one’ in her language, Lubukusu.",
             "pagenum": 1,
-            "imageSrc": "./images/0089/0089_01.jpg",
-            "audioSrc": "./audio/en/0089/0089_en_01.mp3"
+            "imageSrc": "/images/0089/0089_01.jpg",
+            "audioSrc": "/audio/en/0089/0089_en_01.mp3"
         },
         {
             "text": "Khalai wakes up and talks to the orange tree. “Please orange tree, grow big and give us lots of ripe oranges.”",
             "pagenum": 2,
-            "imageSrc": "./images/0089/0089_02.jpg",
-            "audioSrc": "./audio/en/0089/0089_en_02.mp3"
+            "imageSrc": "/images/0089/0089_02.jpg",
+            "audioSrc": "/audio/en/0089/0089_en_02.mp3"
         },
         {
             "text": "Khalai walks to school. On the way she talks to the grass. “Please grass, grow greener and don’t dry up.”",
             "pagenum": 3,
-            "imageSrc": "./images/0089/0089_03.jpg",
-            "audioSrc": "./audio/en/0089/0089_en_03.mp3"
+            "imageSrc": "/images/0089/0089_03.jpg",
+            "audioSrc": "/audio/en/0089/0089_en_03.mp3"
         },
         {
             "text": "Khalai passes wild flowers. “Please flowers, keep blooming so I can put you in my hair.”",
             "pagenum": 4,
-            "imageSrc": "./images/0089/0089_04.jpg",
-            "audioSrc": "./audio/en/0089/0089_en_04.mp3"
+            "imageSrc": "/images/0089/0089_04.jpg",
+            "audioSrc": "/audio/en/0089/0089_en_04.mp3"
         },
         {
             "text": "At school, Khalai talks to the tree in the middle of the compound. “Please tree, put out big branches so we can read under your shade.”",
             "pagenum": 5,
-            "imageSrc": "./images/0089/0089_05.jpg",
-            "audioSrc": "./audio/en/0089/0089_en_05.mp3"
+            "imageSrc": "/images/0089/0089_05.jpg",
+            "audioSrc": "/audio/en/0089/0089_en_05.mp3"
         },
         {
             "text": "Khalai talks to the hedge around her school. “Please grow strong and stop bad people from coming in.”",
             "pagenum": 6,
-            "imageSrc": "./images/0089/0089_06.jpg",
-            "audioSrc": "./audio/en/0089/0089_en_06.mp3"
+            "imageSrc": "/images/0089/0089_06.jpg",
+            "audioSrc": "/audio/en/0089/0089_en_06.mp3"
         },
         {
             "text": "When Khalai returns home from school, she visits the orange tree. “Are your oranges ripe yet?” asks Khalai.",
             "pagenum": 7,
-            "imageSrc": "./images/0089/0089_07.jpg",
-            "audioSrc": "./audio/en/0089/0089_en_07.mp3"
+            "imageSrc": "/images/0089/0089_07.jpg",
+            "audioSrc": "/audio/en/0089/0089_en_07.mp3"
         },
         {
             "text": "“The oranges are still green,” sighs Khalai. “I will see you tomorrow orange tree,” says Khalai. “Perhaps then you will have a ripe orange for me!”",
             "pagenum": 8,
-            "imageSrc": "./images/0089/0089_08.jpg",
-            "audioSrc": "./audio/en/0089/0089_en_08.mp3"
+            "imageSrc": "/images/0089/0089_08.jpg",
+            "audioSrc": "/audio/en/0089/0089_en_08.mp3"
         }
     ]
 }

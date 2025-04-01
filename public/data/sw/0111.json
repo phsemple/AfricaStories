@@ -1,7 +1,7 @@
 {
     "id": "0111",
     "language": "sw",
-    "storyPath": "./data/sw/0111.json",
+    "storyPath": "/data/sw/0111.json",
     "title": "Kwa nini Viboko Hawana Nywele",
     "illustrator": " Carol Liddiment",
     "writtenby": " Basilio Gimo, David Ker",
@@ -12,56 +12,56 @@
         {
             "text": "Kwa nini Viboko Hawana Nywele",
             "pagenum": 0,
-            "imageSrc": "./images/0111/0111_00.jpg",
-            "audioSrc": "./audio/sw/0111/0111_sw_00.mp3"
+            "imageSrc": "/images/0111/0111_00.jpg",
+            "audioSrc": "/audio/sw/0111/0111_sw_00.mp3"
         },
         {
             "text": "Siku moja, Sungura alikuwa akitembea pembeni ya mto.",
             "pagenum": 1,
-            "imageSrc": "./images/0111/0111_01.jpg",
-            "audioSrc": "./audio/sw/0111/0111_sw_01.mp3"
+            "imageSrc": "/images/0111/0111_01.jpg",
+            "audioSrc": "/audio/sw/0111/0111_sw_01.mp3"
         },
         {
             "text": "Kiboko alikuwepo pia, akitembea huku akila majani mazuri ya kijani.",
             "pagenum": 2,
-            "imageSrc": "./images/0111/0111_02.jpg",
-            "audioSrc": "./audio/sw/0111/0111_sw_02.mp3"
+            "imageSrc": "/images/0111/0111_02.jpg",
+            "audioSrc": "/audio/sw/0111/0111_sw_02.mp3"
         },
         {
             "text": "Kiboko hakumwona Sungura na kwa bahati mbaya akaukanyaga mguu wa Sungura. Sungura akaanza kumpigia Kiboko kelele. “We Kiboko huoni kama umeukanyaga mguu wangu?”",
             "pagenum": 3,
-            "imageSrc": "./images/0111/0111_03.jpg",
-            "audioSrc": "./audio/sw/0111/0111_sw_03.mp3"
+            "imageSrc": "/images/0111/0111_03.jpg",
+            "audioSrc": "/audio/sw/0111/0111_sw_03.mp3"
         },
         {
             "text": "Kiboko akamwomba Sungura msamaha, “Samahani, sikukuona, tafadhali nisamehe!” Lakini Sungura hakukubali na akaendelea kumbwatukia Kiboko, “Umefanya makusudi! Kuna siku utakiona, na nitakulipizia!”",
             "pagenum": 4,
-            "imageSrc": "./images/0111/0111_04.jpg",
-            "audioSrc": "./audio/sw/0111/0111_sw_04.mp3"
+            "imageSrc": "/images/0111/0111_04.jpg",
+            "audioSrc": "/audio/sw/0111/0111_sw_04.mp3"
         },
         {
             "text": "Sungura alienda kumtafuta moto na akamwambia, “Nenda, ukamchome Kiboko akitoka majini kuja kula majani. Alinikanyaga!” Moto ukajibu, “Hakuna tatizo, rafiki yangu Sungura, nitafanya ulichoniomba kufanya.”",
             "pagenum": 5,
-            "imageSrc": "./images/0111/0111_05.jpg",
-            "audioSrc": "./audio/sw/0111/0111_sw_05.mp3"
+            "imageSrc": "/images/0111/0111_05.jpg",
+            "audioSrc": "/audio/sw/0111/0111_sw_05.mp3"
         },
         {
             "text": "Baadaye, Kiboko alikuwa akila majani mbali na mto, aliposhtuka moto umelipuka. Miale ya moto ikaanza kuzichoma nywele za Kiboko.",
             "pagenum": 6,
-            "imageSrc": "./images/0111/0111_06.jpg",
-            "audioSrc": "./audio/sw/0111/0111_sw_06.mp3"
+            "imageSrc": "/images/0111/0111_06.jpg",
+            "audioSrc": "/audio/sw/0111/0111_sw_06.mp3"
         },
         {
             "text": "Kiboko akaanza kulia na kukimbilia kwenye maji. Nywele zake zote zilikuwa zimeungua na moto. Kiboko aliendelea kulia, “Nywele zangu zimeungua na moto! Nywele zangu zote zimeisha! Nywele zangu nzuri!”",
             "pagenum": 7,
-            "imageSrc": "./images/0111/0111_07.jpg",
-            "audioSrc": "./audio/sw/0111/0111_sw_07.mp3"
+            "imageSrc": "/images/0111/0111_07.jpg",
+            "audioSrc": "/audio/sw/0111/0111_sw_07.mp3"
         },
         {
             "text": "Sungura alikuwa na furaha kwa kuwa nywele za Kiboko ziliungua. Hadi leo kwa kuogopa moto, Kiboko hawezi kwenda mbali na maji.",
             "pagenum": 8,
-            "imageSrc": "./images/0111/0111_08.jpg",
-            "audioSrc": "./audio/sw/0111/0111_sw_08.mp3"
+            "imageSrc": "/images/0111/0111_08.jpg",
+            "audioSrc": "/audio/sw/0111/0111_sw_08.mp3"
         }
     ]
 }

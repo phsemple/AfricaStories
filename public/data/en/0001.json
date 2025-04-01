@@ -1,7 +1,7 @@
 {
     "id": "0001",
     "language": "en",
-    "storyPath": "./data/en/0001.json",
+    "storyPath": "/data/en/0001.json",
     "title": "A very tall man",
     "illustrator": " Catherine Groenewald",
     "writtenby": " Cornelius Gulere",
@@ -12,74 +12,74 @@
         {
             "text": "A very tall man",
             "pagenum": 0,
-            "imageSrc": "./images/0001/0001_00.jpg",
-            "audioSrc": "./audio/en/0001/0001_en_00.mp3"
+            "imageSrc": "/images/0001/0001_00.jpg",
+            "audioSrc": "/audio/en/0001/0001_en_00.mp3"
         },
         {
             "text": "His hoe was too short.",
             "pagenum": 1,
-            "imageSrc": "./images/0001/0001_01.jpg",
-            "audioSrc": "./audio/en/0001/0001_en_01.mp3"
+            "imageSrc": "/images/0001/0001_01.jpg",
+            "audioSrc": "/audio/en/0001/0001_en_01.mp3"
         },
         {
             "text": "His doorway was too low.",
             "pagenum": 2,
-            "imageSrc": "./images/0001/0001_02.jpg",
-            "audioSrc": "./audio/en/0001/0001_en_02.mp3"
+            "imageSrc": "/images/0001/0001_02.jpg",
+            "audioSrc": "/audio/en/0001/0001_en_02.mp3"
         },
         {
             "text": "His bed was too short.",
             "pagenum": 3,
-            "imageSrc": "./images/0001/0001_03.jpg",
-            "audioSrc": "./audio/en/0001/0001_en_03.mp3"
+            "imageSrc": "/images/0001/0001_03.jpg",
+            "audioSrc": "/audio/en/0001/0001_en_03.mp3"
         },
         {
             "text": "His bicycle was too short.",
             "pagenum": 4,
-            "imageSrc": "./images/0001/0001_04.jpg",
-            "audioSrc": "./audio/en/0001/0001_en_04.mp3"
+            "imageSrc": "/images/0001/0001_04.jpg",
+            "audioSrc": "/audio/en/0001/0001_en_04.mp3"
         },
         {
             "text": "This man was too tall!",
             "pagenum": 5,
-            "imageSrc": "./images/0001/0001_05.jpg",
-            "audioSrc": "./audio/en/0001/0001_en_05.mp3"
+            "imageSrc": "/images/0001/0001_05.jpg",
+            "audioSrc": "/audio/en/0001/0001_en_05.mp3"
         },
         {
             "text": "He made a very long hoe handle.",
             "pagenum": 6,
-            "imageSrc": "./images/0001/0001_06.jpg",
-            "audioSrc": "./audio/en/0001/0001_en_06.mp3"
+            "imageSrc": "/images/0001/0001_06.jpg",
+            "audioSrc": "/audio/en/0001/0001_en_06.mp3"
         },
         {
             "text": "He made very high door frames.",
             "pagenum": 7,
-            "imageSrc": "./images/0001/0001_07.jpg",
-            "audioSrc": "./audio/en/0001/0001_en_07.mp3"
+            "imageSrc": "/images/0001/0001_07.jpg",
+            "audioSrc": "/audio/en/0001/0001_en_07.mp3"
         },
         {
             "text": "He made a very long bed.",
             "pagenum": 8,
-            "imageSrc": "./images/0001/0001_08.jpg",
-            "audioSrc": "./audio/en/0001/0001_en_08.mp3"
+            "imageSrc": "/images/0001/0001_08.jpg",
+            "audioSrc": "/audio/en/0001/0001_en_08.mp3"
         },
         {
             "text": "He bought a very high bicycle.",
             "pagenum": 9,
-            "imageSrc": "./images/0001/0001_09.jpg",
-            "audioSrc": "./audio/en/0001/0001_en_09.mp3"
+            "imageSrc": "/images/0001/0001_09.jpg",
+            "audioSrc": "/audio/en/0001/0001_en_09.mp3"
         },
         {
             "text": "He sat on a very high chair. He ate with a very long fork.",
             "pagenum": 10,
-            "imageSrc": "./images/0001/0001_10.jpg",
-            "audioSrc": "./audio/en/0001/0001_en_10.mp3"
+            "imageSrc": "/images/0001/0001_10.jpg",
+            "audioSrc": "/audio/en/0001/0001_en_10.mp3"
         },
         {
             "text": "He left his house and lived in a big forest. He lived for many years.",
             "pagenum": 11,
-            "imageSrc": "./images/0001/0001_11.jpg",
-            "audioSrc": "./audio/en/0001/0001_en_11.mp3"
+            "imageSrc": "/images/0001/0001_11.jpg",
+            "audioSrc": "/audio/en/0001/0001_en_11.mp3"
         }
     ]
 }

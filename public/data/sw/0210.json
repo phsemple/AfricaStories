@@ -1,7 +1,7 @@
 {
     "id": "0210",
     "language": "sw",
-    "storyPath": "./data/sw/0210.json",
+    "storyPath": "/data/sw/0210.json",
     "title": "Tingi na ng’ombe",
     "illustrator": " Ingrid Schechter",
     "writtenby": " Ingrid Schechter",
@@ -12,74 +12,74 @@
         {
             "text": "Tingi na ng’ombe",
             "pagenum": 0,
-            "imageSrc": "./images/0210/0210_00.jpg",
-            "audioSrc": "./audio/sw/0210/0210_sw_00.mp3"
+            "imageSrc": "/images/0210/0210_00.jpg",
+            "audioSrc": "/audio/sw/0210/0210_sw_00.mp3"
         },
         {
             "text": "Tingi aliishi na bibi yake.",
             "pagenum": 1,
-            "imageSrc": "./images/0210/0210_01.jpg",
-            "audioSrc": "./audio/sw/0210/0210_sw_01.mp3"
+            "imageSrc": "/images/0210/0210_01.jpg",
+            "audioSrc": "/audio/sw/0210/0210_sw_01.mp3"
         },
         {
             "text": "Alizoea kuchunga ng’ombe na bibi yake.",
             "pagenum": 2,
-            "imageSrc": "./images/0210/0210_02.jpg",
-            "audioSrc": "./audio/sw/0210/0210_sw_02.mp3"
+            "imageSrc": "/images/0210/0210_02.jpg",
+            "audioSrc": "/audio/sw/0210/0210_sw_02.mp3"
         },
         {
             "text": "Siku moja wanajeshi walikuja.",
             "pagenum": 3,
-            "imageSrc": "./images/0210/0210_03.jpg",
-            "audioSrc": "./audio/sw/0210/0210_sw_03.mp3"
+            "imageSrc": "/images/0210/0210_03.jpg",
+            "audioSrc": "/audio/sw/0210/0210_sw_03.mp3"
         },
         {
             "text": "Wakawachukua ng’ombe.",
             "pagenum": 4,
-            "imageSrc": "./images/0210/0210_04.jpg",
-            "audioSrc": "./audio/sw/0210/0210_sw_04.mp3"
+            "imageSrc": "/images/0210/0210_04.jpg",
+            "audioSrc": "/audio/sw/0210/0210_sw_04.mp3"
         },
         {
             "text": "Tingi na bibi yake walikimbia na kujificha.",
             "pagenum": 5,
-            "imageSrc": "./images/0210/0210_05.jpg",
-            "audioSrc": "./audio/sw/0210/0210_sw_05.mp3"
+            "imageSrc": "/images/0210/0210_05.jpg",
+            "audioSrc": "/audio/sw/0210/0210_sw_05.mp3"
         },
         {
             "text": "Walijificha kichakani hadi usiku.",
             "pagenum": 6,
-            "imageSrc": "./images/0210/0210_06.jpg",
-            "audioSrc": "./audio/sw/0210/0210_sw_06.mp3"
+            "imageSrc": "/images/0210/0210_06.jpg",
+            "audioSrc": "/audio/sw/0210/0210_sw_06.mp3"
         },
         {
             "text": "Wanajeshi walirudi tena.",
             "pagenum": 7,
-            "imageSrc": "./images/0210/0210_07.jpg",
-            "audioSrc": "./audio/sw/0210/0210_sw_07.mp3"
+            "imageSrc": "/images/0210/0210_07.jpg",
+            "audioSrc": "/audio/sw/0210/0210_sw_07.mp3"
         },
         {
             "text": "Bibi alimficha Tingi chini ya majani.",
             "pagenum": 8,
-            "imageSrc": "./images/0210/0210_08.jpg",
-            "audioSrc": "./audio/sw/0210/0210_sw_08.mp3"
+            "imageSrc": "/images/0210/0210_08.jpg",
+            "audioSrc": "/audio/sw/0210/0210_sw_08.mp3"
         },
         {
             "text": "Mwanajeshi mmoja alimkanyaga, lakini akanyamaza kimya.",
             "pagenum": 9,
-            "imageSrc": "./images/0210/0210_09.jpg",
-            "audioSrc": "./audio/sw/0210/0210_sw_09.mp3"
+            "imageSrc": "/images/0210/0210_09.jpg",
+            "audioSrc": "/audio/sw/0210/0210_sw_09.mp3"
         },
         {
             "text": "Wanajeshi walipoondoka Tingi na bibi yake wakajitokeza.",
             "pagenum": 10,
-            "imageSrc": "./images/0210/0210_10.jpg",
-            "audioSrc": "./audio/sw/0210/0210_sw_10.mp3"
+            "imageSrc": "/images/0210/0210_10.jpg",
+            "audioSrc": "/audio/sw/0210/0210_sw_10.mp3"
         },
         {
             "text": "Wakajikongoja kimya kimya kurudi nyumbani.",
             "pagenum": 11,
-            "imageSrc": "./images/0210/0210_11.jpg",
-            "audioSrc": "./audio/sw/0210/0210_sw_11.mp3"
+            "imageSrc": "/images/0210/0210_11.jpg",
+            "audioSrc": "/audio/sw/0210/0210_sw_11.mp3"
         }
     ]
 }

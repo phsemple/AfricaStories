@@ -1,7 +1,7 @@
 {
     "id": "0087",
     "language": "sw",
-    "storyPath": "./data/sw/0087.json",
+    "storyPath": "/data/sw/0087.json",
     "title": "Ninapenda kusoma!",
     "illustrator": " Wiehan de Jager",
     "writtenby": " Letta Machoga",
@@ -12,56 +12,56 @@
         {
             "text": "Ninapenda kusoma!",
             "pagenum": 0,
-            "imageSrc": "./images/0087/0087_00.jpg",
-            "audioSrc": "./audio/sw/0087/0087_sw_00.mp3"
+            "imageSrc": "/images/0087/0087_00.jpg",
+            "audioSrc": "/audio/sw/0087/0087_sw_00.mp3"
         },
         {
             "text": "Ninapenda kusoma.",
             "pagenum": 1,
-            "imageSrc": "./images/0087/0087_01.jpg",
-            "audioSrc": "./audio/sw/0087/0087_sw_01.mp3"
+            "imageSrc": "/images/0087/0087_01.jpg",
+            "audioSrc": "/audio/sw/0087/0087_sw_01.mp3"
         },
         {
             "text": "Nimsomee nani?",
             "pagenum": 2,
-            "imageSrc": "./images/0087/0087_02.jpg",
-            "audioSrc": "./audio/sw/0087/0087_sw_02.mp3"
+            "imageSrc": "/images/0087/0087_02.jpg",
+            "audioSrc": "/audio/sw/0087/0087_sw_02.mp3"
         },
         {
             "text": "Mdogo wangu amelala.",
             "pagenum": 3,
-            "imageSrc": "./images/0087/0087_03.jpg",
-            "audioSrc": "./audio/sw/0087/0087_sw_03.mp3"
+            "imageSrc": "/images/0087/0087_03.jpg",
+            "audioSrc": "/audio/sw/0087/0087_sw_03.mp3"
         },
         {
             "text": "Nimsomee nani?",
             "pagenum": 4,
-            "imageSrc": "./images/0087/0087_04.jpg",
-            "audioSrc": "./audio/sw/0087/0087_sw_04.mp3"
+            "imageSrc": "/images/0087/0087_04.jpg",
+            "audioSrc": "/audio/sw/0087/0087_sw_04.mp3"
         },
         {
             "text": "Mama na bibi wana kazi.",
             "pagenum": 5,
-            "imageSrc": "./images/0087/0087_05.jpg",
-            "audioSrc": "./audio/sw/0087/0087_sw_05.mp3"
+            "imageSrc": "/images/0087/0087_05.jpg",
+            "audioSrc": "/audio/sw/0087/0087_sw_05.mp3"
         },
         {
             "text": "Nimsomee nani?",
             "pagenum": 6,
-            "imageSrc": "./images/0087/0087_06.jpg",
-            "audioSrc": "./audio/sw/0087/0087_sw_06.mp3"
+            "imageSrc": "/images/0087/0087_06.jpg",
+            "audioSrc": "/audio/sw/0087/0087_sw_06.mp3"
         },
         {
             "text": "Baba na babu wana kazi.",
             "pagenum": 7,
-            "imageSrc": "./images/0087/0087_07.jpg",
-            "audioSrc": "./audio/sw/0087/0087_sw_07.mp3"
+            "imageSrc": "/images/0087/0087_07.jpg",
+            "audioSrc": "/audio/sw/0087/0087_sw_07.mp3"
         },
         {
             "text": "Nimsomee nani? Nijisomee mwenyewe!",
             "pagenum": 8,
-            "imageSrc": "./images/0087/0087_08.jpg",
-            "audioSrc": "./audio/sw/0087/0087_sw_08.mp3"
+            "imageSrc": "/images/0087/0087_08.jpg",
+            "audioSrc": "/audio/sw/0087/0087_sw_08.mp3"
         }
     ]
 }
