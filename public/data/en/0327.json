@@ -1,7 +1,7 @@
 {
     "id": "0327",
     "language": "en",
-    "storyPath": ".//data/en/0327.json",
+    "storyPath": "./data/en/0327.json",
     "title": "Counting animals",
     "illustrator": " Rob Owen",
     "writtenby": " Zanele Buthelezi, Thembani Dladla, Clare Verbeek",
@@ -12,56 +12,56 @@
         {
             "text": "Counting animals",
             "pagenum": 0,
-            "imageSrc": ".//images/0327/0327_00.jpg",
-            "audioSrc": ".//audio/en/0327/0327_en_00.mp3"
+            "imageSrc": "./images/0327/0327_00.jpg",
+            "audioSrc": "./audio/en/0327/0327_en_00.mp3"
         },
         {
             "text": "One elephant is going to drink water.",
             "pagenum": 1,
-            "imageSrc": ".//images/0327/0327_01.jpg",
-            "audioSrc": ".//audio/en/0327/0327_en_01.mp3"
+            "imageSrc": "./images/0327/0327_01.jpg",
+            "audioSrc": "./audio/en/0327/0327_en_01.mp3"
         },
         {
             "text": "Two giraffes are going to drink water.",
             "pagenum": 2,
-            "imageSrc": ".//images/0327/0327_02.jpg",
-            "audioSrc": ".//audio/en/0327/0327_en_02.mp3"
+            "imageSrc": "./images/0327/0327_02.jpg",
+            "audioSrc": "./audio/en/0327/0327_en_02.mp3"
         },
         {
             "text": "Three buffaloes and four birds are also going to drink water.",
             "pagenum": 3,
-            "imageSrc": ".//images/0327/0327_03.jpg",
-            "audioSrc": ".//audio/en/0327/0327_en_03.mp3"
+            "imageSrc": "./images/0327/0327_03.jpg",
+            "audioSrc": "./audio/en/0327/0327_en_03.mp3"
         },
         {
             "text": "Five impalas and six warthogs are walking to the water.",
             "pagenum": 4,
-            "imageSrc": ".//images/0327/0327_04.jpg",
-            "audioSrc": ".//audio/en/0327/0327_en_04.mp3"
+            "imageSrc": "./images/0327/0327_04.jpg",
+            "audioSrc": "./audio/en/0327/0327_en_04.mp3"
         },
         {
             "text": "Seven zebras are running to the water.",
             "pagenum": 5,
-            "imageSrc": ".//images/0327/0327_05.jpg",
-            "audioSrc": ".//audio/en/0327/0327_en_05.mp3"
+            "imageSrc": "./images/0327/0327_05.jpg",
+            "audioSrc": "./audio/en/0327/0327_en_05.mp3"
         },
         {
             "text": "Eight frogs and nine fish are swimming in the water.",
             "pagenum": 6,
-            "imageSrc": ".//images/0327/0327_06.jpg",
-            "audioSrc": ".//audio/en/0327/0327_en_06.mp3"
+            "imageSrc": "./images/0327/0327_06.jpg",
+            "audioSrc": "./audio/en/0327/0327_en_06.mp3"
         },
         {
             "text": "One lion roars. He also wants to drink. Who is afraid of the lion?",
             "pagenum": 7,
-            "imageSrc": ".//images/0327/0327_07.jpg",
-            "audioSrc": ".//audio/en/0327/0327_en_07.mp3"
+            "imageSrc": "./images/0327/0327_07.jpg",
+            "audioSrc": "./audio/en/0327/0327_en_07.mp3"
         },
         {
             "text": "One elephant is drinking water with the lion.",
             "pagenum": 8,
-            "imageSrc": ".//images/0327/0327_08.jpg",
-            "audioSrc": ".//audio/en/0327/0327_en_08.mp3"
+            "imageSrc": "./images/0327/0327_08.jpg",
+            "audioSrc": "./audio/en/0327/0327_en_08.mp3"
         }
     ]
 }

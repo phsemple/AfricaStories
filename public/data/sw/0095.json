@@ -1,7 +1,7 @@
 {
     "id": "0095",
     "language": "sw",
-    "storyPath": ".//data/sw/0095.json",
+    "storyPath": "./data/sw/0095.json",
     "title": "Zama ni mkubwa!",
     "illustrator": " Vusi Malindi",
     "writtenby": " Michael Oguttu",
@@ -12,80 +12,80 @@
         {
             "text": "Zama ni mkubwa!",
             "pagenum": 0,
-            "imageSrc": ".//images/0095/0095_00.jpg",
-            "audioSrc": ".//audio/sw/0095/0095_sw_00.mp3"
+            "imageSrc": "./images/0095/0095_00.jpg",
+            "audioSrc": "./audio/sw/0095/0095_sw_00.mp3"
         },
         {
             "text": "Mdogo wangu anachelewa kuamka. Mimi naamka mapema kwa sababu mimi ni mkubwa!",
             "pagenum": 1,
-            "imageSrc": ".//images/0095/0095_01.jpg",
-            "audioSrc": ".//audio/sw/0095/0095_sw_01.mp3"
+            "imageSrc": "./images/0095/0095_01.jpg",
+            "audioSrc": "./audio/sw/0095/0095_sw_01.mp3"
         },
         {
             "text": "Mimi ndiye ninayeruhusu jua kuingia ndani.",
             "pagenum": 2,
-            "imageSrc": ".//images/0095/0095_02.jpg",
-            "audioSrc": ".//audio/sw/0095/0095_sw_02.mp3"
+            "imageSrc": "./images/0095/0095_02.jpg",
+            "audioSrc": "./audio/sw/0095/0095_sw_02.mp3"
         },
         {
             "text": "“Wewe ni nyota wangu wa asubuhi,” anasema mama.",
             "pagenum": 3,
-            "imageSrc": ".//images/0095/0095_03.jpg",
-            "audioSrc": ".//audio/sw/0095/0095_sw_03.mp3"
+            "imageSrc": "./images/0095/0095_03.jpg",
+            "audioSrc": "./audio/sw/0095/0095_sw_03.mp3"
         },
         {
             "text": "Naoga mwenyewe, sihitaji msaada.",
             "pagenum": 4,
-            "imageSrc": ".//images/0095/0095_04.jpg",
-            "audioSrc": ".//audio/sw/0095/0095_sw_04.mp3"
+            "imageSrc": "./images/0095/0095_04.jpg",
+            "audioSrc": "./audio/sw/0095/0095_sw_04.mp3"
         },
         {
             "text": "Naweza kustahimili maji ya baridi na sabuni ya bluu inayonukia.",
             "pagenum": 5,
-            "imageSrc": ".//images/0095/0095_05.jpg",
-            "audioSrc": ".//audio/sw/0095/0095_sw_05.mp3"
+            "imageSrc": "./images/0095/0095_05.jpg",
+            "audioSrc": "./audio/sw/0095/0095_sw_05.mp3"
         },
         {
             "text": "Mama ananikumbusha, “Usisahau kupiga mswaki.” Namjibu, “Kamwe, sio mimi!”",
             "pagenum": 6,
-            "imageSrc": ".//images/0095/0095_06.jpg",
-            "audioSrc": ".//audio/sw/0095/0095_sw_06.mp3"
+            "imageSrc": "./images/0095/0095_06.jpg",
+            "audioSrc": "./audio/sw/0095/0095_sw_06.mp3"
         },
         {
             "text": "Baada ya kuoga, nawasalimu babu na shangazi, na kuwatakia siku njema.",
             "pagenum": 7,
-            "imageSrc": ".//images/0095/0095_07.jpg",
-            "audioSrc": ".//audio/sw/0095/0095_sw_07.mp3"
+            "imageSrc": "./images/0095/0095_07.jpg",
+            "audioSrc": "./audio/sw/0095/0095_sw_07.mp3"
         },
         {
             "text": "Najivisha nguo mwenyewe. “Mimi ni mkubwa sasa mama,” ninamwambia.",
             "pagenum": 8,
-            "imageSrc": ".//images/0095/0095_08.jpg",
-            "audioSrc": ".//audio/sw/0095/0095_sw_08.mp3"
+            "imageSrc": "./images/0095/0095_08.jpg",
+            "audioSrc": "./audio/sw/0095/0095_sw_08.mp3"
         },
         {
             "text": "Ninaweza kufunga vishikizo na kurekebisha viatu vyangu.",
             "pagenum": 9,
-            "imageSrc": ".//images/0095/0095_09.jpg",
-            "audioSrc": ".//audio/sw/0095/0095_sw_09.mp3"
+            "imageSrc": "./images/0095/0095_09.jpg",
+            "audioSrc": "./audio/sw/0095/0095_sw_09.mp3"
         },
         {
             "text": "Na ninahakikisha mdogo wangu anapata taarifa zote za shule.",
             "pagenum": 10,
-            "imageSrc": ".//images/0095/0095_10.jpg",
-            "audioSrc": ".//audio/sw/0095/0095_sw_10.mp3"
+            "imageSrc": "./images/0095/0095_10.jpg",
+            "audioSrc": "./audio/sw/0095/0095_sw_10.mp3"
         },
         {
             "text": "Darasani najitahidi sana katika kila kitu.",
             "pagenum": 11,
-            "imageSrc": ".//images/0095/0095_11.jpg",
-            "audioSrc": ".//audio/sw/0095/0095_sw_11.mp3"
+            "imageSrc": "./images/0095/0095_11.jpg",
+            "audioSrc": "./audio/sw/0095/0095_sw_11.mp3"
         },
         {
             "text": "Ninafanya hivi vitu vyote vizuri kila siku. Ila kitu ninachokipenda sana ni kucheza na kucheza.",
             "pagenum": 12,
-            "imageSrc": ".//images/0095/0095_12.jpg",
-            "audioSrc": ".//audio/sw/0095/0095_sw_12.mp3"
+            "imageSrc": "./images/0095/0095_12.jpg",
+            "audioSrc": "./audio/sw/0095/0095_sw_12.mp3"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "id": "0201",
     "language": "sw",
-    "storyPath": ".//data/sw/0201.json",
+    "storyPath": "./data/sw/0201.json",
     "title": "Mtoto Punda",
     "illustrator": " Meghan Judge",
     "writtenby": " Lindiwe Matshikiza",
@@ -12,128 +12,128 @@
         {
             "text": "Mtoto Punda",
             "pagenum": 0,
-            "imageSrc": ".//images/0201/0201_00.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_00.mp3"
+            "imageSrc": "./images/0201/0201_00.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_00.mp3"
         },
         {
             "text": "Ilikuwa ni msichana mdogo aliyekuwa wa kwanza kuona umbo la ajabu kwa mbali.",
             "pagenum": 1,
-            "imageSrc": ".//images/0201/0201_01.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_01.mp3"
+            "imageSrc": "./images/0201/0201_01.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_01.mp3"
         },
         {
             "text": "Kadiri umbo lilipokaribia, aliona kwamba lilikuwa ni mwanamke mwenye ujauzito mkubwa.",
             "pagenum": 2,
-            "imageSrc": ".//images/0201/0201_02.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_02.mp3"
+            "imageSrc": "./images/0201/0201_02.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_02.mp3"
         },
         {
             "text": "Kwa upole na ujasiri, msichana alimsogelea mwanamke yule. “Lazima tumhifadhi,” watu wa msichana yule walisema. “Tutawaweka yeye na mtoto wake salama.”",
             "pagenum": 3,
-            "imageSrc": ".//images/0201/0201_03.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_03.mp3"
+            "imageSrc": "./images/0201/0201_03.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_03.mp3"
         },
         {
             "text": "Mtoto alikuwa njiani kuzaliwa si muda mrefu. “Sukuma!” “Leteni mablanketi!” “Maji!” “Suuukuuumaaaa!!!”",
             "pagenum": 4,
-            "imageSrc": ".//images/0201/0201_04.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_04.mp3"
+            "imageSrc": "./images/0201/0201_04.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_04.mp3"
         },
         {
             "text": "Lakini walipomwona mtoto, wote waliruka kwa mshtuko. “Punda?!”",
             "pagenum": 5,
-            "imageSrc": ".//images/0201/0201_05.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_05.mp3"
+            "imageSrc": "./images/0201/0201_05.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_05.mp3"
         },
         {
             "text": "Wakaanza kubishana. “Tulisema tutawaweka mama na mtoto salama, na hivyo ndivyo tutakavyofanya,” baadhi wakasema. “Lakini watatuletea mkosi!” wengine wakadai.",
             "pagenum": 6,
-            "imageSrc": ".//images/0201/0201_06.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_06.mp3"
+            "imageSrc": "./images/0201/0201_06.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_06.mp3"
         },
         {
             "text": "Kwa hiyo mwanamke yule alijikuta yuko peke yake kwa mara nyingine tena. Akajiuliza atafanya nini na mtoto huyo wa ajabu. Akajiuliza atafanya nini na yeye mwenyewe.",
             "pagenum": 7,
-            "imageSrc": ".//images/0201/0201_07.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_07.mp3"
+            "imageSrc": "./images/0201/0201_07.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_07.mp3"
         },
         {
             "text": "Lakini hatimaye alikubali kwamba huyo ni mwanaye na yeye ni mama yake.",
             "pagenum": 8,
-            "imageSrc": ".//images/0201/0201_08.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_08.mp3"
+            "imageSrc": "./images/0201/0201_08.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_08.mp3"
         },
         {
             "text": "Endapo mtoto huyo angebaki kuwa vilevile, na umbo dogo, labda kila kitu kingekuwa tofauti. Lakini mtoto Punda aliendelea kukua na kukua mpaka hakuweza kutoshea tena mgongoni mwa mama yake. Pamoja na kujaribu kwa bidii, hakuweza kuwa na tabia za kibinadamu. Mara nyingi mama yake alichoka na kuvunjika moyo. Wakati mwingine alimlazimisha kufanya kazi walizostahili wanyama.",
             "pagenum": 9,
-            "imageSrc": ".//images/0201/0201_09.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_09.mp3"
+            "imageSrc": "./images/0201/0201_09.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_09.mp3"
         },
         {
             "text": "Kuchanganyikiwa na hasira vilianza kujengeka ndani mwa Punda. Alishindwa kufanya hivi wala vile. Alishindwa kuwa hivi wala vile. Alipatwa na hasira sana kiasi kwamba, siku moja, alimpiga teke mama yake mpaka akaanguka chini.",
             "pagenum": 10,
-            "imageSrc": ".//images/0201/0201_10.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_10.mp3"
+            "imageSrc": "./images/0201/0201_10.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_10.mp3"
         },
         {
             "text": "Punda alijawa na aibu. Akaanza kukimbilia mbali kwa haraka kadiri awezavyo.",
             "pagenum": 11,
-            "imageSrc": ".//images/0201/0201_11.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_11.mp3"
+            "imageSrc": "./images/0201/0201_11.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_11.mp3"
         },
         {
             "text": "Wakati aliposimama, ilikuwa ni usiku, na alikuwa amepotea. “Hii hoo?” alinong’ona gizani. “Hii hoo?” giza likatoa mwangwi. Alikuwa mwenyewe. Alijikunyata katika umbo dogo, akalala fofofo usingizi wa mang’amung’amu.",
             "pagenum": 12,
-            "imageSrc": ".//images/0201/0201_12.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_12.mp3"
+            "imageSrc": "./images/0201/0201_12.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_12.mp3"
         },
         {
             "text": "Punda aliamka na kumkuta mzee mmoja wa ajabu akimtazama. Akamwangalia mzee yule machoni na akaanza kuhisi ishara ya matumaini.",
             "pagenum": 13,
-            "imageSrc": ".//images/0201/0201_13.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_13.mp3"
+            "imageSrc": "./images/0201/0201_13.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_13.mp3"
         },
         {
             "text": "Punda alienda kuishi na mzee yule, na mzee alimfundisha mbinu nyingi za kuishi. Punda alisikiliza na kujifunza, na mzee vivyo hivyo pia. Walisaidiana na kucheka pamoja.",
             "pagenum": 14,
-            "imageSrc": ".//images/0201/0201_14.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_14.mp3"
+            "imageSrc": "./images/0201/0201_14.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_14.mp3"
         },
         {
             "text": "Asubuhi moja, mzee alimwomba Punda ambebe hadi kwenye kilele cha mlima.",
             "pagenum": 15,
-            "imageSrc": ".//images/0201/0201_15.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_15.mp3"
+            "imageSrc": "./images/0201/0201_15.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_15.mp3"
         },
         {
             "text": "Walipofika juu kwenye mawingu, walipatwa na usingizi. Punda akaota kuwa mama yake alikuwa mgonjwa na alimhitaji. Na alipoamka…",
             "pagenum": 16,
-            "imageSrc": ".//images/0201/0201_16.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_16.mp3"
+            "imageSrc": "./images/0201/0201_16.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_16.mp3"
         },
         {
             "text": "…mawingu yalikuwa yametoweka pamoja na rafiki yake, yule mzee.",
             "pagenum": 17,
-            "imageSrc": ".//images/0201/0201_17.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_17.mp3"
+            "imageSrc": "./images/0201/0201_17.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_17.mp3"
         },
         {
             "text": "Hatimaye, Punda alijua alichotakiwa kufanya.",
             "pagenum": 18,
-            "imageSrc": ".//images/0201/0201_18.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_18.mp3"
+            "imageSrc": "./images/0201/0201_18.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_18.mp3"
         },
         {
             "text": "Punda alimkuta mama yake akiwa peke yake huku akimwomboleza mwanaye aliyepotea. Wakaangaliana kwa muda mrefu. Na kisha wakakumbatiana kwa hisia.",
             "pagenum": 19,
-            "imageSrc": ".//images/0201/0201_19.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_19.mp3"
+            "imageSrc": "./images/0201/0201_19.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_19.mp3"
         },
         {
             "text": "Mtoto Punda na mama yake wamekuwa kitu kimoja na kuishi kwa ushirikiano. Taratibu, familia nyingine zimeanza kuhamia na kuishi miongoni mwao.",
             "pagenum": 20,
-            "imageSrc": ".//images/0201/0201_20.jpg",
-            "audioSrc": ".//audio/sw/0201/0201_sw_20.mp3"
+            "imageSrc": "./images/0201/0201_20.jpg",
+            "audioSrc": "./audio/sw/0201/0201_sw_20.mp3"
         }
     ]
 }

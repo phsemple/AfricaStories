@@ -1,7 +1,7 @@
 {
     "id": "0008",
     "language": "en",
-    "storyPath": ".//data/en/0008.json",
+    "storyPath": "./data/en/0008.json",
     "title": "What are you doing?",
     "illustrator": " Wiehan de Jager",
     "writtenby": " Nina Orange",
@@ -12,56 +12,56 @@
         {
             "text": "What are you doing?",
             "pagenum": 0,
-            "imageSrc": ".//images/0008/0008_00.jpg",
-            "audioSrc": ".//audio/en/0008/0008_en_00.mp3"
+            "imageSrc": "./images/0008/0008_00.jpg",
+            "audioSrc": "./audio/en/0008/0008_en_00.mp3"
         },
         {
             "text": "I am singing.",
             "pagenum": 1,
-            "imageSrc": ".//images/0008/0008_01.jpg",
-            "audioSrc": ".//audio/en/0008/0008_en_01.mp3"
+            "imageSrc": "./images/0008/0008_01.jpg",
+            "audioSrc": "./audio/en/0008/0008_en_01.mp3"
         },
         {
             "text": "She is waving.",
             "pagenum": 2,
-            "imageSrc": ".//images/0008/0008_02.jpg",
-            "audioSrc": ".//audio/en/0008/0008_en_02.mp3"
+            "imageSrc": "./images/0008/0008_02.jpg",
+            "audioSrc": "./audio/en/0008/0008_en_02.mp3"
         },
         {
             "text": "I am clapping.",
             "pagenum": 3,
-            "imageSrc": ".//images/0008/0008_03.jpg",
-            "audioSrc": ".//audio/en/0008/0008_en_03.mp3"
+            "imageSrc": "./images/0008/0008_03.jpg",
+            "audioSrc": "./audio/en/0008/0008_en_03.mp3"
         },
         {
             "text": "She is stretching.",
             "pagenum": 4,
-            "imageSrc": ".//images/0008/0008_04.jpg",
-            "audioSrc": ".//audio/en/0008/0008_en_04.mp3"
+            "imageSrc": "./images/0008/0008_04.jpg",
+            "audioSrc": "./audio/en/0008/0008_en_04.mp3"
         },
         {
             "text": "He is calling.",
             "pagenum": 5,
-            "imageSrc": ".//images/0008/0008_05.jpg",
-            "audioSrc": ".//audio/en/0008/0008_en_05.mp3"
+            "imageSrc": "./images/0008/0008_05.jpg",
+            "audioSrc": "./audio/en/0008/0008_en_05.mp3"
         },
         {
             "text": "I am answering.",
             "pagenum": 6,
-            "imageSrc": ".//images/0008/0008_06.jpg",
-            "audioSrc": ".//audio/en/0008/0008_en_06.mp3"
+            "imageSrc": "./images/0008/0008_06.jpg",
+            "audioSrc": "./audio/en/0008/0008_en_06.mp3"
         },
         {
             "text": "She is listening.",
             "pagenum": 7,
-            "imageSrc": ".//images/0008/0008_07.jpg",
-            "audioSrc": ".//audio/en/0008/0008_en_07.mp3"
+            "imageSrc": "./images/0008/0008_07.jpg",
+            "audioSrc": "./audio/en/0008/0008_en_07.mp3"
         },
         {
             "text": "What are you doing?",
             "pagenum": 8,
-            "imageSrc": ".//images/0008/0008_08.jpg",
-            "audioSrc": ".//audio/en/0008/0008_en_08.mp3"
+            "imageSrc": "./images/0008/0008_08.jpg",
+            "audioSrc": "./audio/en/0008/0008_en_08.mp3"
         }
     ]
 }

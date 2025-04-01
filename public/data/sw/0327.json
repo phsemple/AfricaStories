@@ -1,7 +1,7 @@
 {
     "id": "0327",
     "language": "sw",
-    "storyPath": ".//data/sw/0327.json",
+    "storyPath": "./data/sw/0327.json",
     "title": "Kuhesabu wanyama",
     "illustrator": " Rob Owen",
     "writtenby": " Zanele Buthelezi, Thembani Dladla, Clare Verbeek",
@@ -12,56 +12,56 @@
         {
             "text": "Kuhesabu wanyama",
             "pagenum": 0,
-            "imageSrc": ".//images/0327/0327_00.jpg",
-            "audioSrc": ".//audio/sw/0327/0327_sw_00.mp3"
+            "imageSrc": "./images/0327/0327_00.jpg",
+            "audioSrc": "./audio/sw/0327/0327_sw_00.mp3"
         },
         {
             "text": "Tembo mmoja anakwenda kunywa maji.",
             "pagenum": 1,
-            "imageSrc": ".//images/0327/0327_01.jpg",
-            "audioSrc": ".//audio/sw/0327/0327_sw_01.mp3"
+            "imageSrc": "./images/0327/0327_01.jpg",
+            "audioSrc": "./audio/sw/0327/0327_sw_01.mp3"
         },
         {
             "text": "Twiga wawili wanaenda kunywa maji.",
             "pagenum": 2,
-            "imageSrc": ".//images/0327/0327_02.jpg",
-            "audioSrc": ".//audio/sw/0327/0327_sw_02.mp3"
+            "imageSrc": "./images/0327/0327_02.jpg",
+            "audioSrc": "./audio/sw/0327/0327_sw_02.mp3"
         },
         {
             "text": "Nyati watatu na ndege wanne nao wanaenda kunywa maji.",
             "pagenum": 3,
-            "imageSrc": ".//images/0327/0327_03.jpg",
-            "audioSrc": ".//audio/sw/0327/0327_sw_03.mp3"
+            "imageSrc": "./images/0327/0327_03.jpg",
+            "audioSrc": "./audio/sw/0327/0327_sw_03.mp3"
         },
         {
             "text": "Swala watano na ngiri sita wanatembea kuelekea kwenye maji.",
             "pagenum": 4,
-            "imageSrc": ".//images/0327/0327_04.jpg",
-            "audioSrc": ".//audio/sw/0327/0327_sw_04.mp3"
+            "imageSrc": "./images/0327/0327_04.jpg",
+            "audioSrc": "./audio/sw/0327/0327_sw_04.mp3"
         },
         {
             "text": "Punda milia saba wanakimbia kuelekea kwenye maji.",
             "pagenum": 5,
-            "imageSrc": ".//images/0327/0327_05.jpg",
-            "audioSrc": ".//audio/sw/0327/0327_sw_05.mp3"
+            "imageSrc": "./images/0327/0327_05.jpg",
+            "audioSrc": "./audio/sw/0327/0327_sw_05.mp3"
         },
         {
             "text": "Vyura wanane na samaki tisa wanaogelea kwenye maji.",
             "pagenum": 6,
-            "imageSrc": ".//images/0327/0327_06.jpg",
-            "audioSrc": ".//audio/sw/0327/0327_sw_06.mp3"
+            "imageSrc": "./images/0327/0327_06.jpg",
+            "audioSrc": "./audio/sw/0327/0327_sw_06.mp3"
         },
         {
             "text": "Simba mmoja anaunguruma. Naye anataka kunywa maji. Nani anamwogopa simba?",
             "pagenum": 7,
-            "imageSrc": ".//images/0327/0327_07.jpg",
-            "audioSrc": ".//audio/sw/0327/0327_sw_07.mp3"
+            "imageSrc": "./images/0327/0327_07.jpg",
+            "audioSrc": "./audio/sw/0327/0327_sw_07.mp3"
         },
         {
             "text": "Tembo mmoja anakunywa maji na simba.",
             "pagenum": 8,
-            "imageSrc": ".//images/0327/0327_08.jpg",
-            "audioSrc": ".//audio/sw/0327/0327_sw_08.mp3"
+            "imageSrc": "./images/0327/0327_08.jpg",
+            "audioSrc": "./audio/sw/0327/0327_sw_08.mp3"
         }
     ]
 }

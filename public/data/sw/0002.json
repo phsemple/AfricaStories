@@ -1,7 +1,7 @@
 {
     "id": "0002",
     "language": "sw",
-    "storyPath": ".//data/sw/0002.json",
+    "storyPath": "./data/sw/0002.json",
     "title": "Tazama wanyama",
     "illustrator": " Sandy Campbell",
     "writtenby": " Jenny Katz",
@@ -12,56 +12,56 @@
         {
             "text": "Tazama wanyama",
             "pagenum": 0,
-            "imageSrc": ".//images/0002/0002_00.jpg",
-            "audioSrc": ".//audio/sw/0002/0002_sw_00.mp3"
+            "imageSrc": "./images/0002/0002_00.jpg",
+            "audioSrc": "./audio/sw/0002/0002_sw_00.mp3"
         },
         {
             "text": "Tazama wanyama.",
             "pagenum": 1,
-            "imageSrc": ".//images/0002/0002_01.jpg",
-            "audioSrc": ".//audio/sw/0002/0002_sw_01.mp3"
+            "imageSrc": "./images/0002/0002_01.jpg",
+            "audioSrc": "./audio/sw/0002/0002_sw_01.mp3"
         },
         {
             "text": "Ng’ombe anasema, “Moo.”",
             "pagenum": 2,
-            "imageSrc": ".//images/0002/0002_02.jpg",
-            "audioSrc": ".//audio/sw/0002/0002_sw_02.mp3"
+            "imageSrc": "./images/0002/0002_02.jpg",
+            "audioSrc": "./audio/sw/0002/0002_sw_02.mp3"
         },
         {
             "text": "Mbuzi anasema, “Mee, mee.”",
             "pagenum": 3,
-            "imageSrc": ".//images/0002/0002_03.jpg",
-            "audioSrc": ".//audio/sw/0002/0002_sw_03.mp3"
+            "imageSrc": "./images/0002/0002_03.jpg",
+            "audioSrc": "./audio/sw/0002/0002_sw_03.mp3"
         },
         {
             "text": "Farasi anasema, “Nei.”",
             "pagenum": 4,
-            "imageSrc": ".//images/0002/0002_04.jpg",
-            "audioSrc": ".//audio/sw/0002/0002_sw_04.mp3"
+            "imageSrc": "./images/0002/0002_04.jpg",
+            "audioSrc": "./audio/sw/0002/0002_sw_04.mp3"
         },
         {
             "text": "Nguruwe anasema, “Ngruu.”",
             "pagenum": 5,
-            "imageSrc": ".//images/0002/0002_05.jpg",
-            "audioSrc": ".//audio/sw/0002/0002_sw_05.mp3"
+            "imageSrc": "./images/0002/0002_05.jpg",
+            "audioSrc": "./audio/sw/0002/0002_sw_05.mp3"
         },
         {
             "text": "Kuku anasema, “Ko, ko, ko.”",
             "pagenum": 6,
-            "imageSrc": ".//images/0002/0002_06.jpg",
-            "audioSrc": ".//audio/sw/0002/0002_sw_06.mp3"
+            "imageSrc": "./images/0002/0002_06.jpg",
+            "audioSrc": "./audio/sw/0002/0002_sw_06.mp3"
         },
         {
             "text": "Mbwa anasema, “Wouh, wouh.”",
             "pagenum": 7,
-            "imageSrc": ".//images/0002/0002_07.jpg",
-            "audioSrc": ".//audio/sw/0002/0002_sw_07.mp3"
+            "imageSrc": "./images/0002/0002_07.jpg",
+            "audioSrc": "./audio/sw/0002/0002_sw_07.mp3"
         },
         {
             "text": "Mkulima anasema, “Nyamaza!”",
             "pagenum": 8,
-            "imageSrc": ".//images/0002/0002_08.jpg",
-            "audioSrc": ".//audio/sw/0002/0002_sw_08.mp3"
+            "imageSrc": "./images/0002/0002_08.jpg",
+            "audioSrc": "./audio/sw/0002/0002_sw_08.mp3"
         }
     ]
 }

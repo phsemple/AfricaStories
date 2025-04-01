@@ -1,7 +1,7 @@
 {
     "id": "0003",
     "language": "sw",
-    "storyPath": ".//data/sw/0003.json",
+    "storyPath": "./data/sw/0003.json",
     "title": "Sare za shule",
     "illustrator": " Mlungisi Dlamini, Ingrid Schechter",
     "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
@@ -12,56 +12,56 @@
         {
             "text": "Sare za shule",
             "pagenum": 0,
-            "imageSrc": ".//images/0003/0003_00.jpg",
-            "audioSrc": ".//audio/sw/0003/0003_sw_00.mp3"
+            "imageSrc": "./images/0003/0003_00.jpg",
+            "audioSrc": "./audio/sw/0003/0003_sw_00.mp3"
         },
         {
             "text": "Gauni hili ni refu.",
             "pagenum": 1,
-            "imageSrc": ".//images/0003/0003_01.jpg",
-            "audioSrc": ".//audio/sw/0003/0003_sw_01.mp3"
+            "imageSrc": "./images/0003/0003_01.jpg",
+            "audioSrc": "./audio/sw/0003/0003_sw_01.mp3"
         },
         {
             "text": "Sweta hii ni kubwa.",
             "pagenum": 2,
-            "imageSrc": ".//images/0003/0003_02.jpg",
-            "audioSrc": ".//audio/sw/0003/0003_sw_02.mp3"
+            "imageSrc": "./images/0003/0003_02.jpg",
+            "audioSrc": "./audio/sw/0003/0003_sw_02.mp3"
         },
         {
             "text": "Mkoba huu ni mkubwa.",
             "pagenum": 3,
-            "imageSrc": ".//images/0003/0003_03.jpg",
-            "audioSrc": ".//audio/sw/0003/0003_sw_03.mp3"
+            "imageSrc": "./images/0003/0003_03.jpg",
+            "audioSrc": "./audio/sw/0003/0003_sw_03.mp3"
         },
         {
             "text": "Mkanda huu ni…",
             "pagenum": 4,
-            "imageSrc": ".//images/0003/0003_04.jpg",
-            "audioSrc": ".//audio/sw/0003/0003_sw_04.mp3"
+            "imageSrc": "./images/0003/0003_04.jpg",
+            "audioSrc": "./audio/sw/0003/0003_sw_04.mp3"
         },
         {
             "text": "Kofia hii ni ndogo.",
             "pagenum": 5,
-            "imageSrc": ".//images/0003/0003_05.jpg",
-            "audioSrc": ".//audio/sw/0003/0003_sw_05.mp3"
+            "imageSrc": "./images/0003/0003_05.jpg",
+            "audioSrc": "./audio/sw/0003/0003_sw_05.mp3"
         },
         {
             "text": "Soksi hizi ni fupi.",
             "pagenum": 6,
-            "imageSrc": ".//images/0003/0003_06.jpg",
-            "audioSrc": ".//audio/sw/0003/0003_sw_06.mp3"
+            "imageSrc": "./images/0003/0003_06.jpg",
+            "audioSrc": "./audio/sw/0003/0003_sw_06.mp3"
         },
         {
             "text": "Lakini viatu hivi ni vipya.",
             "pagenum": 7,
-            "imageSrc": ".//images/0003/0003_07.jpg",
-            "audioSrc": ".//audio/sw/0003/0003_sw_07.mp3"
+            "imageSrc": "./images/0003/0003_07.jpg",
+            "audioSrc": "./audio/sw/0003/0003_sw_07.mp3"
         },
         {
             "text": "…vinanitosha vizuri.",
             "pagenum": 8,
-            "imageSrc": ".//images/0003/0003_08.jpg",
-            "audioSrc": ".//audio/sw/0003/0003_sw_08.mp3"
+            "imageSrc": "./images/0003/0003_08.jpg",
+            "audioSrc": "./audio/sw/0003/0003_sw_08.mp3"
         }
     ]
 }

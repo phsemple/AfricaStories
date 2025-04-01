@@ -1,7 +1,7 @@
 {
     "id": "0231",
     "language": "en",
-    "storyPath": ".//data/en/0231.json",
+    "storyPath": "./data/en/0231.json",
     "title": "Weather book",
     "illustrator": " Sandra McDougall, Ingrid Schechter",
     "writtenby": " Clare Verbeek, Thembani Dladla, Zanele Buthelezi",
@@ -12,56 +12,56 @@
         {
             "text": "Weather book",
             "pagenum": 0,
-            "imageSrc": ".//images/0231/0231_00.jpg",
-            "audioSrc": ".//audio/en/0231/0231_en_00.mp3"
+            "imageSrc": "./images/0231/0231_00.jpg",
+            "audioSrc": "./audio/en/0231/0231_en_00.mp3"
         },
         {
             "text": "It is dry.",
             "pagenum": 1,
-            "imageSrc": ".//images/0231/0231_01.jpg",
-            "audioSrc": ".//audio/en/0231/0231_en_01.mp3"
+            "imageSrc": "./images/0231/0231_01.jpg",
+            "audioSrc": "./audio/en/0231/0231_en_01.mp3"
         },
         {
             "text": "The sun is hot.",
             "pagenum": 2,
-            "imageSrc": ".//images/0231/0231_02.jpg",
-            "audioSrc": ".//audio/en/0231/0231_en_02.mp3"
+            "imageSrc": "./images/0231/0231_02.jpg",
+            "audioSrc": "./audio/en/0231/0231_en_02.mp3"
         },
         {
             "text": "It is windy.",
             "pagenum": 3,
-            "imageSrc": ".//images/0231/0231_03.jpg",
-            "audioSrc": ".//audio/en/0231/0231_en_03.mp3"
+            "imageSrc": "./images/0231/0231_03.jpg",
+            "audioSrc": "./audio/en/0231/0231_en_03.mp3"
         },
         {
             "text": "It is cloudy.",
             "pagenum": 4,
-            "imageSrc": ".//images/0231/0231_04.jpg",
-            "audioSrc": ".//audio/en/0231/0231_en_04.mp3"
+            "imageSrc": "./images/0231/0231_04.jpg",
+            "audioSrc": "./audio/en/0231/0231_en_04.mp3"
         },
         {
             "text": "It is cold.",
             "pagenum": 5,
-            "imageSrc": ".//images/0231/0231_05.jpg",
-            "audioSrc": ".//audio/en/0231/0231_en_05.mp3"
+            "imageSrc": "./images/0231/0231_05.jpg",
+            "audioSrc": "./audio/en/0231/0231_en_05.mp3"
         },
         {
             "text": "It is raining.",
             "pagenum": 6,
-            "imageSrc": ".//images/0231/0231_06.jpg",
-            "audioSrc": ".//audio/en/0231/0231_en_06.mp3"
+            "imageSrc": "./images/0231/0231_06.jpg",
+            "audioSrc": "./audio/en/0231/0231_en_06.mp3"
         },
         {
             "text": "There is thunder.",
             "pagenum": 7,
-            "imageSrc": ".//images/0231/0231_07.jpg",
-            "audioSrc": ".//audio/en/0231/0231_en_07.mp3"
+            "imageSrc": "./images/0231/0231_07.jpg",
+            "audioSrc": "./audio/en/0231/0231_en_07.mp3"
         },
         {
             "text": "I see a rainbow.",
             "pagenum": 8,
-            "imageSrc": ".//images/0231/0231_08.jpg",
-            "audioSrc": ".//audio/en/0231/0231_en_08.mp3"
+            "imageSrc": "./images/0231/0231_08.jpg",
+            "audioSrc": "./audio/en/0231/0231_en_08.mp3"
         }
     ]
 }
