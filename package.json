@@ -7,7 +7,7 @@
     "devserver": "live-server public --port=3000 --no-browser",
     "watch:sass": "sass --watch public/sass/main.scss:public/styles/style.css",
     "dev": "npm-run-all --parallel watch:sass devserver ",
-    "start": "serve public -l tcp://0.0.0.0:${PORT} --single --no-clean-urls"
+    "start": "serve public -l tcp://0.0.0.0:${PORT}"
   },
   "author": "Patrick Harley Semple",
   "license": "ISC",
